@@ -291,8 +291,8 @@ def main(argv):
                 print 'step', count, '/', total, tem / (num_words * len(batch))
             losses.backward()
             trainer.update()
-            if count == 800 and i == 0:
-                bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/valid.primary.en' + str(i)+'_'+str(count))
+            if count == 400 and i == 0:
+                bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/valid.primary.en' + str(i) + '_' + str(count))
                 print 'Epoch', i, 'Valid', bleuscore
             count += 1
 

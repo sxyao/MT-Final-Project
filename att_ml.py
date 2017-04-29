@@ -5,12 +5,13 @@ import dynet as dy
 import codecs
 import nltk
 from data_path import *
+import argparse
 
 
 class Attention:
-    def __init__(self, model,training_src, training_tgt):
+    def __init__(self, model, training_src, training_tgt):
         self.model = model
-        self.training_src, self.src_vocab, self.rsrc_vocab= self.change_word2id_genevoc(training_src)
+        self.training_src, self.src_vocab, self.rsrc_vocab = self.change_word2id_genevoc(training_src)
         self.training_tgt, self.tgt_vocab, self.rtgt_vocab = self.change_word2id_genevoc_output(training_tgt)
         self.src_vocab_size = len(self.src_vocab)
         self.tgt_vocab_size = len(self.tgt_vocab)
@@ -19,7 +20,7 @@ class Attention:
         self.tgt_lookup = model.add_lookup_parameters((self.tgt_vocab_size, self.embed_size))
         self.hidden_size = 128
         self.layers = 1
-        self.contextsize = self.hidden_size*2
+        self.contextsize = self.hidden_size * 2
         self.l2r_builder = dy.GRUBuilder(self.layers, self.embed_size, self.hidden_size, model)
         self.r2l_builder = dy.GRUBuilder(self.layers, self.embed_size, self.hidden_size, model)
         self.dec_builder = dy.GRUBuilder(self.layers, self.embed_size+self.contextsize, self.hidden_size*2, model)
@@ -174,7 +175,6 @@ class Attention:
             fout.write(u' '.join(p_sen)+u'\n')
         fout.close()
 
-
     def change_word2id_genevoc(self,data):
         r_data = []
         vocab = defaultdict(lambda: len(vocab))
@@ -264,7 +264,7 @@ def main(argv):
     test_tgt = read_file(argv[6])
     batch_size = 64
     attention = Attention(model, training_src, training_tgt)
-    epoch_num = 10
+    epoch_num = 20
     train_data = zip(attention.training_src, attention.training_tgt)
 
     dev_src = attention.change_word2id(dev_src, attention.src_vocab)
@@ -286,31 +286,50 @@ def main(argv):
         attention.set_dropout(0.5)
         for batch in train_data:
             losses, num_words = attention.step_batch(batch)
-            if count % 5 == 0:
+            if count % 20 == 0:
                 tem = losses.value()
-                print 'step', count, '/', total, tem / (num_words * len(batch))
+                print 'Iter', count, '/', total, tem / (num_words * len(batch))
             losses.backward()
             trainer.update()
-            if count == 400 and i == 0:
-                bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/valid.primary.en' + str(i) + '_' + str(count))
-                print 'Epoch', i, 'Valid', bleuscore
             count += 1
 
         attention.disable_dropout()
-        bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/valid.primary.en' + str(i))
-        print 'Epoch', i, 'Valid', bleuscore
+        dev_fn = argv[4].split('/')[-1]
+        bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/' + dev_fn + '_' + str(i))
+        print 'Epoch', i + 1, 'Valid', bleuscore
 
-        if (i + 1) % 3 == 0 or i + 1 == epoch_num:
-            attention.model.save("grudp_model/m"+str(i),
+        if (i + 1) % 5 == 0 or i + 1 == epoch_num:
+            attention.model.save("grudp_model/m" + str(i + 1),
                                  [attention.src_lookup, attention.tgt_lookup, attention.l2r_builder,
                                   attention.r2l_builder, attention.dec_builder, attention.W_y, attention.b_y])
-            test_bleu = attention.evaluate(test_src, test_tgt, 'grudp_output/test.primary.en'+str(i))
-            print 'Epoch', i, 'Test', test_bleu
+        test_fn = argv[6].split('/')[-1]
+        test_bleu = attention.evaluate(test_src, test_tgt, 'grudp_output/' + test_fn + '_' + str(i))
+        print 'Epoch', i + 1, 'Test', test_bleu
+
+
+def test_single():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-src', type=str, default='de')
+    parser.add_argument('-tgt', type=str, default='en')
+    args = parser.parse_args()
+    fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'de': 'german'}
+    if args.src in fulls:
+        args.src = fulls[args.src]
+    if args.tgt in fulls:
+        args.tgt = fulls[args.tgt]
+
+    splits = {('czech', 'english'): cs_en_split, ('czech', 'german'): cs_de_split, ('czech', 'french'): cs_fr_split,
+              ('english', 'czech'): cs_en_split, ('german', 'czech'): cs_de_split, ('french', 'czech'): cs_fr_split,
+              ('english', 'german'): de_en_split, ('german', 'english'): de_en_split,
+              ('english', 'french'): fr_en_split, ('french', 'english'): fr_en_split,
+              ('german', 'french'): de_fr_split, ('french', 'german'): de_fr_split}
+    spl = splits[(args.src, args.tgt)]
+    argv = ['',
+            spl[args.src]['train'], spl[args.tgt]['train'],
+            spl[args.src]['valid'], spl[args.tgt]['valid'],
+            spl[args.src]['test'], spl[args.tgt]['test']]
+    main(argv)
 
 
 if __name__ == '__main__':
-    argv = ['',
-            cs_en_split['czech']['train'], cs_en_split['english']['train'],
-            cs_en_split['czech']['valid'], cs_en_split['english']['valid'],
-            cs_en_split['czech']['test'], cs_en_split['english']['test']]
-    main(argv)
+    test_single()

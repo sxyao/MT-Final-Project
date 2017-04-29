@@ -1,0 +1,37 @@
+nohup: ignoring input
+[dynet] initializing CUDA
+[dynet] Request for 1 specific GPU ...
+[dynet] Device Number: 2
+[dynet]   Device name: GeForce GTX TITAN X
+[dynet]   Memory Clock Rate (KHz): 3505000
+[dynet]   Memory Bus Width (bits): 384
+[dynet]   Peak Memory Bandwidth (GB/s): 336.48
+[dynet]   Memory Free (GB): 6.12513/12.7996
+[dynet]
+[dynet] Device(s) selected: 2
+[dynet] random seed: 145224294
+[dynet] allocating memory: 3000MB
+[dynet] memory allocation done.
+Epoch 1
+Iter 50 / 4170 6.99633506492
+Iter 100 / 4170 6.98381639564
+Iter 150 / 4170 6.67534558526
+Iter 200 / 4170 6.48749248798
+Iter 250 / 4170 6.48002842494
+Iter 300 / 4170 5.75981445313
+Iter 350 / 4170 6.50976839933
+Iter 400 / 4170 6.37069988251
+Iter 450 / 4170 6.45688716701
+Iter 500 / 4170 6.44384507275
+Iter 550 / 4170 6.45648145676
+Iter 600 / 4170 6.3372768826
+Iter 650 / 4170 6.18843005952
+Iter 700 / 4170 5.93812266567
+Iter 750 / 4170 6.65828647898
+Iter 800 / 4170 6.36432713638
+Iter 850 / 4170 6.4807800293
+Iter 900 / 4170 6.45778297891
+Iter 950 / 4170 5.57704275626
+Iter 1000 / 4170 6.42512928356
+Iter 1050 / 4170 6.54477119446
+Iter 1100 / 4170 6.20199325237

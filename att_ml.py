@@ -282,13 +282,13 @@ def main(argv):
         print 'Epoch ' + str(i + 1)
         np.random.shuffle(train_data)
         count = 1
-
+        total = len(train_data)
         attention.set_dropout(0.5)
         for batch in train_data:
             losses, num_words = attention.step_batch(batch)
             if count % 5 == 0:
                 tem = losses.value()
-                print 'step', count, tem / (num_words * len(batch))
+                print 'step', count, '/', total, tem / (num_words * len(batch))
             losses.backward()
             trainer.update()
             if count == 800 and i == 0:

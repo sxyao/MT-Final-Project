@@ -286,7 +286,7 @@ def main(argv):
         attention.set_dropout(0.5)
         for batch in train_data:
             losses, num_words = attention.step_batch(batch)
-            if count % 20 == 0:
+            if count % 50 == 0:
                 tem = losses.value()
                 print 'Iter', count, '/', total, tem / (num_words * len(batch))
             losses.backward()
@@ -311,6 +311,8 @@ def test_single():
     parser = argparse.ArgumentParser()
     parser.add_argument('-src', type=str, default='de')
     parser.add_argument('-tgt', type=str, default='en')
+    parser.add_argument('--dynet-mem', type=int, default=3000)
+    parser.add_argument('--dynet-gpu-ids', type=int)
     args = parser.parse_args()
     fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'de': 'german'}
     if args.src in fulls:

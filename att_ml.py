@@ -272,10 +272,11 @@ def main(argv):
 
     train_data = divide_batch(train_data, batch_size)
 
+    '''
     attention.disable_dropout()
     bleuscore = attention.evaluate(dev_src, dev_tgt, 'rnn_output/valid.primary.en')
     print 'Epoch 0', 'Valid', bleuscore
-    print 'Epoch ' + str(0) + ' Valid ' + str(bleuscore)
+    print 'Epoch ' + str(0) + ' Valid ' + str(bleuscore)'''
 
     for i in xrange(epoch_num):
         print 'Epoch ' + str(i + 1)

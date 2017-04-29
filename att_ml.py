@@ -241,7 +241,7 @@ def read_file(filename):
     return data
 
 
-def divide_batch(data,batch_size):
+def divide_batch(data, batch_size):
     lendict = defaultdict(list)
     for item in data:
         lendict[(len(item[0]), len(item[1]))].append(item)

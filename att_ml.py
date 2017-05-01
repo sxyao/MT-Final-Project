@@ -51,8 +51,8 @@ class Attention:
         l2r_contexts = []
         r2l_contexts = []
         for (cw_l2r, cw_r2l) in zip(src_sent, src_sent_rev):
-            l2r_state = l2r_state.add_input(dy.lookup_batch(M_s,cw_l2r))
-            r2l_state = r2l_state.add_input(dy.lookup_batch(M_s,cw_r2l))
+            l2r_state = l2r_state.add_input(dy.lookup_batch(M_s, cw_l2r))
+            r2l_state = r2l_state.add_input(dy.lookup_batch(M_s, cw_r2l))
             l2r_contexts.append(l2r_state.output())  # [<S>, x_1, x_2, ..., </S>]
             r2l_contexts.append(r2l_state.output())  # [</S> x_n, x_{n-1}, ... <S>]
 
@@ -397,19 +397,19 @@ def test_one_to_many():
 
 def test_many_to_many():
 
-    training_src = read_file(cs_en_split['english']['train'], '<2cs>')[:50000]
-    training_src += read_file(de_en_split['english']['train'], '<2de>')[:50000]
-    training_src += read_file(fr_en_split['english']['train'], '<2fr>')[:50000]
-    training_src += read_file(cs_en_split['czech']['train'], '<2en>')[:50000]
-    training_src += read_file(de_en_split['german']['train'], '<2en>')[:50000]
-    training_src += read_file(fr_en_split['french']['train'], '<2en>')[:50000]
+    training_src = read_file(cs_en_split['english']['train'], '<2cs>')
+    training_src += read_file(de_en_split['english']['train'], '<2de>')
+    training_src += read_file(fr_en_split['english']['train'], '<2fr>')
+    training_src += read_file(cs_en_split['czech']['train'], '<2en>')
+    training_src += read_file(de_en_split['german']['train'], '<2en>')
+    training_src += read_file(fr_en_split['french']['train'], '<2en>')
 
-    training_tgt = read_file(cs_en_split['czech']['train'])[:50000]
-    training_tgt += read_file(de_en_split['german']['train'])[:50000]
-    training_tgt += read_file(fr_en_split['french']['train'])[:50000]
-    training_tgt += read_file(cs_en_split['english']['train'])[:50000]
-    training_tgt += read_file(de_en_split['english']['train'])[:50000]
-    training_tgt += read_file(fr_en_split['english']['train'])[:50000]
+    training_tgt = read_file(cs_en_split['czech']['train'])
+    training_tgt += read_file(de_en_split['german']['train'])
+    training_tgt += read_file(fr_en_split['french']['train'])
+    training_tgt += read_file(cs_en_split['english']['train'])
+    training_tgt += read_file(de_en_split['english']['train'])
+    training_tgt += read_file(fr_en_split['english']['train'])
 
     dev_src = read_file(cs_en_split['english']['valid'], '<2cs>')
     dev_src += read_file(de_en_split['english']['valid'], '<2de>')

@@ -354,9 +354,9 @@ def test_single():
 
 def test_one_to_many():
 
-    training_src = read_file(cs_en_split['english']['train'], '<2cs>')
-    training_src += read_file(de_en_split['english']['train'], '<2de>')
-    training_src += read_file(fr_en_split['english']['train'], '<2fr>')
+    training_src = read_file(cs_en_split['english']['train'], '<2cs>')[:1000]
+    training_src += read_file(de_en_split['english']['train'], '<2de>')[:1000]
+    training_src += read_file(fr_en_split['english']['train'], '<2fr>')[:1000]
     training_tgt = read_file(cs_en_split['czech']['train'])
     training_tgt += read_file(de_en_split['german']['train'])
     training_tgt += read_file(fr_en_split['french']['train'])
@@ -383,10 +383,12 @@ def test_one_to_many():
     test_tgt += read_file(fr_en_split['french']['test'])
     test_ends.append(len(test_tgt))
 
-    dev_out = [cs_en_split['czech']['valid'].split('/')[-1], de_en_split['german']['valid'].split('/')[-1],
-               fr_en_split['french']['valid'].split('/')[-1]]
-    test_out = [cs_en_split['czech']['test'].split('/')[-1], de_en_split['german']['test'].split('/')[-1],
-                fr_en_split['french']['test'].split('/')[-1]]
+    dev_out = [cs_en_split['czech']['valid'].split('/')[-1] + '_o2m',
+               de_en_split['german']['valid'].split('/')[-1] + '_o2m',
+               fr_en_split['french']['valid'].split('/')[-1] + '_o2m']
+    test_out = [cs_en_split['czech']['test'].split('/')[-1] + '_o2m',
+                de_en_split['german']['test'].split('/')[-1] + '_o2m',
+                fr_en_split['french']['test'].split('/')[-1] + '_o2m']
     argv = ['',
             training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
             dev_out, test_out, dev_ends, test_ends]

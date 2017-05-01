@@ -233,10 +233,12 @@ class Attention:
         self.dec_builder.disable_dropout()
 
 
-def read_file(filename):
+def read_file(filename, tag=None):
     data = []
-    for line in codecs.open(filename,'r','utf-8'):
+    for line in codecs.open(filename, 'r', 'utf-8'):
         words = line[:-1].split(u' ')
+        if tag is not None:
+            words = [tag] + words
         data.append(words)
     return data
 
@@ -256,12 +258,16 @@ def divide_batch(data, batch_size):
 def main(argv):
     model = dy.Model()
     trainer = dy.AdamTrainer(model)
-    training_src = read_file(argv[1])
-    training_tgt = read_file(argv[2])
-    dev_src = read_file(argv[3])
-    dev_tgt = read_file(argv[4])
-    test_src = read_file(argv[5])
-    test_tgt = read_file(argv[6])
+    training_src = argv[1]
+    training_tgt = argv[2]
+    dev_src = argv[3]
+    dev_tgt = argv[4]
+    test_src = argv[5]
+    test_tgt = argv[6]
+    dev_out = argv[7]
+    test_out = argv[8]
+    dev_ends = argv[9]
+    test_ends = argv[10]
     batch_size = 64
     attention = Attention(model, training_src, training_tgt)
     epoch_num = 20
@@ -271,12 +277,6 @@ def main(argv):
     test_src = attention.change_word2id(test_src, attention.src_vocab)
 
     train_data = divide_batch(train_data, batch_size)
-
-    '''
-    attention.disable_dropout()
-    bleuscore = attention.evaluate(dev_src, dev_tgt, 'rnn_output/valid.primary.en')
-    print 'Epoch 0', 'Valid', bleuscore
-    print 'Epoch ' + str(0) + ' Valid ' + str(bleuscore)'''
 
     for i in xrange(epoch_num):
         print 'Epoch ' + str(i + 1)
@@ -294,17 +294,34 @@ def main(argv):
             count += 1
 
         attention.disable_dropout()
-        dev_fn = argv[4].split('/')[-1]
-        bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/' + dev_fn + '_' + str(i))
-        print 'Epoch', i + 1, 'Valid', bleuscore
+        if dev_ends is None:
+            bleuscore = attention.evaluate(dev_src, dev_tgt, 'grudp_output/' + dev_out + '_' + str(i))
+            print 'Epoch', i + 1, 'Valid', bleuscore
 
-        if (i + 1) % 5 == 0 or i + 1 == epoch_num:
-            attention.model.save("grudp_model/m" + str(i + 1),
-                                 [attention.src_lookup, attention.tgt_lookup, attention.l2r_builder,
-                                  attention.r2l_builder, attention.dec_builder, attention.W_y, attention.b_y])
-        test_fn = argv[6].split('/')[-1]
-        test_bleu = attention.evaluate(test_src, test_tgt, 'grudp_output/' + test_fn + '_' + str(i))
-        print 'Epoch', i + 1, 'Test', test_bleu
+            test_bleu = attention.evaluate(test_src, test_tgt, 'grudp_output/' + test_out + '_' + str(i))
+            print 'Epoch', i + 1, 'Test', test_bleu
+        else:
+            start = 0
+            for i, end in enumerate(dev_ends):
+                bleuscore = attention.evaluate(dev_src[start: end], dev_tgt[start: end],
+                                               'grudp_output/' + dev_out[i] + '_' + str(i))
+                print 'Epoch', i + 1, 'Valid', bleuscore
+                start = end
+
+            start = 0
+            for i, end in enumerate(test_ends):
+                test_bleu = attention.evaluate(test_src[start: end], test_tgt[start: end],
+                                               'grudp_output/' + test_out[i] + '_' + str(i))
+                print 'Epoch', i + 1, 'Test', test_bleu
+                start = end
+
+
+splits = {('czech', 'english'): cs_en_split, ('czech', 'german'): cs_de_split, ('czech', 'french'): cs_fr_split,
+          ('english', 'czech'): cs_en_split, ('german', 'czech'): cs_de_split, ('french', 'czech'): cs_fr_split,
+          ('english', 'german'): de_en_split, ('german', 'english'): de_en_split,
+          ('english', 'french'): fr_en_split, ('french', 'english'): fr_en_split,
+          ('german', 'french'): de_fr_split, ('french', 'german'): de_fr_split}
+fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'de': 'german'}
 
 
 def test_single():
@@ -320,18 +337,61 @@ def test_single():
     if args.tgt in fulls:
         args.tgt = fulls[args.tgt]
 
-    splits = {('czech', 'english'): cs_en_split, ('czech', 'german'): cs_de_split, ('czech', 'french'): cs_fr_split,
-              ('english', 'czech'): cs_en_split, ('german', 'czech'): cs_de_split, ('french', 'czech'): cs_fr_split,
-              ('english', 'german'): de_en_split, ('german', 'english'): de_en_split,
-              ('english', 'french'): fr_en_split, ('french', 'english'): fr_en_split,
-              ('german', 'french'): de_fr_split, ('french', 'german'): de_fr_split}
     spl = splits[(args.src, args.tgt)]
+    training_src = read_file(spl[args.src]['train'])
+    training_tgt = read_file(spl[args.tgt]['train'])
+    dev_src = read_file(spl[args.src]['valid'])
+    dev_tgt = read_file(spl[args.tgt]['valid'])
+    test_src = read_file(spl[args.src]['test'])
+    test_tgt = read_file(spl[args.tgt]['test'])
+    dev_out = spl[args.tgt]['valid'].split('/')[-1]
+    test_out = spl[args.tgt]['test'].split('/')[-1]
     argv = ['',
-            spl[args.src]['train'], spl[args.tgt]['train'],
-            spl[args.src]['valid'], spl[args.tgt]['valid'],
-            spl[args.src]['test'], spl[args.tgt]['test']]
+            training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
+            dev_out, test_out, None, None]
+    main(argv)
+
+
+def test_one_to_many():
+
+    training_src = read_file(cs_en_split['english']['train'], '<2cs>')
+    training_src += read_file(de_en_split['english']['train'], '<2de>')
+    training_src += read_file(fr_en_split['english']['train'], '<2fr>')
+    training_tgt = read_file(cs_en_split['czech']['train'])
+    training_tgt += read_file(de_en_split['german']['train'])
+    training_tgt += read_file(fr_en_split['french']['train'])
+
+    dev_src = read_file(cs_en_split['english']['valid'], '<2cs>')
+    dev_src += read_file(de_en_split['english']['valid'], '<2de>')
+    dev_src += read_file(fr_en_split['english']['valid'], '<2fr>')
+    dev_ends = []
+    dev_tgt = read_file(cs_en_split['czech']['valid'])
+    dev_ends.append(len(dev_tgt))
+    dev_tgt += read_file(de_en_split['german']['valid'])
+    dev_ends.append(len(dev_tgt))
+    dev_tgt += read_file(fr_en_split['french']['valid'])
+    dev_ends.append(len(dev_tgt))
+
+    test_src = read_file(cs_en_split['english']['test'], '<2cs>')
+    test_src += read_file(de_en_split['english']['test'], '<2de>')
+    test_src += read_file(fr_en_split['english']['test'], '<2fr>')
+    test_ends = []
+    test_tgt = read_file(cs_en_split['czech']['test'])
+    test_ends.append(len(test_tgt))
+    test_tgt += read_file(de_en_split['german']['test'])
+    test_ends.append(len(test_tgt))
+    test_tgt += read_file(fr_en_split['french']['test'])
+    test_ends.append(len(test_tgt))
+
+    dev_out = [cs_en_split['czech']['valid'].split('/')[-1], de_en_split['german']['valid'].split('/')[-1],
+               fr_en_split['french']['valid'].split('/')[-1]]
+    test_out = [cs_en_split['czech']['test'].split('/')[-1], de_en_split['german']['test'].split('/')[-1],
+                fr_en_split['french']['test'].split('/')[-1]]
+    argv = ['',
+            training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
+            dev_out, test_out, dev_ends, test_ends]
     main(argv)
 
 
 if __name__ == '__main__':
-    test_single()
+    test_one_to_many()

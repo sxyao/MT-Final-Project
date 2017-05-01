@@ -268,7 +268,7 @@ def main(argv):
     test_out = argv[8]
     dev_ends = argv[9]
     test_ends = argv[10]
-    batch_size = 64
+    batch_size = 256
     attention = Attention(model, training_src, training_tgt)
     epoch_num = 20
     train_data = zip(attention.training_src, attention.training_tgt)
@@ -302,16 +302,16 @@ def main(argv):
             print 'Epoch', i + 1, 'Test', test_bleu
         else:
             start = 0
-            for i, end in enumerate(dev_ends):
+            for j, end in enumerate(dev_ends):
                 bleuscore = attention.evaluate(dev_src[start: end], dev_tgt[start: end],
-                                               'grudp_output/' + dev_out[i] + '_' + str(i))
+                                               'grudp_output/' + dev_out[j] + '_' + str(i))
                 print 'Epoch', i + 1, 'Valid', bleuscore
                 start = end
 
             start = 0
-            for i, end in enumerate(test_ends):
+            for j, end in enumerate(test_ends):
                 test_bleu = attention.evaluate(test_src[start: end], test_tgt[start: end],
-                                               'grudp_output/' + test_out[i] + '_' + str(i))
+                                               'grudp_output/' + test_out[j] + '_' + str(i))
                 print 'Epoch', i + 1, 'Test', test_bleu
                 start = end
 
@@ -354,9 +354,9 @@ def test_single():
 
 def test_one_to_many():
 
-    training_src = read_file(cs_en_split['english']['train'], '<2cs>')[:1000]
-    training_src += read_file(de_en_split['english']['train'], '<2de>')[:1000]
-    training_src += read_file(fr_en_split['english']['train'], '<2fr>')[:1000]
+    training_src = read_file(cs_en_split['english']['train'], '<2cs>')
+    training_src += read_file(de_en_split['english']['train'], '<2de>')
+    training_src += read_file(fr_en_split['english']['train'], '<2fr>')
     training_tgt = read_file(cs_en_split['czech']['train'])
     training_tgt += read_file(de_en_split['german']['train'])
     training_tgt += read_file(fr_en_split['french']['train'])

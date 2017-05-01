@@ -268,7 +268,7 @@ def main(argv):
     test_out = argv[8]
     dev_ends = argv[9]
     test_ends = argv[10]
-    batch_size = 128
+    batch_size = 64
     attention = Attention(model, training_src, training_tgt)
     epoch_num = 20
     train_data = zip(attention.training_src, attention.training_tgt)

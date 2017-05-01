@@ -397,19 +397,19 @@ def test_one_to_many():
 
 def test_many_to_many():
 
-    training_src = read_file(cs_en_split['english']['train'], '<2cs>')
-    training_src += read_file(de_en_split['english']['train'], '<2de>')
-    training_src += read_file(fr_en_split['english']['train'], '<2fr>')
-    training_src += read_file(cs_en_split['czech']['train'], '<2en>')
-    training_src += read_file(de_en_split['german']['train'], '<2en>')
-    training_src += read_file(fr_en_split['french']['train'], '<2en>')
+    training_src = read_file(cs_en_split['english']['train'], '<2cs>')[:50000]
+    training_src += read_file(de_en_split['english']['train'], '<2de>')[:50000]
+    training_src += read_file(fr_en_split['english']['train'], '<2fr>')[:50000]
+    training_src += read_file(cs_en_split['czech']['train'], '<2en>')[:50000]
+    training_src += read_file(de_en_split['german']['train'], '<2en>')[:50000]
+    training_src += read_file(fr_en_split['french']['train'], '<2en>')[:50000]
 
-    training_tgt = read_file(cs_en_split['czech']['train'])
-    training_tgt += read_file(de_en_split['german']['train'])
-    training_tgt += read_file(fr_en_split['french']['train'])
-    training_tgt += read_file(cs_en_split['english']['train'])
-    training_tgt += read_file(de_en_split['english']['train'])
-    training_tgt += read_file(fr_en_split['english']['train'])
+    training_tgt = read_file(cs_en_split['czech']['train'])[:50000]
+    training_tgt += read_file(de_en_split['german']['train'])[:50000]
+    training_tgt += read_file(fr_en_split['french']['train'])[:50000]
+    training_tgt += read_file(cs_en_split['english']['train'])[:50000]
+    training_tgt += read_file(de_en_split['english']['train'])[:50000]
+    training_tgt += read_file(fr_en_split['english']['train'])[:50000]
 
     dev_src = read_file(cs_en_split['english']['valid'], '<2cs>')
     dev_src += read_file(de_en_split['english']['valid'], '<2de>')

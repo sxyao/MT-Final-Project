@@ -29,7 +29,7 @@ class Attention:
         self.b_y = model.add_parameters(self.tgt_vocab_size)
 
         self.attention_size = 128
-        self.W1_att_e = self.model.add_parameters((self.attention_size, self.hidden_size))
+        self.W1_att_e = self.model.add_parameters((self.attention_size, 2 * self.hidden_size))
         self.W1_att_f = self.model.add_parameters((self.attention_size, 2 * self.hidden_size))
         self.w2_att = self.model.add_parameters((1, self.attention_size))
 

@@ -41,6 +41,8 @@ def sample(origin, split, src_lang, tgt_lang, n_train=100000, n_val=1000, n_test
         src_sents.append(src_sent)
         tgt_sents.append(tgt_sent)
 
+    print len(src_sents), len(tgt_sents)
+
     sents = zip(src_sents, tgt_sents)
     random.shuffle(sents)
 

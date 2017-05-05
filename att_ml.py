@@ -39,6 +39,8 @@ class Attention:
         # H_f_batch: (2 * hidden_size, num_step, batch_size)
         # h_e_batch: (hidden_size, batch_size)
         print 'a'
+        print W1_att_f.npvalue().shape, H_f_batch.npvalue().shape
+        print W1_att_e.npvalue().shape, h_e_batch.npvalue().shape
         a_t_batch = dy.tanh(dy.colwise_add(W1_att_f * H_f_batch, W1_att_e * h_e_batch)) # (attention_size, num_step, batch_size)
         print 'b'
         a_t_batch = w2_att * a_t_batch  # (1, num_step, batch_size)

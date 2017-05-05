@@ -58,7 +58,7 @@ class Attention:
 
     # Training step over a single sentence pair
     def step_batch(self, batch):
-        print batch
+        print 'batch len', len(batch)
         dy.renew_cg()
 
         W_y = dy.parameter(self.W_y)
@@ -70,6 +70,7 @@ class Attention:
         M_s = self.src_lookup
         M_t = self.tgt_lookup
         src_sent, tgt_sent = zip(*batch)
+        print src_sent, tgt_sent
         src_sent = zip(*src_sent)
         tgt_sent = zip(*tgt_sent)
         src_sent_rev = list(reversed(src_sent))

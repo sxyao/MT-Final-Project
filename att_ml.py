@@ -38,19 +38,11 @@ class Attention:
     def __attention_mlp_batch(self, H_f_batch, h_e_batch, W1_att_e, W1_att_f, w2_att):
         # H_f_batch: (2 * hidden_size, num_step, batch_size)
         # h_e_batch: (hidden_size, batch_size)
-        print 'a'
-        print W1_att_f.npvalue().shape, H_f_batch.npvalue().shape
-        print W1_att_e.npvalue().shape, h_e_batch.npvalue().shape
         a_t_batch = dy.tanh(dy.colwise_add(W1_att_f * H_f_batch, W1_att_e * h_e_batch)) # (attention_size, num_step, batch_size)
-        print 'b'
         a_t_batch = w2_att * a_t_batch  # (1, num_step, batch_size)
-        print 'c'
         a_t_batch = a_t_batch[0]  # (num_step, batch_size)
-        print 'd'
         alignment_batch = dy.softmax(a_t_batch)  # (num_step, batch_size)
-        print 'e'
         c_t_batch = H_f_batch * alignment_batch  # (2 * hidden_size, batch_size)
-        print 'f'
         return c_t_batch
 
     def __attention_mlp(self, H_f, h_e, W1_att_e, W1_att_f, w2_att):
@@ -65,7 +57,6 @@ class Attention:
 
     # Training step over a single sentence pair
     def step_batch(self, batch):
-        print 'batch len', len(batch)
         dy.renew_cg()
 
         W_y = dy.parameter(self.W_y)
@@ -106,7 +97,6 @@ class Attention:
         encoded_h = h_fs[-1]
 
         h_fs_matrix = dy.concatenate_cols(h_fs)
-        print h_fs_matrix.npvalue().shape
         # h_fs_matrix_t = dy.transpose(h_fs_matrix)
 
         losses = []

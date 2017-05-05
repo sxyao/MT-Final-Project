@@ -1,1000 +1,1000 @@
-jedná se o jistou formu populismu : ukazuje se tím , že slavní lidé nejsou o nic lepší než my – a zvyšuje to počet prodaných výtisků novin ( anebo v současnosti počet čtenářů na internetu ) .
-navíc přísnější úvěrové standardy platné po delší dobu pravděpodobně neúměrně dolehnou na rychle rostoucí firmy s nedostatkem hotovosti , což bude mít důsledky pro inovace , produktivitu a v posledku růstový potenciál .
-demokratické principy vyžadují , aby společnost byla uspořádána způsobem , který obě hodnoty realizuje největší možnou měrou .
-jak vymýtit mušarafova ducha
-tento přístup je neslučitelný s otevřenou společností , koncepcí založenou na poznání , že nikdo nemá absolutní pravdu .
-jednotlivé státy pak vzájemně podlehly konkurenčnímu boji o zahraniční investory .
-nepostradatelnými partnery trýznitelů , jejichž práci měli zajistit právní beztrestnost , byli bushovi právníci .
-existuje riziko , že vědecké ústavy degenerují v jakási léna kontrolovaná vědeckými byrokraty , kteří ovládají katedry a laboratoře hlavních univerzit financovaných státem .
-to však vyžaduje reformu a rozšíření přístupu k & terciárnímu vzdělávání .
-filipínského prezidenta estradu , který svůj úřad nikdy nezastával dobře , sesadil v poklidném převratu sám lid země .
-že podobný přístup je dnes nemyslitelný ?
-odpověď nalezneme ve studiu molekul , tvořících geny , uvnitř kterých probíhají mutace , jež prodlužují délku života .
-nesmíme dopustit , aby blízkovýchodní požáry odvedly pozornost světa od hrozby , již představují jaderné ambice severní koreje , která je demonstrovala nedávnou zkouškou rakety dlouhého doletu .
-totalitní a autoritářské režimy pomalu mizí ze zemského povrchu .
-vlády si myslí , že tento proces můžeme zastavit záplavou peněz , ale existuje mnoho důvodů k přesvědčení , že to nezabere .
-ceny městských pozemků v největších japonských městech vytrvale klesají po většinu období od roku 1991 , neboť obrovská víra v zázračné schopnosti japonského kapitalismu postupně opadla .
-obchod a kulturní výměna vzkvétala .
-krize aids v číně
-ruská armáda dnes nemá žádnou profesionální instituci pro výcvik poddůstojníků .
-nevzdělané děti budou pro společnost zátěží po celá příští desetiletí .
-jinde ( usa ) se ztráty ututlaly značnou dávkou regulatorní „zdrženlivosti“ ( tj . svolnosti hledět stranou , dokud si banky zobchodováním cenných papírů neobnoví kapitál ) .
-jenže i přes obludnost této události ji my neustále odmítáme .
-ačkoliv usa uplatňují tradiční mocenská opatření dobře , tato opatření stále častěji nedokážou postihnout velkou část toho , co definuje světovou politiku . ta se vzhledem k informační revoluci a globalizaci mění způsobem , který američanům brání v dosahování vlastních mezinárodních cílů osamoceným postupem .
-záhada čínského směnného kurzu
-a pokud ceny nemovitostí a hypotečních cenných papírů jen neklesnou , ale zřítí se , všichni bychom si měli připomenout , že zaměstnanost ve stavebnictví se snižuje rychleji , než zaměstnanost v oblasti obchodovatelného zboží dokáže růst .
-takový výzkum ale rovněž může vnést trochu světla do toho , zda je současná zcela mimořádná expanze amerického hospodářství , která již trvá bez jediného přerušení plných devět posledních let , prostě jen poněkud prodlouženým zábleskem štěstí či představuje vliv nové technologické revoluce , velmi podobný tomu , ke kterému došlo v konci 19. století , a který nejlépe dokládá například rozšíření elektřiny .
-bohužel platí , že když dojde na politiku vydávanou za boj proti globálnímu oteplování , ochranu životního prostředí nebo tvorbu „zelených pracovních míst“ , máme sklon činit uspěchaná rozhodnutí , která nevyhovují kritériím .
-nejpřesvědčivější způsob , jak toho dosáhnout , je umírnit přehnanou touhu spojených států po moci , kterou demonstrovaly v iráku .
-před pětatřiceti lety přislíbili , že chudým zemím věnují 0,7 % svého hnp jako rozvojovou pomoc .
-pro usa představuje osm ostatních členů tpp , s & # 160 ; celkovým počtem obyvatel dosahujícím 200 milionů , čtvrtý největší exportní trh , hned za čínou , evropskou unií a japonskem .
-záludná obchodní dohoda
-čili berte dary , ale nedávejte na oplátku svůj hlas !
-a bez náležitě fungujících občanských soudů neexistuje záruka , že se novátorští podnikatelé domohou odměny za své nápady .
-ekonomické přínosy budou značné jak pro rozvojový svět ( větší objem peněz posílaných domů , ale i více příležitostí k učení a získávání zkušeností ) , tak pro bohaté země ( mladší , dynamická a často i podnikavější pracovní síla ) ;
-čím déle bude americkým politikům trvat , než otázku dluhového stropu vyřeší , tím větší bude riziko neúmyslné havárie .
-epidemiologické statistiky jsou sice alarmující , ale míra úmrtnosti se v posledních týdnech snížila z 7,6 % na 3,6 % .
-dát šanci demokratům , jako je obasanjo a wahid , aby své země udrželi pohromadě , tedy nejenže pomůže odvrátit nesmírné utrpení , ale může zároveň být věcí vlastního zájmu .
-jde o dobrou zprávu i pro obamovu vládu , která se obávala regionálního zádrhele krátce po historickém projevu , jejž obama pronesl 4. června v káhiře .
-den osvobození
-na jedné straně potřebuje maximalizovat kontrolu nad ekonomikou a společností , aby zvyšoval mzdy a penze a držel oponenty mimo hru , a zároveň pečovat o dalekosáhlou pravomoc jmenovat kandidáty do úřadů , která jej drží u moci .
-to neodráží skrupule , nýbrž názor , že selhání státu a genocida mohou vést k destabilizačním přílivům uprchlíků a vytvářet mezery , v nichž se uchytí teroristé .
-zkušenost s cpe neprokazuje , že reforma je nemožná , nýbrž že ji nelze jednostranně uvalit .
-souhlasem s přijetím standardu výměny informací stanoveného v článku 26 modelové daňové úmluvy oecd teď švýcarsko administrativní pomoc rozšíří tak , že bude zahrnovat všechny daňové delikty , včetně daňových úniků .
-demokracie možná je nedokonalá , ale ve srovnání s ostatními zřízeními zůstává stále nejlepším nástrojem pružného a efektivního přizpůsobení se světu .
-debaty vlád , ekonomů a nevládních organizací o tom , kolik užitku mají chudí tohoto světa z ekonomického růstu , jako by nebraly konce .
-rovnováha teroru ze sovětských dob ustoupila ve prospěch ruska jednostranné energetické závislosti .
-informační asymetrie jsou úzce spojeny s asymetriemi ekonomické ( tržní ) síly .
-turecký reformní proces ukazuje , že druhá možnost není pro země v této oblasti nevyhnutelným osudem .
-všeobecně se věří , že tung byl buď vyhozen , nebo donucen k odchodu .
-„slzy tohoto století se staly základem nového pramene lidského ducha , “ prohlásil jan pavel ii . během své poslední návštěvy osn .
-má-li se některá interní nevyváženost eu napravit , schodkové země musí přijmout reálné úbytky výstupu , zatímco přebytkové země si mohou svá tempa růstu zachovat , nebo je dokonce posílit .
-možná je toto jeden z důvodů , proč se mnozí lidé ve střední a východní evropě domnívají , že fondy eu jsou sice užitečné , ale mají menší význam než možnost být součástí sjednocené evropy s rozšířenými příležitostmi , které vyplývají z jejích společných pravidel .
-tento přístup ale nedokáže odpovědět na zásadní otázku : co když tato konstrukce nebude fungovat ?
-v dubnu zahájila osn ve spolupráci s vládami , podniky , nadacemi a organizacemi občanské společnosti akční plán , který má tuto životně důležitou otázku řešit .
-červen bude na ruských soudech krutým měsícem .
-světu až dosud pomáhaly překonávat vystřelující ceny ropy tři zásadní faktory .
-prostřednictvím podvodů a zastrašování dokázala bývalá irácká diktatura z velké části úspěšně udržet tuto tragédii pod pokličkou .
-neposlušné jednotky se mstí kaddáfího stoupencům a znepřátelily si významné složky společnosti .
-špehování přesto do číny nepřišlo ani s počítačovou ani s mao ce-tungovou kulturní revolucí .
-strategie nakloněná globální integraci vylučuje v každé oblasti ostatní cesty , které by mohly být příznivěji nakloněné rozvoji .
-výsledné etnické násilí způsobilo , že reálný příjem na hlavu činí pouhou pětinu úrovně dnešní koreje .
-pokřiven byl i duchovní rozvoj země , a to růstem počtu , obliby a relativní síly náboženských skupin , které představují nesnášenlivou a militantní interpretaci islámu , zdůrazňující rozdíly mezi pohlavími . ''
-vzhledem k velikosti číny existuje nebezpečí , že by se tato „čínská výjimečnost“ mohla proměnit v cosi opravdu alarmujícího : v celosvětovou normu .
-jicchak rabin věřil , že izraelsko-arabský mír by mohl zabránit jadernému íránu , avšak nyní se zdá , že se jeho noční můra rychle blíží .
-kompenzovat všechny potenciální poražené by mohlo být nákladné , ale peníze je třeba strkat tam , kde jsou potřeba ; pokud se nějaká reforma s & nbsp ; určitostí bohatě vyplatí , pak z & nbsp ; ní lze financovat nejen odstupné , ale i další věci .
-úspěšná kolínská iniciativa by měla být vystavěna na následujích základech .
-argumenty proti nezávislosti kosova
-1 ) silná evropská zahraniční politika , vzhledem k současnému stavu světa tak zoufale potřebná , byla 12. června pohřbena , alespoň prozatím .
-veškeré rozpravy o zdokonaleném partnerství mezi nato a evropskou unií jsou jen mrháním slovy . „zintenzívněný strategický dialog v bruselu“ se v praxi scvrkává na deprimující vidinu nekonečných společných schůzek výborů , na nichž velvyslanec jednoho státu při nato vysvětluje postoj své vlády svému krajanovi , který je akreditovaný jako diplomat v eu , a naopak .
-jen stěží znovu najdeme podobné podmínky v dnešním světě .
-intenzita americké opozice proti bushovi však sahá hlouběji než k jednomu konkrétnímu tématu .
-když jej ospravedlňují ekonomické fundamenty , směnný kurz by se měl nechat povlovně stoupat .
-také volný obchod však slibuje menší výhody dnes a obrovské výhody v budoucnu .
-ve filmu se objevila velká kosmická stanice , raketoplán s křídly , měsíční základna i astronauti cestující do odlehlých částí sluneční soustavy .
-představíme-li si , že ta či ona deviantní skupina v určité společnosti získá přístup k biologickému nebo jadernému arzenálu , bude možné , aby teroristé zničili miliony životů .
-dnešní japonsko zaujímá první místo na světě v počtu patentů , třetí místo na světě ve výdajích na výzkum a vývoj vyjádřených procentem hdp , druhé místo na světě v prodeji knih a hudebních nosičů a nejvyšší průměrný věk obyvatel .
-víc než polovina ze 43 členů aliance malých ostrovních států má za to , že rozhodnutí nedělat nic a nechat hladiny oceánů stoupat lze považovat za totéž co schvalování vraždy .
-některá tato hnutí měla číňany za outsidery , případně za zrádce : podle nich číňané v období imperiální nadvlády nepřiměřeně profitovali .
-14 .
-seattle – ani v dobrých finančních časech rozpočty na rozvojovou pomoc rozhodně nepřekypují penězi .
-stejně jako dohoda všech stran zvolit prozatímního prezidenta na dva roky , čímž by jednotliví aktéři získali čas do doby , než se regionální rovnováha sil změní nebo ustálí .
-politici nebudou realitu manipulovat , nýbrž ctít jen tehdy , bude-li se veřejnost zajímat o pravdu a trestat politiky přistižené při záměrném klamání .
-proč riskovat , že se budete smažit v pekle kvůli papírovému drakovi ?
-podle mého názoru jde jen o přestupky .
-každý rok je zaznamenáno přibližně 300 000 nových infekcí a 270 000 úmrtí souvisejících s aids .
-efektivní finanční systémy mají v reálné ekonomice podporovat růst , nikoliv uvalovat obrovskou daňovou zátěž .
-podle všech náznaků – od klimatických změn až po nevyzpytatelné ceny ropy – se na obzoru rýsuje globální energetická krize .
-v roce 2011 plánuje firma vybudovat novou továrnu s roční výrobní kapacitou 300 000 vozů určených pro indický trh , na němž se v letošním roce očekává prodej dvou milionů automobilů .
-ekonomy a cyniky to nemůže překvapit .
-mnohé další centrální banky tento vývoj nervózně sledují , protože jsou si dobře vědomy , že se brzy mohou ocitnout ve stejné situaci , neboť globální ekonomika nadále měkne a míra neschopnosti splácet všechny typy dluhů nadále stoupá .
-miliony lidí si jednoduše nemohou dovolit potraviny , které potřebují , což by možná platilo i v případě zvýšení jejich nabídky .
-jde o zkušenost , která mi přináší uspokojení a velkou naději , že při řešení problémů , jako jsou chudoba , ohrožení životního prostředí a násilné střety , nakonec uspějeme .
-ve skutečnosti je kvantitativní uvolňování účinnějším nástrojem oslabování měny , neboť devizová intervence se obvykle neutralizuje .
-pryč jsou pro tuto chvíli žerty o tom , že vláda sama je problém , nikoli řešení .
-tato místa praskají ve švech lidmi , jež drtí sílící tlak nedostatečných srážek a znehodnocených pastvin .
-východisko je v podstatě zřejmé : vlády by neměly zaměňovat společensko-ekonomické problémy ( nezaměstnanost , násilí , vytlačování určitých skupin na okraj atd . ) s otázkami kultury a náboženství .
-vykládka v & # 160 ; atlantickém přístavu namísto přístavu na jihu evropy tak značně zvyšuje finanční a environmentální cenu přepravy , což narušuje konkurenční schopnost evropy .
-je třeba velice podrobně prozkoumat výsledky nedávných voleb v německé spolkové zemi severní porýní-vestfálsko , aby člověk na seznamu „ostatních“ našel výsledek „šedivých“ : získali 0,1 % hlasů .
-z & politického hlediska tu byla proslulá tchajwanská lobby , jedna z & nejmocnějších v & usa , jíž stále vévodilo konzervativní křídlo americké politiky .
-každý přece chápal , kdo je „podvodník s blahobytem“ a koho měl kristol na mysli , když pronesl slavný bonmot , že neokonzervativec je „liberál , kterého přepadla realita“ .
-v dubnu během veřejné modlitby v ramalláhu přednesl palestinský ministr náboženství mahmúd habáš projev , který vzbuzuje naděje ve stoupencích tohoto řešení .
-ecb se liší a jsou k tomu některé dobré důvody .
-ta objasňuje , proč jsme často laskaví k pokrevním příbuzným – tedy k těm , s nimiž sdílíme geny .
-před více než rokem se finskému předsednictví eu nepodařilo prolomit bezvýchodnou situaci ohledně kyperského obchodu , což znovu ilustrovalo omezenou hodnotu snahy dohodnout částečná řešení a opatření na „posílení sebedůvěry“ .
-takový přístup k suverenitě by dal vládám a jejich předákům prakticky najevo , že práva a ochrany , jež si spojují se státností , jsou ve skutečnosti podmínečné a že vlády i lídři některá z těchto práv , ba v krajních případech všechna tato práva pozbudou , nesplní-li své povinnosti .
-kodaň – několik tisíc představitelů z 194 zemí se sešlo v mexickém cancúnu na dalším summitu o globálním klimatu .
-mexiko musí převzít zodpovědnost za regulaci tohoto provozu , což neznamená jen utěsnění jeho jižní hranice .
-zároveň však usa nemohou uložit otázku demokracie a lidských práv na kubě k ledu a čekat na odchod fidelova bratra raúla .
-ačkoliv skromné zvýšení sazeb bylo prezentováno jako výsledek konsensu rady guvernérů ecb , záhy vyšla najevo kontroverznost tohoto rozhodnutí .
-za takových okolností se mešita stává jediným veřejným prostorem , kde lidé mohou vyjádřit své politické názory .
-právně by zřejmě mělo jít o mez , za níž je záměrem slov vyvolávat násilí .
-koneckonců , ztráta počítačových záznamů by u eura vzbudila nemenší pochyby .
-toho lze dosáhnout zavedením některých rysů modelu využívaného ve východní evropě a známého jako „vídeňská iniciativa“ .
-zaprvé , lidé nejsou tak zranitelní účinky požárů , záplav , zdravotních pohrom , nezaměstnanosti , podnikatelských krachů , sektorových posunů a tak dále , protože dobře fungující finančně pojišťovnický systém některá rizika diverzifikuje , tedy rozptyluje a s & # 160 ; jinými se vypořádá tím , že spojí osoby , které se rizika obávají , s & # 160 ; těmi , kdo jej dokážou bez potíží nést .
-silný pocit historického poslání , sociální a ekonomické problémy , zhoršení mezinárodního postavení : to vše dohromady vytváří výbušnou směs , která hraje do karet radikálům .
-nově se rodící konsensus nicméně naznačuje , že ceny mnoha riskantních aktiv – včetně akcií – již klesly tak hluboko , že jsme se ocitli na dně a následovat bude rychlé zotavení .
-opředena nařčeními z travičství a pletich , ukrajinská kampaň před prezidentskými volbami je podívanou , jež by mohla nadchnout jedině rod borgiů .
-otázkou je tedy to , zda je možné udělat něco pro zmírnění tohoto rizika na minimum .
-za jeho vlády libye pomáhala teroristickým organizacím z celého světa - od ira až po různé palestinské extremistické skupiny .
-bejrút – rusko téměř nepozorovaně získává zpět velkou část vlivu na středním východě , o nějž přišlo po zhroucení sovětského svazu .
-například bohaté země by měly snížit dotace do zemědělství a otevřít své trhy potravinovému exportu ze zemí třetího světa .
-nesplácené úvěry vampnbsp ; bankovním sektoru a nezaměstnanost vampnbsp ; mnoha zemích i nadále stoupají .
-newport beach – nevím jak vy , ale kdykoli já v letadle zažívám turbulence , uklidňuji se přesvědčením , že piloti za zavřenými dveřmi pilotní kabiny , vědí co dělat .
-britské veřejné mínění ohledně eu zůstává od té doby přinejlepším vlažné .
-do ústavy však nepatří žádné z těchto ustanovení . přirozené monopoly jsou někdy ekonomicky žádoucí a je na zákonodárcích , nikoliv na soudcích , aby posoudili , zda a kdy je vhodné je povolit .
-konsensus v relativně nevýznamných diplomatických a mezinárodních záležitostech možná bude uskutečnitelný , ale předpokládejme , že amerika po konzultacích se svými evropskými spojenci , na nichž se bude zasazovat o jejich souhlas , spustí vojenskou akci proti iráku .
-nikoliv ale starostou lužkovem .
-nemá ale také vliv politika na ekonomiku ?
-právě u těchto otázek ekonomové nedokážou nabídnout jasné odpovědi .
-pro mnoho američanů zejména neokonzervativního přesvědčení by mohlo chování nizozemců potvrdit veškerá jejich podezření o proradných evropanech závislých na hmotných požitcích , kteří jsou stále až dětinsky odkázaní na americkou vojenskou ochranu .
-rusko tudíž v současnosti čelí situaci , kdy jedinou politickou událostí je volba prezidenta .
-to , co se jí lžící , je polévka ; to , co se jí vidličkou , není polévka .
-klíčovým důvodem vítězství dpj byla skutečnost , že voliči měli ldp plné zuby .
-pokusy o jeho stimulaci vytvoří pouze vyšší ceny , neboť lidé budou utrácet více peněz za stejný objem zboží a služeb .
-původním záměrem szp bylo zajistit zdroj potravin pro prvotních šest členských států unie , které potraviny dovážely a usilovaly o jistou míry soběstačnosti .
-američtí antiekologové
-tento proces už ostatně započal například programem redd , který využívá tržních a finančních pobídek ke snižování emisí skleníkových plynů v důsledku odlesňování a zhoršování kvality lesů .
-konkrétně by globální dohoda sestavená v kodani měla podnikání přinést tři věci :
-spolu samp # 160 ; příspěvkem mezinárodního měnového fondu představuje půjčka eu lotyšsku více než 33 % hdp této země .
-láhaur – červenec byl jedním z nejdrsnějších měsíců v dějinách pákistánu .
-má ta otázka smysl ?
-bylo by dobře si to uvědomit , ale v tuto chvíli se zdá pravděpodobnější , že budeme vyhazovat peníze prakticky za nic .
-myšlenková centra na evropské úrovni musí zůstat svobodná a nezávislá , avšak lídři se musí naučit věnovat pozornost jejich doporučením a začlenit je do politického rozhodovacího procesu .
-z „buldozeru“ se stal dědeček většiny izraelců a poslední karta západní diplomacie – pro američany a překvapivě i pro evropany .
-rodina liouových je jednou z tisíců chudých zemědělských rodin v čínském vnitrozemí , které se v 90. letech nakazily hiv při odběrech krve , když nedostatečně regulované komerční krevní banky používaly opakovaně injekční jehly a po odebrání plazmy přenášely krev z nakažených dárců na dárce zdravé .
-újma , jíž bychom tím předešli , by však pravděpodobně byla v hodnotě jen 700 dolarů na obyvatele .
-zahraniční věřitelé náhle omezují krátkodobé půjčky .
-tak pro začátek dnes mají usa v elysejském paláci skutečného přítele a spojence .
-jedním zřejmým důsledkem je mimořádná nestálost cen .
-svíčky navíc způsobují obrovské množství nesmírně škodlivého prachového znečištění vzduchu v interiéru , u něhož se ve spojených státech odhaduje , že každoročně způsobí smrt více než 100 tisíc lidí .
-je ledasco , čím se čína ve své nedávné historii může pochlubit .
-k oživení ekonomické aktivity nestačila ani rekapitalizace bank prostřednictvím státní výpomoci .
-právě proto neutuchající nejistota ohledně jednoty eurozóny a hodnoty suverénního dluhu jejích členů vykazuje tak zničující účinky na tamní banky .
-americký červený kříž a další organizace naštěstí následují vzor rotary a využívají soukromých darů a soukromých dobrovolníků , aby vyplnily mezeru , kterou tu nechávají naši političtí lídři .
-kdyby kterékoliv z těchto populistických opatření přispělo k vytvoření spravedlivějších a lépe fungujících trhů , pak bychom řekli : , ,budiž . ''
-existuje ještě další rovina solidarity , již můžeme nazvat solidaritou světovou či globální .
-nebudeme-li konat rychle , 40 nejchudších zemí , převážně v subsaharské africe a latinské americe , do roku 2080 ztratí kvůli suchu 10 až 20 % své základní obilnářské kapacity .
-naproti tomu rok 2009 zřejmě vydláždí cestu k nové bipolaritě , přičemž sovětský svaz vystřídá čína .
-oba kandidáti chtějí vytvářet pracovní místa v ekologických službách .
-každý projev podřízenosti se tak stává zřeknutím se své vlastní intelektuální pravomoci .
-křehká moc ruska
-nikdo si však nemyslí , že by stálo za to tuto myšlenku prosazovat válečnými prostředky .
-dvanáctá čínská pětiletka ( 2011-2015 ) naštěstí uznává nutnost prohloubit tržně orientovanou reformu , změnit rozvojový model země a zaměřit se na kvalitu růstu , strukturální reformy a sociální začleňování samp cílem překonat rozdíl mezi venkovem a městy a zastavit růst příjmové nerovnosti .
-a když poté došlo ke schválení amerického záchranného balíku v objemu 700 miliard , zaznamenaly trhy pokles o dalších 7 % za dva dny .
-přerušení pomoci by mělo být poslední možností , nikoliv prvním úderem .
-pokud by věci dopadly takto , evropské vlády si s úlevou vydechnou .
-zmíněný konsensus přitom musí zahrnovat usa .
-podporu by ale měly získat i nové domácí finanční instituce .
-my potřebujeme nato a nato potřebuje nás , abychom se vypořádali se společnými hrozbami a úkoly .
-republikáni z fcic do centra dění , které se zvrtlo , právem staví vládu .
-čistým výsledkem by tedy bylo zvýšení státního dluhu o 200 miliard dolarů .
-nejdůležitějším faktorem tohoto úspěchu byl zřejmě nástup tenga siao-pchinga na pozici nového nejvyššího vůdce číny .
-a rozsáhlé fiskální úpravy , které se nutně musí provést v řecku , irsku , portugalsku a možná i v itálii a ve španělsku , přinesou hospodářský a sociální rozvrat .
-ostatně , komentátor david brooks nedávno poznamenal : „jestliže je v oblasti měkké síly jeden dar , který amerika rozhodně má , pak je to tendence vymýšlet nové světy.“ jinými slovy , invaze do iráku a následné zesílení rétoriky o demokracii na středním východě mohly změnit úhel pohledu na status quo .
-to , že by měly být vysoko je evidentní – americké hospodářství se v klidu rozvíjí již 100 měsíců bez nějakého přerušení , je bohaté na technologie i konkurenci , stejně jako nové iniciativy , je to hospodářství , kde zákazníci utrácejí celé své mzdy a snad i víc .
-podle čínských odborníků nejsou dnes tržní tlaky natolik silné , aby si nějaká opatření vynutily ; čína totiž dosud čerpá z poměrně vysokého přebytku platební bilance , a to jak na běžném , tak na kapitálovém účtu .
-obě strany založily kampaň na protekcionistické platformě namířené proti euru .
-vzhledem k tomu , že společnost se nemůže “zablokovat” sama od sebe , je na vině jistá izolovaná skupina , která jakoukoli změnu považuje za útok proti sobě .
-to bylo v roce 1945 , za rozbřesku brettonwoodské éry .
-loni v & # 160 ; květnu podepsal s & # 160 ; fatáhem v & # 160 ; káhiře úvodní dohodu o usmíření , která vyslala hamás do vlády palestinské jednoty , vyzvala k & # 160 ; zastavení násilí a akceptovala představu palestinského státu v & # 160 ; hranicích z & # 160 ; roku 1967 .
-asijským zemím , jako jsou japonsko , jižní korea , tchaj-wan nebo indonésie , v tom nebránily ani jejich údajné „asijské hodnoty“ .
-ve spojených státech neexistuje žádný zákon , který by upravoval , jak mají producenti vajec chovat své nosnice .
-zřejmě nejsvůdnějším aspektem komparace dna je nepřítomnost biologického kontextu .
-je to důležitý pokrok , ale bohužel je vyjádřen jazykem , který připouští alternativu v podobě dobrovolných přístupů a navíc se zaměřuje pouze na průhlednost plateb .
-za každým opravdu novým návrhem se skrývají nejistoty .
-zadření úvěrů je zčásti dílem bankéřů a manažerů hedžových fondů , kteří jednali tak jako nadya sulemanová , když pákou dluhu zdvihali současnost kvůli neuskutečnitelné budoucnosti .
-nicméně i tak se ču žung-ťiovy reformy zasloužily o rovné podmínky a právní řád , na nichž závisí fungující kapitalistický systém .
-zesnulý jordánský král husajn se k tomuto problému postavil čelem po povstání za chléb v jihojordánském městě ma´an v roce 1989 .
-dýmějový mor neboli černá smrt měl původ v & # 160 ; asii , ale jeho šíření ve čtrnáctém století připravilo o život čtvrtinu až třetinu evropské populace .
-existuje teď vážné riziko systémového zhroucení amerických finančních trhů , až prasknou obrovské bubliny úvěrů a aktiv .
-v poslední době – a zejména v posledních několika měsících – však pochybnosti centrálních bankéřů o užitečnosti iniciativy za transparentnost zesílily .
-po smrti šejka džábira sabáha se však otázka nástupnictví nejenže stála horečně probíraným veřejným tématem , ale na jejím výsledku se klíčovou měrou podepsal také kuvajtský tisk a parlament .
-pevnější evropská identita je nejzdravějším základem pro vytváření multikulturnější evropy , již demografové považují za neodvratnou .
-pohřbu jeana-luca lagardèrea se v roce 2003 zúčastnila manželka prezidenta jacquese chiraka , premiér a pětice ministrů .
-prohloubení tohoto souboru hodnot a prověření , do jaké míry jej sdílíme , je nezbytnou podmínkou vytvoření nových hodnot a vtisknutí identity a soudržnosti naší unii , jež nám jednou dovolí nabídnout evropské sekulární hodnoty ostatnímu světu .
-jakoby mávnutím kouzelného proutku byl tříbilionový , desetiletý přebytek rozpočtu usa ( bez sociálního zabezpečení ) během několika měsíců převeden na zející schodek ve výši dvou bilionů dolarů .
-indie s 1,5 miliardami lidí
-avšak pochybuji , že celebrity jako brigitte bardotová vůbec kdy pochopí absurdnost svých pomýlených priorit – přijet do země , kde miliony lidí žijí v beznaději a strašlivých podmínkách , a zajímat se jen a pouze o divoké psy .
-to už bylo dlouho po době výsevu .
-tyto tři předpoklady lze označit za hospodářské , sociální a ekologické pilíře trvale udržitelného rozvoje nebo jednodušeji za jeho „trojí východisko“ .
-takže ačkoliv ekonomická čísla mohou vypadat zle , politické vedení země vypadá výtečně .
-skupinu sestavil gwyn prins , uznávaný expert na bezpečnostní politiku a mezinárodní vztahy , jenž stojí v čele mackinderova programu lse pro studium dlouhovlnných jevů .
-nutkání většiny lidí pojistit se nebo rozložit své investice není srovnatelné s jejich nutkáním koupit si pohovku či nové šaty .
-lidé řídící velké firmy byli často bezskrupulózní a v & # 160 ; některých případech využívali svého dominantního tržního postavení k & # 160 ; vytěsňování konkurentů – což přeživším firmám následně umožnilo omezovat nabídku a zvyšovat ceny .
-panel pro globální udržitelnost ( gsp ) založený generálním tajemníkem osn zveřejnil novou zprávu , která nastiňuje rámec trvale udržitelného rozvoje .
-vůdci ve světě sítí
-někteří lidé , kteří tvrdívali , že nikdy nečtou tištěné knihy , dnes čtou třeba kafku ve formě e-knihy .
-šlo o odvážnou snahu , která přišla příliš brzy .
-tuto zranitelnost však do značné míry vytvořily nebo k & # 160 ; ní přinejmenším přispěly západní banky .
-avsak potřebu něčeho drasticky jiného a vyssího než předem připravená denní rutina inženýra a občana socialistického ráje to ve mně neumensilo .
-pokud tak spojené státy učiní ve snaze o veřejné blaho , které přinese užitek vedle američanů i jiným národům , mohla by podstata amerických účelů nahradit prostředky , pokud bude americká síla v očích ostatních národů přijatelná .
-jiný článek v the new york times ( 12. listopadu ) s odvoláním na „vojenské činitele“ svědomitě informoval : „od pondělního začátku útoku bylo zabito asi 600 rebelů , společně s 18 americkými a pěti iráckými vojáky.“ otázka civilních úmrtí nebyla ani nadnesena .
-to ale samozřejmě nedokáže zastavit další zhoršování poměru mezi dluhem a hdp země , zvlášť když vysoké úrokové sazby ženou brazílii do recese .
-soukromý sektor může sice utratit míň a víc šetřit , ale to by okamžitě znamenalo újmu známou jako keynesův paradox úspor : pokles ekonomického výstupu a růst zadlužení jako podílu hdp .
-listopadové rozhodnutí amerického federálního rezervního systému zahájit nový cyklus „kvantitativního uvolňování“ ( nákupu vládních dluhopisů prostřednictvím tvorby peněz ) vyvolalo v evropě silnou kritiku .
-je v zájmu ameriky i světa , aby to učinily . výsledek bude vidět nejen v globálních institucích , ale i na místech , jako jsou dárfúr , zimbabwe nebo barma .
-významnou novinkou studie je také analýza dopadů klimatických změn na několik různých oblastí usa a zároveň na několik různých sektorů , jako je zemědělství , zdravotnictví , vodohospodářství , lesnictví a vyhledávání a využívání pobřežních zdrojů ( z nichž mnohé budou poškozeny či zcela zničeny stoupající hladinou oceánů a zvýšenou bouřkovou aktivitou ) .
-existuje způsob jak rozbít cyklus , v němž se neliberální demokracie střídá s kapitalistickým bratříčkováním ?
-prvním je politika světového jeviště , kde by politická osobnost celosvětového formátu mohla výrazně přispět k posunu postavení eu na vyšší úroveň a zajistit , aby eu mohla významně mluvit do přepisování postkrizových ekonomických pravidel .
-kennedy se navíc poučil i z kubánské raketové krize ; 10. června 1963 přednesl projev , jehož cílem bylo uvolnění napětí studené války . „proto mluvím o míru jako o nutném racionálním cíli racionálních lidí , “ prohlásil .
-báječná představa , nebýt obrovské chudoby , která je jejím výsledkem ;
-nově založená agentura redd+ bude pověřena nakládáním s deštnými pralesy jako s přírodním zdrojem , který je spíše třeba chránit a obnovovat než vytěžovat a ničit .
-v obchodních zónách vytvořených různorodými státy mají partikulární zájmy sklon k rozmanitosti , díky čemuž je lobbování na nadnárodní úrovni obtížné .
-existovala i komoditní bublina a bublina soukromých akciových a hedgeových fondů .
-loni na podzim akceptovalo německo , jež je největším přispěvatelem do unijního rozpočtu , kompromis , že stávající společná zemědělská politika bude prodloužena o dalších deset let .
-americká politika navíc musí vytvořit prostředí , v & # 160 ; němž sílící čína nikdy nebude cítit pokušení využít své rostoucí moci k & # 160 ; donucovacím akcím – v & # 160 ; regionu i mimo něj .
-ano , prudký růst číny představuje pro západ výzvy .
-předpokládejme , že se regulační orgány mohou spolehnout , že většina finančních společností je řízena v zájmu jejich akcionářů .
-můžeme se dožít pětaosmdesáti let , ale pravděpodobně se jich dožijeme s chronickými chorobami , které nám budou působit strádání a bolest .
-němci reagující na pochopitelný odpor veřejnosti vůči sanacím bank a zadlužených zemí z peněz daňových poplatníků rozumně volají po mechanismech , které umožní „širší sdílení zátěže“ – rozuměj ztráty pro věřitele .
-ty , které se dotýkají bezpečnosti v afghánistánu a pákistánu , jsou záludné odjakživa .
-v posledních deseti letech vznikla celá řada iniciativ , které mají udržet romské děti ve školách , rozšířit jejich uplatnění na pracovním trhu a překonat vžitou diskriminaci .
-obdobně v. & # 160 ; i. & # 160 ; vernandskij v & # 160 ; roce 1926 uznal sílící vliv lidstva na „ [ k ] urz , jímž se musí ubírat evoluční procesy , konkrétně směrem k & # 160 ; sílícímu vědomí a myšlení a k & # 160 ; formám , které mají větší a větší vliv na své okolí.“ vernadskij a teilhard de chardin k & # 160 ; označování sílící role inteligence člověka na formování jeho vlastní budoucnosti a okolí používali pojem „noosféra“ , svět myšlení .
-jedna strana může hovořit o absolutní chudobě , druhá o chudobě relativní .
-do této politiky se navážejí všichni od zahraničních ministrů financí přes komiksové satiriky ( pusťte si video „quantitative easing explained“ ) po sarah palinovou .
-jeho vydírání ukrajiny v otázce dodávek plynu vyděsilo celý kontinent a jeho nový ropovod přes baltské moře do německa vyprovokoval rozhořčený křik polska a pobaltských zemí , které mají zlost , že přijdou o ekonomické a politické dividendy , jež jim plynou z trasy vedoucí po souši .
-to oni jsou lidský odpad , ne spojené státy americké , ne naši vojáci a naši vězeňští dozorci . ''
-zadruhé , s benjaminem netanjahuem ze strany likud na postu ministerského předsedy má teď izrael vládu , u níž je mnohem méně pravděpodobné , že by byla ochotná – a schopná – udělat zásadní ústupky a vystěhovat ze západního břehu stovky tisíc izraelských osadníků .
-sestavení palestinské vlády národní jednoty dává eu a jejím partnerům možnost vrátit se bez ztráty tváře ke spolupráci s palestinskými orgány .
-mírový jaderný program íránu však vznikl koncem šedesátých a v sedmdesátých letech .
-tady se člověk setkává se slabší kolektivní nadějí a slabším individuálním strachem .
-alan greenspan získal jako guvernér rady federálního rezervního systému téměř kultovní věhlas .
-63 % amerických muslimů pak nenachází žádný rozpor mezi náboženským zanícením a životem v moderní společnosti .
-nejvíce určující prošetření vědeckých důkazů lze nalézt v činnosti mezivládního panelu pro změny klimatu ( ipcc ) a jeho poslední velké zprávě zveřejněné v roce 2007 .
-je potřeba , aby bylo součástí mnohem hlubší snahy zaměřené na posílení pozice žen a na zajištění občanských práv pro ženy - tedy pro 50 % lidí žijících ve společnostech , kde se tyto praktiky uskutečňují .
-maloobchodní hradba má největší smysl , spojí-li se s novým režimem pro řešení potíží , který by umožňoval maloobchodní pobočku zavřít , aniž by se nákaza přenesla na celou skupinu .
-george kennan , jeden z největších amerických diplomatů poválečného období , kdysi napsal , že západní svět se dopouští největší chyby za posledních 50 let , když po zhroucení sovětského komunismu rozšiřuje nato .
-za druhé : mobilizovat to nejlepší a nejprospěšnější z africké vědy a technologií i odjinud na řešení kritických společenských a hospodářských problémů .
-dosažení trvalého příměří v libanonu také napomůže zklidnění emocí , jež některé lidi vedou k terorismu a jiné k tomu , že jej tolerují nebo podporují .
-nejdůležitější je , že usa a evropa se musí naučit , jak nesouhlasit .
-putinovým zjevným cílem bylo zajistit finanční prostředky pro společnost rosněfť na nákup ropného pole jugansk , jež bylo součástí konfiskace jukosu .
-i když však ostatní světoví lídři dospějí k závěru , že číselné cíle nemohou podpořit , musí si uvědomit , jak bolestně usa trpí ve jménu volného obchodu .
-podle nedávného průzkumu veřejného mínění jen 54,8 procenta korejců souhlasí s rozmístěním amerických vojáků v zemi , přičemž 31,7 procenta se vyslovilo proti .
-a z podstaty by fungoval , jedině kdyby byla nadace financována na veřejném základě .
-namísto toho teď úspory – či nerozdělený zisk – v & nbsp ; podnikovém sektoru , především ve státních podnicích , váže vedle úspor domácností dalších 25 & nbsp ; % hdp .
-ani sebeobhajoba jednoho z centrálních bankéřů , že „nikdo nemohl problémy předvídat“ , valnou částí publika nepohnula – snad proto , že několik lidí , kteří tam seděli , v minulých letech tak jako já před nastávajícím problémem výslovně varovalo .
-zatímco globální lídři navyšují zdroje mmf a pokoušejí se koordinovat mezinárodní finanční regulaci , obchodní a měnové napětí sílí .
-a jisté také je , že by bylo v praxi velmi obtížné předepisovat zemím maximální obchodní přebytky : makroekonomických nejistot a nejistot měření je jednoduše příliš mnoho .
-některé zranitelné země však stále zápolí s financováním proticyklických investic a rozšířených služeb sociální ochrany .
-nebo alespoň platilo .
-tato decentralizovaná dodávka zboží funguje díky tomu , že zaměstnanci pracují dva týdny , než obdrží výplatní pásku , že si firmy navzájem nabízejí úvěrové linky a že jim banky poskytují překlenovací půjčky .
-ačkoliv šlo vesměs o stoupenkyně liberálního pohledu na svět , uznávaly tyto ženy důležitost islámu v celé marocké společnosti .
-a skutečně : během několika let již měli jednotlivci v malém přístroji stejný výpočetní výkon , jakým disponovaly sálové počítače ibm 360 , které v 60. letech vnesly revoluci do centralizovaných výpočtů .
-avšak o dlouhodobých důsledcích rozpadu sociálního partnerství můžeme dnes jen spekulovat .
-loni na něj byla vypsána odměna pro vraždu .
-abychom uspokojili globální energetické nároky , bude zapotřebí ohromných investic , v hodnotě biliónů eur .
-to je významně méně , než činí průměr pro zmíněná tři léta ve starých členských zemích eu – totiž 2,7 % , 2,6 % a 2,4 % .
-druhým rizikem je možnost , že japonsko , jihokorejská republika , vietnam , filipíny , thajsko nebo barma spadnou do strategické sféry číny .
-nejnovější zpráva mezinárodní agentury pro atomovou energii dosvědčila , že se civilní jaderný program íránu nevychýlil směrem k vývoji zbraní .
-když jsme před 20 lety začali ve velkém měřítku prosazovat jednotný trh , bylo členských států pouhých dvanáct .
-( je rozumnou měrou jisté , že brownovi nedůvěřoval , že by tváří v tvář jakékoli vážnější opozici tyto kroky udělal , a také je rozumnou měrou jisté , že tak uvažoval oprávněně . )
-země , občané , účastníci nesčetných procesů ve společnosti , spotřebitelé , výrobci , dělníci , podnikatelé , a všemožní profesionálové nemohou být vynecháni z rozhodování , která mají zásadní dopady na jejich vlastní životy i důsledky pro cíle a hodnoty celé jejich společnosti .
-statistiky říkají , že 10 & # 160 ; % dětí je „zakrnělých“ – do dvou let věku byly tak podvyživené , že nikdy nedorostou , jak by jinak mohly .
-dnes jsou však vyšší vládní výdaje a s nimi spojený vzestup fiskálního deficitu ospravedlnitelné jako nezbytný nástroj k řešení hospodářského poklesu – což je výrazná změna oproti spoléhání se na monetární politiku jako v případě předchozích recesí .
-srovnáte-li koncepci využívanou při sestavování novinových úvodníků dnes a před deseti či více lety , objevíte hluboké - ale nepřiznané - působení společenských věd .
-tvrdí se v & # 160 ; ní , že kontrolu nad národní policií a významnou částí soudního sboru si vydobyli stoupenci fethullaha gülena – vlivného duchovního vůdce žijícího v & # 160 ; usa .
-proč ?
-ceny ropy a dalších komodit pravděpodobně dále poklesnou , přičemž produkce ropy a plynu už teď stagnuje .
-když se k tomu přičtou předpokládané závazky systémů social security a medicare , pak se budou usa potýkat s dluhem , jehož výše nemá v mírových dobách obdoby .
-hlavní otázka , před níž rusko stojí , tedy zní , zda vhodná hospodářská politika dokáže předejít ekonomickému a politickému kolapsu .
-svobodný tisk , nezávislé soudnictví a hašteřivé zákonodárné orgány naštěstí pomohly učinit z těchto praktik téma veřejné debaty .
-zjistil , že když lidé chtějí přestat kouřit , mají vyšší pravděpodobnost úspěchu , pokud si to zařídí tak , že v případě neúspěchu přijdou o peníze .
-je ovšem příliš snadné poskočit od jednotlivých firemních skandálů k širokým závěrům o domnělé prohnilosti americké ekonomiky .
-máme však příležitost jednat .
-to však ještě neznamená , že otázky týkající se zachování života ( nebo způsobu života ) , jako je například obrana , by neměly být předmětem chladné a tvrdé ekonomické analýzy .
-stejně tak se kdokoli z finančního sektoru může vykašlat na perspektivní místo u citibank , získat tři společníky , z nichž aspoň jeden umí programovat , a bez větších potíží dá dohromady sto milionů dolarů na investici do internetu .
-jak navíc na internetové stránce givewell.net uvádí elie hassenfeld , existují dobré důvody tvrdit , že humanitární pomoc je méně efektivní než pomoc zaměřená na záchranu životů lidí ohrožených extrémní chudobou .
-japonsko navíc pravděpodobně nechá vychladnout dnešní vášně nad spornými ostrovy ve východočínském moři , navzdory protijaponským výbuchům v & nbsp ; čínských městech .
-důvodem je samotná podstata duševních onemocnění .
-obě ministerstva také využívala svou sílu ke zmrazování finančních aktiv nebo přístupu do amerického finančního systému .
-kdo je gordon brown ?
-poslední pokus vytvořit zónu volného obchodu mezi eu a usa , za prezidenta billa clintona , se nevydařil kvůli zkostnatělé a zastaralé zemědělské politice eu .
-washington – vedoucí představitelé z celého světa intenzivně debatují o účelnosti zavedení bezletové zóny nad libyí s cílem zabránit násilnostem , k nimž v této zemi dochází .
-terorismus je dnes kvůli těmto trendům mnohem hůř zvladatelný .
-ukrajinská vláda je na mizině a v příštím roce bude nejspíš donucena nedodržet své dlužné závazky , případně upravit jejich splátkový kalendář , nebo si vypůjčit další finanční prostředky , aby byla schopna splatit starý dluh .
-bezpočet lidí bude zbytečně trpět a umírat v důsledku svévolných , nevědeckých omezení , jež jsou dnes uvaleny na naši schopnost pomoci jim se o sebe postarat .
-především však tento tvrdohlavý holanďan chápal , jak extrémní nebezpečí evropě hrozí , pokud její nejvyšší měnová autorita půjde příliš na ruku evropským politikům – zejména pak v době , kdy mnozí ministři financí členských zemí eu pokládají ekonomickou reformu a přebytek likvidity v podstatě za totéž .
-bez tohoto práva nemusí ještě volby znamenat demokracii .
-jedním hřebem do rakve sovětského svazu byla koncem 80. let minulého století glasnosť čili otevřenost .
-čína je veliká země a bez rozsáhlé decentralizace by nemohla uspět tak , jak se jí zatím zdařilo .
-to však neudělají , protože si konkurují hlavně cenou .
-chceme-li porazit taliban , musíme mít podporu afghánského lidu .
-dnešní zažitý názor říká , že nejvýznamnějším z faktorů určujících globální zaměstnanost a mzdy v jedenadvacátém století bude vzestup indie a číny .
-většina ze zhruba 375 milionů lidí s právem hlasovat v evropských volbách 4. až 7. června o tom má pravděpodobně jen mlhavou představu a někteří vůbec žádnou , což vysvětluje , proč volební účast napříč evropskou unií bude zřejmě katastrofálně nízká .
-avšak skutečnou mexickou překážkou je politický systém neschopný najít konsenzus ohledně hospodářských reforem .
-ti potřebují přístup na naše trhy a my bychom je neměli odmítat .
-televize a noviny nepřestávají roztrubovat každý hop a skok globálních finančních trhů .
-je dnešní unie připravena obrátit kurz , který před čtyřmi desítkami let poprvé vytyčili takoví titáni jako charles de gaulle a konrad adenauer ?
-vyjádření předsedy fedu přichází v kritický a citlivý okamžik .
-vždyť od zavedení eura došlo k & # 160 ; bezmála stovce porušení schodkového stropu psr ( 3 & # 160 ; % hdp ) – a všechna zůstala bez trestu .
-úpadek investičního fondu long-term capital management před několika lety byl ponaučením o rizikovém řízení a nutnosti nesnít o obrovských výnosech .
-vskutku , „právo na návrat“ odporuje samotné myšlence řešení dvou států , neboť by znamenalo stát jediný – stát palestinský .
-před pouhými několika lety se zdálo , že íránská vláda má dostatečnou hrůzu z usa a že tedy bude směřovat k dohodě o svém jaderném programu , která přeruší , ba možná dokonce zastaví snahy íránu o obohacování uranu .
-takový systém spletitých odstupňovaných cel je přesně tím protekcionismem , který se vlády už od počátku procesu gatt před více než 50 lety snaží potlačit .
-vzhledem k�těžkostem , s�nimiž se při řešení výzvy politického islámu potýkají i hlavní aktéři v�regionu , je zřejmé , že jedinou schůdnou cestou k�zacelení trhliny je pro palestinskou samosprávu pod abbásovým vedením kompromis a dialog .
-loni v červenci byla akp ve svobodných a spravedlivých volbách s velkým náskokem znovuzvolena do čela vlády .
-chán , však potvrzují nebezpečí , které jsem v té době předvídal . někteří lidé označují existenci chánovy sítě za snahu o rozšíření „islámské bomby '' , ale vzhledem k tomu , že na seznamu příjemců figurovala spolu s libyí a íránem i severní korea , by bylo trefnější označit ji spíše za bombu korupční .
-v čele tohoto evropského mikrokosmu byl císař-král na dvou trůnech a parlamentní dvojčata zastupující značně nezávislou rakouskou a uherskou půli říše .
-na konci desetiletí řada režimů v sovětském bloku padla .
-ve všech demokratických společnostech se svoboda pro všechny sváří s rovností pro všechny , a naopak .
-manažeři mohou v dobách růstu požadovat vyšší a vyšší výnosy .
-je výsledkem obrovské podnikové restrukturalizace během posledních několika let , jež zvýšila produktivitu práce , a ochoty německých odborových svazů akceptovat skromné mzdové nárůsty .
-národnost kandidáta a postavení země , která nominaci podala – ať už jde o malou a chudou nebo velkou a bohatou zemi – , by však při rozhodování , kdo zmíněnou funkci nakonec získá , neměly hrát žádnou roli .
-až dosud byl za hlavní cíl lékařské vědy považován objev nového .
-snižování schodku bude nakonec uloženo k & # 160 ; ledu – buďto otevřeně , jak bych si to představoval já , anebo kradmo , jak to dělávají politici .
-těžká podvýživa a absence prenatální péče během těhotenství vystavují matku i dítě značnému riziku .
-zejména v arabském světě ovládá islám kultura ponížení , které pociťují lidé a národy pokládající se za hlavní poražené , za největší oběti nového a nespravedlivého mezinárodního systému .
-ukazuje se , že v americe zbylo ministerstvu financí jen málo práce , snad vyjma přípravy snížení daní , kdyby se americké hospodářství začalo vymykat kontrole .
-zajišťováním míru a rozvoje evropa lidstvu dobře poslouží .
-těžší ovšem je , tvrdí walzer , najít solidaritu na , ,široké '' úrovni , tedy tehdy , kdy musíme zvažovat neslučitelné hodnoty .
-ti , kdo problém popírají – jako ekonom jagdish baghwati – , nemohou dokázat , že na nejhorší nedojde .
-umožní-li však pokračování monetizovaných fiskálních deficitů , zvýšení dlouhodobých výnosů začne působit jako dusítko růstu .
-svou odpověď pak summers rozšířil o žijící ekonomy : „eichengreena , akerlofa , shillera a mnoho , mnoho dalších“ .
-před měsícem byl - neúspěšně - spáchán atentát i proti samotnému djindjičovi .
-brutální bombový útok v madridu minulý týden je součástí vlny teroru , jíž padli za oběť křesťané i muslimové .
-new haven – fundamentálním ekonomickým problémem světa je dnes ohromující ztráta obchodní důvěry .
-existují tři základní přístupy k řešení bankovní krize ( to znamená k současnému řešení fiskálních změn , suverénních dluhů a problémů kolem eura ) .
-tržní ekonomiky se zásadně odlišují v otázce , do jaké míry je vlastnictví velkých firem odděleno od jejich každodenního řízení .
-řada význačných ekonomů , včetně členů výboru organizace spojených národů vedeného laureátem nobelovy ceny za ekonomii josephem stiglitzem , doporučuje , aby hegemonii dolaru vystřídal „globální rezervní systém“ .
-třetí okamžik nastal právě teď .
-na území dnešní slovenské republiky žili lidé jen v průběhu dvacátého století v sedmi různých státech s pěti různými politickými systémy , počínaje liberální autokracií rakouskouherské monarchie ( 1901-1918 ) , pokračuje liberální demokracií meziválečné československé republiky ( 1918-1939 ) , fašistickým slovenským štátem ( 1939-1945 ) , opět liberální demokracií ( 1945-1948 ) , potom komunistickou československou socialistickou republikou ( 1948-1989 ) a dále československou federativní republikou ( 1989-1992 ) .
-samozásobitelští zemědělci mohou dokonce o tok genů z divoce rostoucích příbuzných rostlin na pěstované plodiny usilovat , aby udrželi širokou genetickou bázi odrůd , které vysévají ze semene získaného z dřívější úrody .
-proto příjmové daně do jisté míry ovlivňují náklady na pracovní síly a přispívají tak ke zvyšování nezaměstnanosti .
-obamova jaderná agenda
-místo nich vidíme to , co bývá někdy označováno za „vyváženou středostavovskou společnost“ , byť tato společnost nepostrádá významnou elitu superboháčů na jedné straně a nižší vrstvu na straně druhé .
-v současné době se na vydání sdr musí dohodnout země držící 85 % hlasovacích práv , což není právě recept na likviditu .
-a pak je tu ještě otázka globálních institucí a správy .
-peking – budoucí knihy o historii se v otázce , komu dát současnou světovou finanční a hospodářskou krizi za vinu , budou v závislosti na místě vzniku klonit k jednomu ze dvou přístupů .
-v kontinentální evropě a některých částech asie vždy existovala vize , v jejímž rámci se klíčové podnikatelské hodnoty soustředily na dlouhodobé instituty , zejména rodinu .
-vedle odhalování pravdy se maae ujala vůdčí úlohy v propagaci nových iniciativ , jejichž cílem je omezit šíření jaderných zbraní .
-to je samozřejmě v rozporu s jedním ze základních fyzikálních principů : s druhým termodynamickým zákonem , který říká , že entropie - rozpad veškeré hmoty a energie ve vesmíru až do konečného stavu inertní rovnoměrnosti - se s každým dalším procesem zvyšuje .
-liouově manželce , uznávané fotografce liou sia , znemožnila čínská vláda účast tím , že ji v & nbsp ; pekingu prakticky drží v & nbsp ; domácím vězení .
-a japonská vláda krátce před konferencí vyslala vojáky do mandžuska .
-možná už je pozdě na to , aby usa v iráku uspěly , ale ještě není pozdě na to , aby ostatní zvýšili pravděpodobnost , že usa zcela neselžou .
-vyšetřování fbi donutilo scotta odstoupit z & nbsp ; funkce .
-pokud rok 2011 přinesl zázrak v & nbsp ; podobě mubarakova sesazení , pak by institucionální asertivita odvážného parlamentu spolu s & nbsp ; neinstitucionálním tahríristickým tlakem mohly v & nbsp ; roce 2012 přinutit generály , aby akceptovali přesun moci k & nbsp ; civilní vládě ( s určitými segmenty vyhrazenými pro armádní establishment ) .
-jsou sice nejvlivnější , ale nepředstavují rusko v jeho celistvosti .
-dnes předčí americká správa sociálního zabezpečení nejednu soukromou pojišťovnu , a to prakticky ve všech dimenzích – od přístupnosti , přes telefonní informace až k transakčním výlohám .
-klasickým případem je britská royal bank of scotland , což není investiční banka .
-nepochybuji , že ještě v tomto století bude možné si koupit kapesní profesory – snad i s holografickými podobami – tak snadno , jako si dnes lze pořídit kapesního kasparova .
-pokusí se rozdělit zemi podle toho , zda její občané hovoří rusky , nebo ukrajinsky .
-oproštění se od tabáku je účinné : i ti , kdo přestanou kouřit ve věku 40 až 50 let , významně sníží své riziko úmrtí a u těch , kdo přestanou ve věku 30 až 40 let , se riziko blíží celoživotním nekuřákům .
-podle dohody větší státy souhlasily s omezeními své moci , aby se posílila váha unie jako celku , a menší státy chápaly , že členství v klubu jim přináší možnosti , které by jinak neměly , zejména možnost podílet se na formování společných politik .
-výsledek francouzského referenda však přiživil obavy dalších evropských vlád , že jakýkoliv nový návrh , který by mohly předložit s cílem znovuoživit ústavu eu , by tváří v tvář domácí i celoevropské opozici ztroskotal .
-nad východní asií stále visí přízraky těchto dějin a každá země usiluje o nalezení způsobu , jak se vyrovnat se svou minulostí .
-podle nedávné zprávy organizace spojených národů , nazvané imperativ zaměstnanosti : zpráva o celosvětové sociální situaci , do velké míry selhaly národní politiky , jejichž cílem je být protiváhou těchto trendů a nezaměstnanost snížit .
-zástupci talibanu v posledních letech u vědomí všeobecné dychtivé touhy ukončit desítky let trvající boje v zemi opakovaně zdůrazňují , že se jejich politické ambice omezují na afghánistán .
-svět ale musí hledět ještě dál za tyto otázky .
-toto rozhodnutí by nebylo namířeno proti individuální mobilitě , nýbrž proti mrhání vzácným zdrojem , jehož je naléhavěji potřeba k produkci syntetických materiálů .
-pokud se tak nestane , osn , nato a evropská unie poskodí nejen sebe sama , ale i humanitární hodnoty , jimiž ospravedlňují své , ,humanitární `` zásahy .
-znemožňování volného sdílení virových vzorků v & dnešním věku globalizace způsobuje riziko vzniku nových kmenů chřipky , které by mohly unikat pozornosti až do chvíle , kdy dokážou zapříčinit smrt tolika lidí jako při pandemii , která v roce 1918 stála život desítky milionů lidí .
-to bylo zásadní rozlišení .
-v jistém smyslu osn , annan a lidskoprávní aktivisté , již jsou zřejmě jeho největšími stoupenci , uvízli v této křížové palbě .
-náročným úkolem je zformovat soudržnou politiku , která bude zadržovat i odrazovat ambice íránu , aniž by zjitřovala jeho niterný pocit národní zranitelnosti .
-pro prezidenta nebo premiéra je snadné ignorovat tisíc webových stránek ; mnohočetnost internetových kanálů a hlasů tak paradoxně oslabila schopnost médií nutit politické lídry k zodpovědnosti .
-jak před červencovým summitem skupiny g-20 v itálii prohlásil jeden britský činitel : „měli bychom začít připravovat ústupové strategie , ale měli bychom je začít zavádět teprve ve chvíli , kdy si budeme jistí , že zotavení zapustilo kořeny a je samoudržitelné , a já si myslím , že nikdo neříká , že se už v tomto bodu nacházíme.“
-několik ekonomik , které v nedávné době čelily finančním krizím , se rychle odráží ode dna .
-toto poselství pronesené 3. července 1933 zapůsobilo jako bomba .
-ačkoliv není zapotřebí vyhlašovat okamžitě určitý konkrétní kurz zlotého při vstupu do eurozóny , podobný program musí ve svých klíčových bodech obsahovat i vzorec pro jeho stanovení .
-snahy o spojení politiky a náboženství rozdělují muslimy stejně , jako rozdělovaly křesťany v evropě .
-krátkodobě jich existuje velmi málo : saúdská arábie – jediný producent opec s & nbsp ; přebytkem kapacit – by mohla zvýšit produkci a usa by ke zvýšení nabídky ropy mohly využít svých strategických ropných rezerv .
-zmíněnou nadaci budu i nadále podporovat .
-princeton – měnový chaos je zpátky a zdůrazňuje poptávku po revidovaném mezinárodním monetárním řádu .
-z měkké síly rozšířené evropy můžeme mít prospěch všichni .
-jejich díla působí tak trochu jako žádosti o zaměstnání – jako urputná snaha upozornit na sebe prezidenta baracka obamu .
-bývalý viceprezident dick cheney při několika příležitostech konstatoval , že nelituje metod , které on sám s oblibou nazývá „rozšířený výslech“ , jako je navozování pocitu tonutí , protože tyto metody „zajišťovaly naší zemi bezpečí“ před teroristickými útoky .
-zaměstnanci se musí smířit s imperativem celoživotního učení , jelikož poločas rozpadu jejich kvalifikace se zkracuje , a firmy zase musí předpokládat rychlé změny a adaptovat se na ně .
-tvrzení , že centrální banky si nyní vedou lépe – jako například v mexiku nebo polsku – nepředstavují žádná opodstatnění pro volbu většího rizika .
-rozvíjející se země právem namítají , že za dnešní problém klimatických změn je zodpovědný právě západ .
-tím , že veřejné výdaje na základní vzdělání jsou začasto ukořistěny školskými odbory , které jimi mohou jistit privilegia a výhody svých členů ;
-z uvedených tří případů se největší veřejné podpoře obvykle těší nezaměstnaní .
-kouzlo tragické literatury je v tom , že cítíme , že hrdinové jsou schopni svůj osud přemoci , ale neučiní tak , protože jsou slabí , hrdí nebo slepí .
-rovnoprã¡vnost vå¡ech občanů je zã¡kladnã­m prvkem liberã¡lnã­ho řã¡du .
-tyto společné hodnoty odlišují vztah mezi japonskem a indií od japonského vztahu s čínou .
-ti z „kanceláře č. 39“ podléhají úřadu financí a účetnictví .
-v & nbsp ; usa , kde federální rezervní systém operuje s & nbsp ; podobně uvolněnou měnovou politikou , vypadá situace růžověji – alespoň na první pohled .
-pomýlené představy se naopak odrážejí v příměrech typu „nákaza“ a „dominový efekt“ , z nichž jako by vyplývalo , že se finanční trhy stávají slepými , zhoubnými a nesoudnými , když je něco naruší .
-místo toho navrhovalo , aby armáda hrála při protiteroristických operacích podružnou roli .
-zátah – vykonaný těžce ozbrojenými a maskovanými muži ! – byl údajně proveden s cílem vyšetřit nezákonné jednání zaměstnanců společnosti .
-statistiky nejsou jen odrazen reality : pomáhají ji utvářet .
-posune-li se svět k novému a globálněji demokratickému systému , budou i další státy cítit potřebu smysluplně vystoupit do popředí a přijmout novou zodpovědnost .
-prezident chu ťin-tchao od roku 2003 , kdy nastoupil do úřadu , opakovaně varuje , že se čínská ekonomika přehřívá , a jeho vláda se podle toho v poslední době chová , když nejprve loni v říjnu zvýšila úrokové sazby , v červnu zavedla novou daň na prodej domů a v červenci revalvovala jüan .
-je-li bůh vševědoucí , ví , kolik utrpení tu je .
-evropa zdaleka není jediným , utvářejícím se národem , nýbrž pouze prostorem sbližování řízeného demokratickými normami a sdíleným právním řádem .
-pokud se historie opakuje , pak nyní přichází čas na třetí náhlé vyschnutí kapitálového přílivu na rozvíjející se trhy .
-proto by se nejen rusko , ale i historikové , měli v tuto chvíli úsudku o prezidentu putinovi zdržet .
-většina politických prognostiků očekává v listopadových volbách do kongresu kvůli této otázce značné ztráty demokratů .
-protože jejich legitimita se neopírá o podporu lidu , tyto nedemokratické režimy jsou přesvědčené , že riziko otevírání se je větší než daň , již platí za zachovávání stata quo .
-je skutečně legitimní se ptát , zda chování dnešních kapitalistů posiluje všeobecné přijímání kapitalismu .
-istanbulský summit nato byl silnou ukázkou atlantického spojenectví , které bere zřetel na úkoly dneška i zítřka a je připraveno dostát bezpečnostním výzvám , kdekoliv se objeví .
-museli by pak nejen prokázat své schopnosti , ale i zmírnit své postoje .
-nedostatečná konkurenční schopnost německých pracujících začala být zjevná až po pádu železné opony a vzniku tržních ekonomik v bývalých komunistických státech .
-v americe a v evropě dnes řada lidí požaduje stažení sil nato z afghánistánu .
-jestliže doping na olympijských hrách zakazujeme , máme vůči sportovcům povinnost odstrašovat , odhalovat a trestat ty , kdo jednají nečestně .
-a zde narážíme na obtíž .
-na naléhání manželky michelle obamové se prezident poprvé rozhodl přestat kouřit v & # 160 ; roce 2006 a pomáhal si přitom nikotinovými náhražkami .
-volný obchod je však obousměrná ulice .
-staří a nemocní budou usmrceni eutanázií , ostatní budou sterilizováni a naočkováni .
-nedã¡vno čã­na , společně s indiã­ , podepsala dohodu o obchodu a přã¡telskã½ch vztazã­ch , jiå¾ navrhlo asean , zatã­mco japonci zavã¡hali .
-dnes jsou to sdružení typu amnesty international nebo hands off cain , která tlačí státy ke zrušení trestu smrti .
-oligarchie je totiž příliš mocná a zručná , než aby proti ní mohl zaútočit frontálně .
-bez jednotné měny by mnohé z těchto zemí byly podlehly sestupné spirále devalvace , platební neschopnosti a hledání pomoci u mmf .
-všichni si uvědomujeme , že i když návrh v hlasování uspěje , rezoluce osn nebude závazná , a že zavedení a vymáhání moratoria je pouze nezbytným prvním krokem směrem k úplnému zrušení trestu smrti .
-evoluční biologové se o tento typ altruismu zajímali téměř tolik jako o altruismus založený na příbuznosti .
-konečně se dostali na půdu .
-to by představovalo obzvláštní problém pro usa , kde fed připustil , aby sazba federálních fondů klesla téměř k�nule už v�lednu 2009 .
-pravidla pro kalamity a krize
-nakonec si evropa bude muset přestat myslet , že usa spasí její ekonomiku , a bude se muset začít spoléhat na své vlastní zdroje .
-započítány nejsou náklady na další zlepšení potřebná k podnícení zájmu dětí o školní docházku , jako jsou stravování , dotace školného a efektivnější , dynamičtější a znalejší učitelé .
-samozřejmě že čínské samosprávy nikdy neměly naprostou finanční ani fiskální autonomii .
-uvedla jsem biologický problém s jedenácti proměnnými a použila jednoduchý postup zvaný rozměrová analýza , abych předvedla , že je zapotřebí empiricky zkoumat jen tři z nich , neboť vztahy mezi ostatními proměnnými je možné odvodit logicky . , ,neprovedla jste ale pokusy , '' namítali studenti , , ,jak to tedy můžete vědět ? ''
-země , která je z miami vzdálena pouhou hodinu letu , zápasí s chudobou , jejíž míra se blíží nejzbídačelejším koutům subsaharské afriky .
-hledíme-li stranou , když dochází k vraždění našich lidských bližních , něco není v pořádku .
-jakmile se program rozjede , globální fond sleduje jeho realizaci , provádí kontroly , program sleduje a vyhodnocuje .
-podle našeho žebříčku tedy nelze odhadnout krátkodobé cyklicky se opakující hospodářské okolnosti . lze podle něj pouze posoudit dlouhodobější vyhlídky hlavních ekonomik .
-například je pro viry obvykle nesnadné přeskakovat mezi druhy , protože by musely změnit svou stavbu .
-v mezinárodních otázkách je merkelová oproti schröderovi skeptičtější vůči evropskému rozšiřování , zejména vůči začlenění turecka .
-v & nbsp ; posledních měsících přitom rozhodně došlo k & nbsp ; několika takovým otřesům – od krize evropských svrchovaných dluhů přes japonské přírodní katastrofy a strmě zvýšené ceny ropy až po další zádrhel v & nbsp ; oživení realitního trhu v & nbsp ; usa .
-mravnost nešíření jaderných zbraní
-nikdo zvnitřku ani zvenčí nedokáže odstranit tamní zastaralý dynastický komunistický režim a nikdo zvenčí si nemůže dělat naděje , že zakrátko změní politické vystupování zkostnatělých severokorejských armádních , stranických či administrativních byrokratů .
-papír , na který píšeme , voda , jež nám teče z kohoutku , lék , který nás uzdraví , dřevo , z něhož stavíme domy i nábytek , to vše má původ v lese , a to mnohem větší měrou , než si většina lidí uvědomuje .
-rovněž jacques chirac – další z velkých evropských kritiků eura a ecb – utrpěl ve volbách těžkou osobní ránu , když francouzi odmítli ústavu eu .
-úrokové sazby se vyšplhaly o tisíce procentních bodů , ale během několika dnů se začaly do turecka vracet peníze .
-autorům studie iniciativa za spravedlnost , kteří v jejím rámci požadovali po rumunské vládě informace , byly ochotně poskytnuty i takové údaje , jejichž zveřejnění by ještě před několika málo lety bylo nemyslitelné .
-zatím je tedy vše v pořádku , ale efektivní vedení se projevuje také činy a praktickou politikou .
-na začátku června guvernér rcb sergej ignatiev přiznal nejen to , že letošní inflační cíl nebude splněn , ale také to , že rcb není ochotna prosazovat inflační cíle na úkor konkurenční schopnosti měnového kurzu .
-řečeno jednoduše , američané se nepodělili o to , co mnozí nazývali velkým zklidněním , nýbrž o matku všech bublin .
-euro brání zemím , jako jsou francie a itálie , hrát svou starou protekcionářskou hru spočívající v devalvaci svých měn na německý úkor .
-lidé ovšem předstírají , že v případě izraele tento protimluv platí .
-museveni se sice nemusel obávat prohry , ale nenechal nic na náhodě a dal raději zatknout všechny spolupracovníky a příznivce svého oponenta .
-roku 1989 čína povstala z popela masakru na náměstí tchien-an-men .
-vědí až příliš dobře , že tenhle starý boží trest , , ,kapitál , '' bude dnes těžké , ba nemožné vyvlastnit , a přesto stále nejsou schopny či ochotny tuto novinku sdělit svým voličům .
-v africe se používá pouhých 13 kilogramů hnojiv na hektar , oproti 90 kilogramům v jižní asii a 190 kilogramům ve východní asii .
-paříž – když jsem kdysi vyzvedával z hotelu ekonoma poctěného nobelovou cenou amartyu sena , recepční se mě ptala , zda jsem jeho řidič .
-když například vypukla finanční krize ve východní asii , následovala systematická snaha svalit vinu na postižené země : jejich ekonomiky prý nějakým způsobem ochromil „klientský kapitalismus“ !
-kdyby byl ovšem eliot investorem z povolání a v posledních několika letech sledoval evropské finanční trhy , jsem si naprosto jistý , že by zvolil srpen .
-se selektivním oznamování výsledků bychom skončili u dlouhého seznamu všech falešných objevů učiněných napříč výzkumnými týmy , přičemž pod hromadou tohoto neopakovatelného odpadu by zapadlo oněch několik skutečných nálezů .
-prosté položky jako džínsy , kola nebo hollywoodské filmy napomohly k dosažení příznivého výsledku přinejmenším ve dvou z nejvýznamnějších amerických cílů po roce 1945 .
-a konečně platí , že dočasné zrychlení růstu v eurozóně ve druhém čtvrtletí pozvedlo finanční trhy a euro , avšak nyní je zřejmé , že toto zlepšení bylo jen přechodné .
-dluh a klam
-jak zareagují finanční firmy ?
-před propuknutím krize měla řada lidí podezření , že agregátní poptávka umožňující vysoký růst je neudržitelná , třebaže problém se zdál snad příliš hypotetický na to , aby vyvolal kolektivní kroky .
-za vlády ronalda reagana přispěly obchodní zákony , které hrozily jednostrannými sankcemi v případě , že ostatní země nebudou jednat , k vytvoření podmínek , které ostatní země přivedly k nápadu vytvořit světovou obchodní organizaci a její mechanismus urovnávání sporů .
-tato dvě témata se mohou , ale nemusí objevit v soulu na stole k dalšímu prodiskutování .
-žádná politická síla v rusku neví , jak na rizika , jež „měkké autoritářství '' přináší , reagovat .
-nejvýstižnějším indickým ekvivalentem postavení černých američanů je totiž postavení dalitů – tito příslušníci nejnižší kasty , jimž se dříve říkalo „nedotknutelní“ , trpěli po celá tisíciletí ponižující diskriminací a útlakem .
-avšak evropský projekt je skutečně významný pouze z dlouhodobého hlediska .
-to vyžaduje kreativní prostředky pro uskutečňování informačních přenosů a odesílání a přijímání oficiálních plateb prostřednictvím telefonu .
-výsledkem jejich činnosti je amalgám etických , estetických , náboženských a praktických postupů .
-když dorazili , začaly na předměstích vyrůstat hnědé kupole vyrobené ze zkřížených větví a vrstev pestrobarevných rohoží , které vypadaly jako houfy strakatých brouků .
-dnes je kapitálu ve vyspělém světě hojně , míra úspor klesá , protože lidé více spotřebovávají , a produkce se rostoucí měrou přesouvá ke službám , kde jsou nárůsty produktivity omezené .
-to zachová , nebo dokonce prohloubí globální disparity , obzvlášť vzhledem k neochotě zemí na severu umožnit volnou mezinárodní migraci .
-a veřejnost má vlastně pravdu : přestože se tyto modely opírají o poněkud vědecký základ , mohou se ohromně mýlit .
-světový řád se však změnil .
-není pochyb o tom , že holandsko vydává vysoké částky na péči o své staré .
-nečlenstvím v eurozóně naše hospodářství nebylo nijak postiženo .
-také inovace jsou sice někdy dílem geniálních jednotlivců – 21 britských laureátů nobelovy ceny byli uprchlíky – , avšak obvykle pramení ze synergie talentovaných lidí pracujících v těsné blízkosti .
-většina z nich je přesvědčena , že v afghánistánu neexistuje vojenské řešení , a vědí , že veřejné mínění , zejména v době značných ekonomických těžkostí , nemá na takové operace chuť .
-režim proto odmítá jakkoli riskovat .
-zahajovat volební kampaň dříve než ostatní kandidáti může být nebezpečné , ale pokud člověk začne mnohem dříve než všichni ostatní , nemusí se vážní soupeři někdy vůbec objevit .
-seattle a vancouver jsou zeměpisně blízko , ale vancouver obchoduje se vzdáleným torontem víc než s nedalekým seattlem .
-dokonce mohou korupci ještě pevněji etablovat , protože maskují její skutečné příčiny i pachatele .
-mezinárodní společenství může izraelcům i palestincům nabídnout stabilitu a zlepšení životních podmínek , a to tak , že se souhlasem osn , s podporou usa a spolu s mírovými a humanitárními jednotkami , které jsou na místě , zasáhne .
-největším zázrakem předvolební kampaně 2009 je obroda liberálních demokratů ( fdp ) .
-co bude dál ?
-tři desetiletí to tak fungovalo , ale nyní tato vazba slábne .
-dnešním všudypřítomným mechanickým primárním hybatelem – osazeným do bezmála miliardy silničních i terénních vozidel , plavidel , letadel a do bezpočtu strojů a nástrojů – je benzínový spalovací motor , vamp # 160 ; zásadě nezměněný od 80.amp # 160 ; let 19.amp # 160 ; století .
-společně – a také s čínou – však mohou vést svět k budoucnosti charakterizované větší stabilitou a prosperitou .
-ekonomická logika je přesvědčivá : odstranění obchodních a migračních bariér by bylo výjimečně moudrou investicí .
-zřejmě žádná žijící osobnost politiky se nesetkala s tolika světovými předáky a nepřetrvala tolik lídrů jako arafat .
-je samozřejmě pravda , že reálné dlouhodobé úrokové sazby dost zřetelně poklesly – sice nijak náhle a nejen v poslední době , ale klesají poměrně plynulým tempem už víc než dvacet let .
-země chronicky prodělávající krizi zadluženosti , od mexika přes rusko až po jižní koreu , svorně odrážejí příliv kapitálu od investorů , již s ohledem na sesouvající se dolar hledají východisko .
-ať už lživým vykazováním dovozů a vývozů nebo zneužíváním zkorumpovaných vládních úředníků ( jichž má čína hojnou zásobu ) , soukromý kapitál si nakonec najde způsob , jak regulace obejít , jsou-li pobídky dostatečně silné .
-rozvojová pomoc v pěti snadných krocích
-jedním příkladem jsou eurobondy , které merkelová označila za tabu .
-třetím imperativem je budování bezpečnějšího a jistějšího světa . při tomto úsilí se musíme odvážně stavět za demokracii , lidská práva a mír .
-způsob správy rybolovných oblastí je třeba od základu nově promyslet , abychom překonali ekologické a evoluční problémy , jež současná praxe vyvolává .
-britové , jak osborne ví , jsou ochotni půjčovat své vládě v enormním měřítku – a za podmínek , které jsou velkorysejší než ty , jež nabízí mmf .
-a nyní si vezměme druhou zemi .
-hlavním záměrem nových evropských regulačních opatření , o nichž se uvažuje ( vedle takzvaných nových pravidel basel iii ) , je vnést do finanční soustavy více stability .
-někteří z těchto „přátel izraele“ zastupují politické strany , jejichž přívrženci mírně řečeno nejsou tradičně známí coby osoby chovající bratrské city k židům .
-vždyť kyperský konflikt se táhne už od roku 1974 a po celou dobu vyčerpával generální tajemníky osn a všemožné zvláštní zástupce a způsoboval pády vlád jak v řecku , tak na kypru .
-jenže to úprk jedině zesiluje , protože tvorba většího množství peněz brání růstu úrokových sazeb na úroveň , při níž by pro kapitál bylo lákavé zůstat .
-moje podpora trestu smrti by značně ochabla , pokud by procento poprav nevinných lidí bylo skutečně tak vysoké , jak mnozí tvrdí .
-většina izraelců je dnes ještě více než včera přesvědčena o tom , že se může spolehnout pouze sama na sebe a okrajově i na židovskou diasporu .
-než však udeřila krize , přerozdělování bohatství ( a daně a odvody na sociální zabezpečení , které jej umožňují ) se pokládalo za největší překážku efektivity hospodářství .
-avšak ani větší obálka oficiálních prostředků nestačí k zastavení problémů s nesolventností řecka , irska a možná i portugalska a španělska .
-v & # 160 ; informačním věku to však může být stát ( či nestátní aktér ) s & # 160 ; nejpůsobivějším příběhem , který se prosadí .
-příznačné navíc je , že soud na žádost zúčastněných stran souhlasil s postoupením odvolacího řízení svému velkému senátu .
-zastoupené země musí projevit velkorysost a zajistit , aby světová ekonomika sloužila všem lidem .
-to částečně odráží vlivy agresivních exportních strategií dalších asijských ekonomik , kde kolaps domácí poptávky vyvolal dumping vývozních cen , jež poklesly mnohem více , než kdy mohly díky pouhému zvýšení konkurenceschopnosti .
-nabídkovou stranu však současně zasahuje nezaměstnanost , ztráta kvalifikace a sebedůvěry a omezování investic .
-palestinská vláda je sjednocená administrativně , ale rozdělená politicky .
-jak potom ekonom objasní malajsijský úspěch ?
-nastavit strop účtů target je fundamentálně mnohem vhodnější politika k udržení schodků běžného účtu na uzdě než mzdové politiky , jež zvažuje nový pakt pro euro .
-a nyní není válka mezi členskými zeměmi eu jen nepravděpodobná nebo neuvěřitelná , je naprosto nemožná .
-v minulých měsících zasáhla obrovská sucha obilné regiony v rusku a na ukrajině , zatímco brazílii a austrálii postihly rozsáhlé záplavy ; další sucho dnes ohrožuje „obilný pás“ v severní číně .
-američané a číňané se musí vyvarovat toho , aby se zveličené obavy staly sebenaplňujícím se proroctvím .
-americký mírný , neúplný a roztříštěný regulační model nepřežije a jinde ve světě se vzorem nestane .
-cambridge – v důsledku loňského světového finančního zhroucení se teď všeobecně uznává , že nedostatečná ochrana investorů může významně narušovat způsob rozvoje akciových trhů a ekonomik a také výkon konkrétních firem .
-i tento revidovaný údaj však byl až příliš shovívavý a eurostat ho později vzal zpět .
-dějiny lze užitečně rozdělit do údobí vymezených převažujícími primárními hybateli .
-členské státy by však již měly vědět , že jim nic neodpustím .
-političtí komentátoři občas tvrdí , že v jejich fundamentálních politických přístupech rozeznávají významné odlišnosti .
-čína doufá , že kontrolou námořních tras získá páky , jimiž bude ovládat potenciál k hospodářskému růstu indie .
-problém obamovy ameriky má kořeny v rozporné povaze prezidentova vedení .
-globální potravinová krize sama od sebe nepřejde .
-před sedmi měsíci , na okinawském summitu na japonském ostrově kjušú , se světové vůdčí průmyslové země dohodly na ustavení „digital opportunity taskforce ( komise pro využívání digitálních technologií ) “ , jenž by napomáhala tomu , aby byly informační a komunikační technologie sdíleny společně s chudými zeměmi .
-zatímco ústřední role státu v lidských záležitostech je produktem moderního evropského vývoje , tradiční společnosti jako indie a pákistán nikdy nepokládaly stát za cokoliv více než za nezbytné zlo , poněvadž velké společnosti nelze spravovat na starém kmenovém základě .
-neřízená dezintegrace vyvolávající vzájemné výčitky a neuspokojené nároky by evropu uvrhla do horšího stavu , než v & # 160 ; jakém byla , než se pustila do smělého experimentu sjednocení .
-camara je nesmírně citlivý na mezinárodní tlak a od organizace human rights watch si nedávno vysloužil chválu za svou „velmi důležitou snahu“ uvědomit si ničivou moc korupce a obchodu s drogami a zahájit oficiální tažení proti oběma těmto zlům .
-pokud by ceny domů v tomto městě ostře klesly , pokles hodnoty domu by se kompenzoval růstem hodnoty termínové smlouvy .
-je to i naše povinnost .
-od dob první telegrafní linky mezi washingtonem a baltimorem , postavené federální vládou v roce 1842 , až k dnešnímu internetu , od zemědělských nástavbových studijních programů v 19. století k programům vojenského výzkumu ve 20. a 21. století podporovala nová průmyslová odvětví v usa tichá , tržně orientovaná průmyslová politika .
-ne , problém hříšných kněží tkví v tom , že v demokratických společnostech již není moc tak privilegovaná jako kdysi a lidé jeví menší ochotu tolerovat pokrytectví .
-to má své důsledky pro regionální rovnováhu moci , poněvadž irák se sbližuje s & nbsp ; íránem jako protiváhou turecka , u nějž se má za to , že ochraňuje sunnity .
-cambridge – zápal pro rozvíjející se trhy letos vyprchává , a nejen proto , že americká centrální banka plánovaně seškrtává své rozsáhlé nákupy aktiv .
-vždyť porozumění mezí francií a německem není samo sebou .
-dokonce i bývalý americký viceprezident a nositel nobelovy ceny al gore – který se kdysi chlubil , že právě jeho hlas rozhodl o podpoře etanolu – ji označuje za „omyl“ .
-v & nbsp ; březnu 2010 torpédovala severokorejská ponorka na volném moři jihokorejskou loď a zabila 46 námořníků – čímž potopila veškeré vyhlídky na brzké obnovení jednání o naplnění severokorejského závazku z & nbsp ; roku 2005 , že pchjongjang zruší všechny své jaderné programy .
-taková politika omezí nárůst nezaměstnanosti , a to jen za cenu přechodně vyšší inflace .
-selhání americké politiky naopak přispěla k dalšímu snížení legitimity americké moci .
-na jedné straně vytvořila ekonomické vazby a finanční závislost , které učinily mnoho přechodových ekonomik vysoce náchylnými vůči krizi na západě .
-obklopila se nesmírně zasvěcenými poradci , kteří se specializovali na taková důležitá témata , jako je zásadní role žen v & # 160 ; rozvojovém světě ve zvyšování vzdělanostních úrovní , řízení populačního růstu , potlačování degradace životního prostředí a budování ekonomik opřených o mikroúvěry .
-jako premiér nehrú starostlivě opečovával nově zrozené demokratické instituce tím , že k nim projevoval úctu , ba přímo podřízenost .
-zahraničním pozorovatelům zaváněla jeho agenda neskrývanou xenofobií : odmítat euro , zbavovat se povinností vyplývajících z členství v eu a tvrději přistupovat k zahraničním azylantům .
-nepopírám svoji zodpovědnost za podporu putina .
-realizace operace následník ( jejíž součástí může být prodloužení funkčního období současného prezidenta ) tudíž připomíná způsob , jímž se k moci dostal samotný putin , a ponechává rusko na téže cestě , již ve svém posledním roce v úřadu prezidenta zvolil jelcin – na cestě , která buď zemi zničí , anebo ji dovede do slepé uličky .
-ruská kultura pohrdání
-není dne , kdy by se v novinách neobjevily velké titulky ohlašující nějakou novou fůzi v evropě ; německo je v jednom ohni , jak jeho mamutí korporace předvádějí různé předsvatební rituální tanečky .
-země ostatně už předvedla , že za příznivých podmínek je její vývoz konkurenceschopný a dokáže rychle růst .
-ostatně období let 2002-2007 bylo jediným zaznamenaným oživením , během něhož poklesl reálný příjem mediánní rodiny .
-jedna strana tvrdí , že sílící zalidnění planety ohrožuje životní prostředí a prosperitu .
-oba vlivy jsou v průběhu oněch mnoha let , během kterých sami sebe stavíme ze surového materiálu našich genů a našeho okolí , nerozlučně spjaty .
-čína zavírá oči před přehodnocením maa i před poctivým vylíčením událostí na náměstí tchien-an-men v roce 1989 .
-vznikající čtyřvrstvý svět přináší tři klíčové výzvy .
-tvrdí , že se první britstí učenci a správci , kteří dokumentovali indické zvyklosti a překládali rané posvátné texty , nechali obalamutit bráhmany - prvními indy , kteří se naučili anglicky a byli tedy jedinými prostředníky - a ti jim namluvili , že se hinduistická sociální struktura zakládá na kastách .
-zajišťování anonymity obvinění umožňuje vojenským úřadům vyhýbat se vedení rozsáhlých záznamů , což zase oficiálním činitelům umožňuje vyhýbat se zodpovědnosti za otevřená hlášení sexuálních útoků a trestním stíháním – a tedy nestíhat sexuální delikty seriózním a systematickým způsobem .
-po válce pak většina zemí vybudovala propracované sociální státy , v & # 160 ; nichž se veřejný sektor v & # 160 ; průměru rozrostl na více než 40 % národního důchodu .
-neřešitelným dilematem spravedlnosti v době transformace je to , že společnosti zpustošené odkazem brutálního porušování lidských práv často od práva požadují , aby bylo oporou legitimity nástupnického režimu , avšak dočkají se jen toho , že tyto prospěšné cíle podkopou obtíže a kompromisy , jež jsou vlastní samotné transformaci .
-ty , kdo chtějí , aby se banky „srovnaly do latě“ , i kdybychom si při tom měli nabít nos , vickers nepotěší .
-její úspěch není pro nás ostatní hrozbou .
-ode všech se jednoduše očekává , že budou svědomitě plnit rozkazy .
-čím to že se během nynější krize prosadily uvážlivé hospodářské politiky ?
-dále odpůrci uvádějí , že ani fed nekupuje dluhopisy rozkolísaných amerických států , například kalifornie či illinois .
-zastánci dialogu s íránci a jejich syrskými spojenci , jako třeba bývalý ministr zahraničí spojených států james baker , se lopotí kvůli falešné představě , že by vážně mohli dosáhnout porozumění , které by umožnilo důstojný odchod usa z iráku a napomohlo stabilizaci této zbědované země .
-to se stalo nebo se děje v mnoha částech světa .
-prosazují se sklony buď k přílišné zdrženlivosti ( evropa ) , anebo k rozšiřování snah ( spojené státy ) .
-žádná velká rozhodnutí na schůzce nepadla a účastníci se omezili na výzvy ke zlepšení monitoringu a regulace finančních toků .
-umírnění pravicoví voliči , kteří si přáli italskou ( tj . poněkud rozředěnou ) variantu reaganovsko-thatcherovské éry , jsou rozčarovaní .
-navzdory všeobecnému domnění ale iráčtí šíité netvoří homogenní šik stojící proti údajně jednotným sunnitům .
-bohaté země severu nemohou pokračovat jako dřív , rozvíjející se průmyslové země se musí od staré průmyslově založené cesty k prosperitě odklonit a zbytek světa se na ni nesmí ani pouštět .
-došlo k rychlé modernizaci veřejných institucí , zavedení politické demokracie a vytvoření standardní tržní ekonomiky .
-obrana brazilské měny selhala a měla opačný účinek .
-evropská nezaměstnanost krátce předtím opět výrazně povyskočila a „socialistické“ státy se s racionálním hospodářským rozvojem neslučovaly natolik , že jejich politické systémy dva roky nato padly .
-to se ve velkém měřítku děje například v řecku a španělsku .
-jednou z nich je stárnutí evropského obyvatelstva .
-úřad osn pro koordinaci humanitárních záležitostí má na webu kompletní databázi zachycující , kolik nákladních vozů s & # 160 ; rozličnými dodávkami vpustily do pásma izraelské úřady .
-nedošlo k „návratu“ do sovětských ani předrevolučních dob , navzdory snahám režimu přivlastnit si symboly carského ruska .
-základem našich globálních snah jsou transatlantické vztahy , zakotvené v našich společných hodnotách .
-v itálii je však v referendu nezbytná 50 % účast , aby byl výsledek platný .
-v roce 2005 byly příjmové disparity v tehdejší eu-25 oproti americkým státům dvojnásobné .
-právě tento ekonomický a sociální systém se obvykle považuje za „švédský model“ .
-solidaritu zdolává únava
-novátorské firmy začínající od píky se rychleji než kdykoliv v minulosti proměňují v ohromné společnosti .
-nijak očividně se ale nezdá , že by dnes americká ekonomika byla o 6 & # 160 ; % méně produktivní , kdyby měla finančně pojišťovnický systém roku 1950 namísto toho , který převládl v & # 160 ; posledních 20 letech .
-liberalizační pokusy v energetice a veřejných službách ochably , zřejmě i proto , že vláda si skrze dividendy ze státních podniků přivlastňuje renty monopolů .
-národní uvědomění , zejména v & nbsp ; číně , se však omezovalo na úzkou elitu a mas se téměř nedotklo .
-terorismus musí být zbaven veškeré legitimity , kterou by pro někoho mohl mít .
-investice do technologií šetřících zdroje však v dostatečném rozsahu chybějí , protože tržní signály neposkytují správné pobídky a vlády stále ještě adekvátně nespolupracují na jejich vývoji a šíření .
-jeho populistická rétorika a náboženský fundamentalismus u značné části konzervativně pragmatických duchovních a jejich příznivců vyvolaly nepřátelství .
-před rokem a půl představitelé evropské unie v tampere uvedli , že uznávají „potřebu efektivnějšího řízení pohybu obyvatelstva“ .
-musíme se domluvit do konce roku 2009 , abychom zahájili ctižádostivější snižování emisí skleníkových plynů .
-stejně jako v případě strategické spojenectví ve válce proti terorismu , které vedlo až jakémusi , ,poločlenství '' ruska v nato , je i zde přitažlivost vzájemná .
-bushův bílý dům během týdne „krutého šprýmování“ prohřešek ještě znásobil .
-mezikontinentální lety by zase byly mnohem větší strastí bez plynových turbin , které ve 30.amp # 160 ; letech minulého století vynalezli frank whittle ( který o turbodmychadlech , dnes dominantní komerční koncepci , přemýšlel už před sestrojením svého prvního proudového motoru ) a joachim pabst von ohain .
-pravda , věda a technologie samy afriku nespasí . bez vědy a technologií však afrika spásy nedojde .
-přetrvala by však tato nerozdílná štědrost , kdyby země se středními příjmy věděly , že se jejich hlasy skutečně počítají a že se utrácejí jejich vlastní peníze ?
-co stále chybí , je dostatečná úvaha nad tím , co tvoří podstatnou část konceptu společných hodnot , a kontext praktických projektů , na nichž mohou africké země pracovat společně .
-bolivijci moralesovy kroky široce podporují , neboť takzvané privatizace ( neboli „kapitalizace“ ) prováděné za vlády bývalého prezidenta gonzala „goniho“ sáncheze de lozady chápou jako zlodějnu : bolívie získala pouhých 18 % výnosů !
-putin totiž dal rusku něco , co za celou dobu své existence nepoznalo : občané jsou spokojenější s hospodářským výkonem vlády ne díky propagandě , ale proto , že jejich životní úroveň se viditelně pozdvihla .
-většina muslimských vzdělanců , včetně šajcha univerzity al-ažar v káhiře a vlivného šajcha karadávího usazeného v kataru , je však přesvědčena , že islám slučitelný s demokracií je , přinejmenším tak jak ji definují : respekt k právnímu řádu , rovnost mezi občany , férové rozdělení majetku , spravedlnost a svoboda projevu a shromažďování .
-vzhledem k těmto skutečnostem by veřejní činitelé , investoři a přední podnikatelé hledající revoluční myšlenky , převratná řešení a nevyužité schopnosti neměli dopustit , aby jejich rozhodování příliš ovlivňovaly turbulence či naopak klid v té či oné společnosti .
-v tomto směru je výkon evropy systematicky nižší než výkon usa : v průměru o 30 % , podle jednotlivých zemí pak například v británii o 43 % a v německu o 56 % .
-vyhlásí se závazky ve výši miliard dolarů .
-je paradoxní , že část této evoluce lze připsat na vrub dvěma pozitivním faktorům : pomalému působení demokracie , která jedince osvobozuje , ale zároveň jej nechává ve větší izolaci , a rozvoji sociálního systému , jehož prostřednictvím se sdílí rizika a jedinci získávají větší autonomii .
-přehodnocení malajských kontrol kapitálu
-představují kolaps vládnutí – jsou výplatou za hříchy administrativní neschopnosti a politického zneužívání .
-značný počet voličů ve střední evropě se označuje za , ,pravicové `` , přitom ovsem roky komunistického paternalismu vytlačily politické těžistě regionu značně doleva .
-když tehdy zástupci rozvojových zemí žádali bushe seniora , aby se konečně začalo diskutovat o nadměrné spotřebě a plýtvání zdroji v rozvinutých zemích , a v usa zejména , odpověděl , že „americký životní styl není předmětem žádných negociací“ – a to bez ohledu na to , co na to budou říkat jeho posluchači a co by takový přístup mohl stát všechny ostatní .
-přijde doba , kdy bude vzrušující být vědcem nebo technikem , který se potýká s výzvami udržitelného rozvoje .
-tyto firmy čelí největším obtížím , neboť se musí distancovat od vládní politiky a zároveň se potýkat s negativním investorským vnímáním životaschopnosti tamních operací v současné atmosféře .
-gramofonové desky ( raný příklad informačních technologií ) vytvořily hudební hvězdy prodávající své služby milionům lidí , což přivedlo ke krachu bezpočet lokálních umělců , jejichž nadání se ukázalo jako nemoderní .
-samozřejmým kandidátem , který by je nahradil , jsou čínští a další asijští spotřebitelé , jejichž ekonomiky se v úhrnu té americké více než vyrovnají .
-lídři na obou stranách ignorují silné majority , jež touží po míru , a dovolují , aby extremisty vyvolávané násilí bránilo všem nadějím na vybudování politického konsenzu .
-a v & nbsp ; tom okamžiku by vzniklo hnutí za práva robotů .
-samozřejmě je to argument proti špatně koncipovaným bankovním sanacím , jako byla ta americká , která přišla daňové poplatníky na stamiliardy dolarů , přičemž velkou část této sumy se nikdy nepodaří získat zpět .
-třetí je byrokratická služebnost : tak jako hlavním cílem bushova návrhu zákona medicare drug benefit z roku 2003 bylo posílit zisky farmaceutických firem , tak návrh bushovy administrativy ohledně sociálního zabezpečení bude zřejmě ušit na míru zájmům wall street .
-usa obsadily sedmnácté místo , což není na hlavní světovou mocnost nijak oslnivý výsledek .
-když jsem před volbami předpověděl vítězství hamásu , manažer volební kampaně fatáhu odvětil : „všichni budou hlasovat pro abbáse a všechno bude v pořádku.“ abbás sice zůstává šéfem exekutivy , ale parlament i vládu kontroluje hamás .
-cambridge – tento měsíc si připomeneme 50. výročí kubánské raketové krize – oněch 13 dní v říjnu 1962 , během nichž měl svět pravděpodobně nejblíže k velké jaderné válce .
-to však nutně neznamená , že se turecko stane islámskou , natož islamistickou zemí .
-běžní francouzi a francouzky přitom touto taktikou nejenže nejsou odrazeni , ale často dělají z násilných aktivistů , jakým je jose bové , který zničil restauraci mcdonald´s , hrdiny .
-ještě zásadnější než politika a řízení však bude změna hodnot .
-dluhopisy bank by také bylo možné redukovat a převést na akcie , což by předešlo převzetí bank vládou a zároveň zabránilo tomu , aby socializace bankovních ztrát způsobila dluhovou krizi suverénního státu .
-vlády sice nemohou suplovat rodiče nebo komunity , ale mohou mladé lidi a jejich rodiny podněcovat , aby investovali do sebe .
-případně to může být tak , že všechny provokace , které přišly po kim čong-ilově nemoci , jsou dílem samotného kim čong-una .
-nemůže řádně fungovat bez mezinárodního práva a mezinárodních institucí .
-s & # 160 ; podporou němců , která je rozhodující , může počítat jedině někdo z & # 160 ; německa , nizozemska anebo ze skandinávské země platící eurem , jako je finsko .
-politické kyvadlo reformy a reakce , populistických a pragmatických kabinetů , oslabovalo republiku po většinu jejích dějin .
-rekordní úroveň neúčasti v nedávných volbách do evropského parlamentu je dalším důkazem tohoto sílícího cynismu a odcizení .
-globální hrozby a odměny v roce 2011
-nezdá se vsak , že by se mohl dostat daleko .
-a protože jsou emise co2 tím , co ekonomové nazývají „negativní externalitou“ – , emitenti nenesou v plném rozsahu náklady způsobených škod – , existuje jen málo podnětů k jejich snížení .
-rozhodnutí načasovat zveřejnění rozpočtu na dobu těsně po schůzce g7 umožnilo harmonické londýnské setkání , během něhož jak američané , tak evropané mohli prohlašovat , že usa dbají na obchod – tedy na svůj fiskální i obchodní schodek .
-zkusenosti se sarsem , jež získalo toronto , kde některé případy unikly odhalení a to vedlo k druhému propuknutí epidemie , jsou varováním před přehnaným optimismem nad zdánlivým zvládnutím větsích a geograficky rozptýlenějsích ohnisek na tchaj-wanu a v pevninské číně .
-za situace , kdy bezmála 10 % dosahuje jak americká nezaměstnanost , tak čínský růst , je vlastně záhadou jedině to , že víření bubnů obchodní války není hlasitější .
-obdobně platí , že transparentnosti by prospělo , kdyby daňově odečitatelné byly jen plně zdokumentované platby .
-a je to právě reálná úroková sazba – nikoliv sazba peněžní – , která ovlivňuje hospodářský růst .
-v důsledku toho žádná reforma regulace a dohledu nedokáže kontrolovat bubliny a excesy , pokud se nezmění několik dalších zásadních aspektů finančního systému .
-zamysleme se nově nad důsledky tohoto prastarého přikázání : nikdo nemá právo okrádat ani nijak připravovat o majetek jinou osobu ani obec .
-ačkoliv byl nárůst počtu pracovních míst v říjnu konečně silný , v září vzniklo pouze 96 000 nových pracovních míst , což je o 50 000 méně , než bylo zapotřebí .
-obřadná kultura smrti a pohřbů staré evropské tradice byla zkušeností , v níž si společnost uvědomovala své meze .
-to upozorňuje na jiný aspekt pontifikátu jana pavla ii. , významnější spíš pro znalce než pro nezasvěcené .
-jistě , většina recesí se nakonec obrátí , stejně jako nakonec skončí většina konjunktur .
-ostatně i vůdce britských konzervativců david cameron vylekal staromódnější stoupence své strany prohlášením , že lidé propuštění z vězení „potřebují především lásku“ .
-tento proces upevňuje preciznost a míru jistoty .
-důležitým publikem pro každou zprávu iac je 100 akademií věd sdružených v & # 160 ; iap . každá z & # 160 ; nich má zvláštní zodpovědnost šířit doporučení zprávy ve své zemi , což může podstatně zvýšit její efektivitu při ovlivňování národní politiky .
-jak by takový svět ovlivnil vyhlídky na mír a demokracii na středním východě ?
-zatímco usa a japonsko zažily pokles svého podílu na globálním exportu , podíl eu zůstává stabilní a pohybuje se kolem 20 % .
-nezmizela však jen guereza červenohlavá .
-dnes řada těchto zemí vrávorá pod náporem učiněného cunami navracejících se peněz .
-tito kritici ale zapomínají , že zdravotní systém sociálního státu sám praktikuje záludnou formu nerovného přístupu , jenž je skryta v něm samotném .
-fiskální konsolidace je tedy královská cesta k & # 160 ; ekonomickému oživení .
-nejsou to dnes muži , nýbrž ženy , kdo tvoří jádro politické debaty , což , zdá se , mnoho lidí mimo turecko udivuje .
-tyto výlevy představují druhý významný rys čínského kultu kuo-čch ' , totiž tendenci svalovat vinu za to , že čína není s to odolat dravým cizákům , na slabou a nespolehlivou vládu .
-není divu , že mnohem více než hrstka číňanů v tomto prostředí zareagovala na události z 11. září jen s těžko skrývaným uspokojením .
-navíc je nepopiratelné , že by taková daň vynesla značné množství peněz .
-takže jakmile k události nakonec dojde , investoři , kteří své peníze ve fondu nechávají , přijdou o všechno , kdežto oz před krachem fondu každoročně získal čisté tři miliony dolarů .
-výsledkem byl rozkvět vědy a matematiky .
-tato formulace může sice znít vágně , ale vzhledem k postojům , jež jednotlivé země zastávaly na počátku , byl výsledek důležitým úspěchem .
-americký federální úřad vyšetřování zveřejnil dokumenty , které dokládají , že jeden agent fbi byl „při několika příležitostech“ svědkem , jak jsou vězni „připoutáni řetězem ve schoulené poloze za ruku a nohu k podlaze“ , aniž by měli k dispozici židli , potraviny a vodu .
-současný problém spočívá v tom , že deficit obchodu vzniká v době , kdy národní míra úspor dosahuje až 51 % .
-rok po vypuknutí krize vampnbsp ; regionu přechodových ekonomik můžeme druhý scénář téměř vyloučit .
-její koloniální minulost napsala v dějinách lidstva hrůzostrašné kapitoly .
-válka s irákem je už , zdá se , nevyhnutelná , ať už bude nebo nebude s podporou osn .
-z : těbě v gubu ! ( vrazí facku číšníkovi )
-nemůžeme ekologický rytmus vnucovat lidem , kteří jsou chudší než my , když jsme zbohatli právě díky faktu , že jsme se z tohoto rytmu vyvázali .
-hatojamova vláda ale hodila za hlavu makroekonomický management a zrušila expertní komisi pověřenou diskusí o hospodářské a fiskální politice .
-jaderné mocnosti by si měly v této věci vyměnit názory s ostatními státy na konferenci o odzbrojení v ženevě , největším mnohostranném fóru pro jednání o odzbrojení .
-nerovnost tak , zdá se , patří k americe stejně jako její apple pie .
-v roce 1990 by se trills s největší pravděpodobností bývaly obchodovaly za velmi vysokou cenu , přičemž dividendový výnos by možná nedosáhl ani 1 % .
-případně by valné shromáždění mohlo navrhnout několik kandidátů radě bezpečnosti , ta by si jednoho zvolila a předložila jej valnému shromáždění zpět ke schválení .
-a pokud ho nevidí ono , pak trhy ano .
-jak výdaje , tak daně musí být prostředkem pro stimulaci práce , investic a inovací .
-tvrdí se , že aby se předešlo platební neschopnosti , soukromí věřitelé by měli souhlasit , že ponesou část nákladů na finanční výpomoc .
-zde však bezpochyby dojde k rozhořčenému odporu vzhledem k tomu , že v sázce budou zájmy vlivných politických sil .
-k tak náhlému obratu se čínské vedení ještě nikdy neodhodlalo .
-stejně tak musíme jako referenční bod pro rozhodování používat obecnější měřítka bohatství .
-půjčovaly si peníze a nechávaly je pracovat na udržení vlastní ziskovosti .
-podstatou stalinovy moci nebyl teror , nýbrž naprostý monopol na informace .
-kdyby bylo snadné poodhalit roušku času a nevědomosti a odhadnout fundamentální hodnoty s vysokou mírou jistoty , bylo by snadné a bezpečné pouštět se do velkých kontrárních dlouhodobých sázek na fundamenty .
-rozdíl mezi jihoafrickou republikou a jugoslávií je enormní .
-prozatím by se nemělo ustupovat z již dosaženého pokroku , jako je nabídka na odbourání zemědělských exportních dotací do roku 2013 a poskytnutí bezcelního a bezkvótního přístupu u téměř veškerého vývozu z nejméně rozvinutých zemí .
-v číně se rodí nová síla - názor lidu . čínská veřejnost , ale i vláda , teď musí nalézt chuť v možnosti ovlivňovat chod země .
-samozřejmě , konkrétní podobu , již takové programy ekonomické stabilizace mají dostat , by měly určit členské státy eu .
-to je špatná zpráva pro snižování příjmové nerovnosti , neboť kapitálové výnosy a mzdy vysoce kvalifikovaných pracovníků mohou růst mnohem rychleji .
-genetikové se pak snaží zjistit , nakolik lze odchylky u jistého znaku v rámci celé populace přisoudit genům a zda některé určité geny hrají při vzniku tohoto znaku roli .
-příštích několik týdnů přinese pořádné politické drama .
-ať si o něm člověk myslí cokoli , v mezinárodních otázkách byl blair lídrem velkého významu .
-pro dnesní svédsko dnes nepředstavují největsí hrozbu destabilizující spekulace , nýbrž spatné monetární řízení - včetně věnování přílisné pozornosti inflaci podle vzoru ecb .
-jelikož v evropě žilo jen velmi málo černochů , bylo zbožňování černých amerických hvězd snadné .
-zpráva připouští , že pomoc bez sestřihů by byla užitečná jen za ryze likviditní krize pramenící z dysfunkčních trhů .
-usa měly například ke konvenci o kontrole tabáku zpočátku značné výhrady , ale ve světle mezinárodní kritiky je nakonec stáhly .
-ekonomika roste trvale udržitelným tempem .
-jejich původní požadavek – opětovná výstavba osmi nelegálně vybudovaných mešit , jež civilní správa islámábádu nechala strhnout – se proměnil ve výzvu k vymáhání práva šaría napříč pákistánem .
-tato skutečnost samozřejmě do značné míry souvisí s tradiční americkou politikou udržovat v arabském světě prozápadní diktátory .
-do jisté míry oficiální krizové půjčky nahrazují tlak ze strany finančních trhů tlakem ze strany expertů a politiků ve věřitelských zemích .
-indické finanční potíže plynou spíš ze špatně koncipovaného a spravovaného daňového systému .
-někteří lidé dnes proto pražské jaro zavrhují jako mocenský zápas mezi komunisty .
-až donedávna se zdálo , že trhy těmto šokům nepřikládají velký význam ; setrvale šplhaly vzhůru , kromě několika dní , kdy panika týkající se japonska či středního východu vyvolala korekci .
-svět byl vůči wolfowitzovi předpojatý od počátku kvůli jeho úloze v irácké válce .
-dolarový standard , s nímž svět od počátku 70. let žije , má tři zásadní vady .
-rovněž v tomto případě by však měla být vojenská intervence posledním řešením .
-náklady na snížení emisí jsou nepatrné v porovnání s možnými riziky , jimž svět čelí .
-mýtus o oddělenosti
-ke vznesení obvinění musí žalobce prokázat , že vznikla určitá škoda , která se ukázala jako pochybení obviněného .
-mnohé z velkých politických skandálů posledních desetiletí začaly kvůli financování stran a volebních kandidátů .
-odklad jednání do doby , kdy palestinská demokracie uzraje , by pouze přesvědčil palestince , že diplomacie je lest , a mnoha z nich by poskytl záminku uchýlit se k násilí .
-když lékaři zabíjejí
-jenže míra inflace v evropě a v usa byla víceméně shodná .
-nástroje , které nabízejí , jsou politicky neutrální .
-iracionální obavy a tajné tužby lidí se však současně nedaly potlačit .
-je pravda , že někteří z nich se z ideologických důvodů rozhodli kolonizovat `` judeu a samaří '' , jak to sami nazývají , ale jiní jsou jen obyčejnými lidmi , kteří hledají lepší bydlení a lepší život pro své rodiny .
-už od roku 1970 je německý hospodářský cyklus překvapivě pravidelný : propad v první půli každé dekády , následovaný vzestupem ve druhé půli .
-sinnovy návrhy - úpravy daňových sazeb a sociálních dávek - jsou odborné a neměly by žádný okamžitý ani dramatický dopad na chování lidí .
-loni přislíbila , že přestane akceptovat vládní cenné papíry označené ratingem bbb- jako zástavu za své měnové operace .
-nebude-li dosaženo dohody v kongresu , žádná přínosná nabídka ve věci životního prostředí z ameriky nepřijde .
-příklonem k alternativním zdrojům energie , zhospodárněním spotřeby energií a zachytáváním a bezpečným ukládáním oxidu uhličitého uvolněného z fosilních paliv může světová společnost snížit své emise oxidu uhličitého na obezřetnou úroveň za cenu , která je podle odhadů nižší než 1 % globálního důchodu .
-jen jsem se jim vysmál , a bylo to .
-a začít se musí v zemích , které odmítají připojit se ke konvenci unep a kývnout na její zákaz ddt .
-podobné očerňovací kampaně ovlivnily podobu investic a personální politiky firem mattel , nike a celé řady dalších .
-při přepočtu na hlavu je tento údaj zhruba stejný jako před 40 lety : 70 milionů btu .
-v & nbsp ; souladu s & nbsp ; požadavkem německa by dodatečný kapitál pocházel nejprve z & nbsp ; trhu a pak od jednotlivých vlád – a z & nbsp ; mechanismu evropské finanční stability ( efsf ) až jako východisko z & nbsp ; nouze , takže by byla zachována palebná síla efsf .
-když navštívil ruský hřbitov nedaleko od paříže – kde je pohřbena řada ústředních postav bělogvardějců a také ruští emigranti – , položil věnce na hroby ruského básníka ivana bunina a hrdinky francouzského odboje viky obolenské .
-vpád „kreacionismu“ do evropských škol je kvůli jejich struktuře nepravděpodobný .
-toto obohacení samozřejmě zahrnovalo i praktické přínosy , jako jsou lékařské pokroky či technologie šetřící namáhavou práci .
-vysoké ceny ropy přiživují veřejnou diskusi o budoucnosti cen ropy .
-tento princip vidíme v akci už od začátku podzimu 2007 , kdy s sebou rostoucí převis poptávky po bezpečných , likvidních a kvalitních finančních aktivech nese rostoucí převis nabídky zboží a služeb , jež jsou produktem pokračující lidské práce .
-podstatou války v zálivu v letech 1990-1991 bylo zvrátit iráckou ozbrojenou agresi , tedy konání , které bylo v zásadním nesouladu s úctou ke svrchovanosti , nejzákladnějšímu ze všech pravidel , jimiž se v dnešním světě řídí mezistátní vztahy .
-a vědí také , že podobné kroky podněcují radikalismus , což vede právě k oněm tragickým důsledkům , které jsou dnes až příliš dobře známé .
-reformy pokračují , ale bohužel mnohem bolestněji , než jsme doufali .
-nesnažily by se hostitelské kontrolní orgány izolovat ztráty tak , aby zahrnovaly jen ty , které vznikly v & # 160 ; jejich zemi ?
-vlna se obrátila zčásti proto , že se voliči poslední dobou ve volbách zřejmě přesouvají od levého k pravému středu anebo přinejmenším znovu potvrdili svá konzervativnější přesvědčení .
-je důležité vědět , jaká míra deprivace v té či oné zemi zvrátí veřejné mínění .
-ekonomové ( zejména ve spojených státech ) začali náhle registrovat podstatný nárůst produktivity .
-a obraz ameriky se dál den ode dne zhoršuje .
-věřím proto , že pro národy a země , které v dnešní době jen minimálně participují na výdobytcích procesu technologického rozvoje , výrobě a konečně i obchodu , existuje pouze jediná možná volba : nové sebeprosazení coby nezávislých států , regionálně intergrrovaných mezi sebou v maximální možné míře a co možná nejvíce možnými způsoby .
-protože v dnešním německu nezažil válku nikdo z lidí , kteří mají rozhodující moc v byznysu , financích a vládě , není už evropský projekt pokládán za podmínku společné evropské budoucnosti .
-svou ochotou odstřihnout se od minulosti – zejména od odkazu jacquesa chiraka – a přídavkem globálního nádechu ke svému „mandátu ke změně“ , sarkozy chystá cestu pro ameriku po bushovi , která zanedlouho přijde .
-přitom je důležité zmobilizovat státní i privátní nátlak na politiky – ve washingtonu i dalších západních metropolích – , aby ruskou účast v takovém podniku podpořili .
-ještě více pracovních pozic je někde mezi těmito dvěma možnostmi .
-bylo by mnohem moudřejší odolat prosbám na vyřešení konfliktu přicházejícím jak z palestinské , tak izraelské strany a zůstat u skromnějšího , pomalejšího přístupu , jenž , jak se ukázalo , může fungovat .
-v roce 2000 se vlády členských zemí dohodly na rozvojových cílech tisíciletí a v roce 2002 uzavřely monterreyský konsensus , v jehož rámci se zavázaly ke konkrétnímu úsilí ztrojnásobit pomoc nejchudším zemím za účelem splnění mezinárodního cíle zahraniční pomoci , který činí 0,7 % hnp bohatého světa .
-nezaměstnanost je na cyklickém minimu a ekonomika působí méně nevyzpytatelně než v kterékoliv fázi novodobých dějin .
-kaplan prohlašuje , že moderní lídři musí odpovědět stejnou mincí a že úloha moderního vůdce bude vyžadovat pohanský étos s kořeny v minulosti .
-pracovali s předpokladem , že co je dobré pro wall street , je dobré i pro main street .
-spojenectví v boji proti terorismu uzavřené mezi pákistánským prezidentem parvízem mušarafem a spojenými státy není imperativem pouze pro ameriku , ale i pro pákistán - stát s muslimskou většinou , jehož sociální strukturu trhá na kusy ozbrojený radikalismus a bezpráví .
-ale stejně tak , jako přichází čas , kdy spojené státy zjistí , že organizace spojených národů je nepostradatelná , zjistí také rada bezpečnosti a její členové , že vytvoření nových orgánů v rámci osn nebude znamenat novou konkurenci , nýbrž jediný způsob , jak budou národy celého světa s to postavit se nesčetným sociálním a ekonomickým problémům dnešního světa .
-lze si jen těžko představit , že rusko nabídne světu nějaký nový typ univerzalismu , jak už to jednou učinilo s komunismem .
-bělorusko získalo v roce 1991 nezávislost , ale od roku 1994 si prezident alexandr lukašenko bezostyšně osvojuje komunistické symboly – a metody – , aby se udržel u moci .
-podobně nemohou být vlivné skupiny , jako je hamás , legitimní vítěz palestinských voleb , vylučovány z dění vojenskou silou , byť sebedrtivější , ani „vymítány“ pomocí dekretů .
-zahraniční firmy jsou sice pro čínu zdrojem exportu , ale spolu s tím zabírají velkou část exportního koláče domácím čínským podnikatelům .
-po debaklu v iráku leckoho překvapí , že muž , který má změnu režimu zakódovánu v dna , může zastávat tak významnou funkci ve francouzské vládě .
-nijak se nevymyká ostatním americkým kritériím : od sedla výstupu roste reálný hdp průměrným tempem 2,86 % za rok , sotva převyšujícím tempo růstu produktivního potenciálu americké ekonomiky .
-většina vyspělých zemí prošla rozsáhlými domácími migracemi v době , kdy se modernizovaly , přičemž do pobřežních regionů se nakonec přestěhovalo 80 % jejich obyvatel .
-barrův poslední odstavec mi tedy skutečně nejde do hlavy : „balíček fiskální stimulace roku 2009 byl chybou .
-přesto když je politik přistižen při lhaní , jsou pro něj důsledky mnohdy straslivé , alespoň v demokratických zemích .
-podle dalšího stereotypního názoru si evropa libuje v komplexnosti různých záležitostí , zatímco amerika má radši jasně nalajnovaný konflikt - buď jsi s námi nebo proti nám .
-není pravděpodobné , že by se obama vyjádřil , zda vojenskou úlohu usa v regionu utlumí nebo zda skutečným důvodem , proč se dvoří afričanům , je narůstající spoléhání ameriky na africkou ropu , nikoli obamovo dědictví po otci .
-nedávno na íránské hranici s afghánistánem vybuchla bomba zacílená na íránskou revoluční gardu .
-neboť jestliže se oligarchům podaří udržet si své nečestné příjmy , není těžké si představit člověka , jako je chodorkovskij - který už vedle svého obchodního impéria začínal budovat i politickou mašinérii - , jak zpeněží své akcie jukosu , uloží majetek v bezpečném zahraničním úkrytu a použije jej k manipulaci ruské politiky .
-v každé federální soustavě je nutné nastavit rovnováhu mezi těmi , kdo jsou pověřeni posuzováním ekonomických podmínek v celé měnové oblasti , a těmi , kdo zastupují zájmy konkrétních regionů .
-přestože je haider dostatečně opatrný a neříká nic , co by se dalo interpretovat jako projev antisemitismu , jeho chvála udatnosti a cti veteránů waffen-ss a poznámky o nacistických koncentračních táborech jasně svědčí o jeho ideologickém zázemí .
-jedině spolu s nezávislostí se dostaví důvěra ve větší participaci , a větší participace pak znamená zlepšení vlády , a to jak v mezinárodním , tak i domácím měřítku .
-jsme však na středním východě , kde dřívější průlomy nebyly plodem vítězství , ale porážky .
-díky poznatkům základního výzkumu disponujeme pro boj s rakovinou novými prostředky , jež nabízejí rychlejsí diagnózu a účinnějsí léčbu .
-je inflace tím správným bojištěm ?
-problém je , že takové řešení by téměř jistě rozpoutalo rozsáhlou a nákladnou válku , která by nemusela nutně zničit všechny skryté severokorejské kapacity .
-ačkoli usa vydávají jen asi 1 % svého federálního rozpočtu na zahraniční záležitosti , nelze žádnou účinnou protiteroristickou strategii oddělit od všech aspektů zahraniční politiky .
-v případě ameriky je podobný dobrovolně ve styku s nepodobným a snaží se mu vštípit část svého elánu .
-úzus anonymity ve skutečnosti pouze umožňuje rozkvět mýtů o znásilnění .
-zejména s ohledem na to , že dolar za bushovy administrativy ztratil své posvátné postavení uchovatele hodnoty , vyvažování těchto portfolií v řádu bilionů dolarů vede k prodeji dolarových zásob , což přispívá k oslabování měny usa .
-v případě úvah o takové intervenci je však životně důležité zaměřit diskusi o mezinárodní strategii kromě vojenských faktorů také na rychlé zajištění spojené civilní a bezpečnostní přítomnosti .
-ovšem mnohem zákeřnějším důsledkem se může stát to , že středeční atentát posílí pocit , že v srbsku je možná jen autoritářská vláda .
-zpravodajské služby mohou vzdělávat veřejnost , vysvětlovat kořeny pocitu odcizení , jenž je živnou půdou terorismu , popisovat radikalizaci a nábor nových teroristů a osvětlovat jejich cíle , metody a strategii volby cílů .
-ve skutečnosti tržní hospodářství může fungovat , jedině pokud stát intervenuje .
-vydrží vsak euro i nadále ?
-v obchodní politice hraje velkou roli kongres , a jelikož je téměř jisté , že se většina demokratické strany v kongresu po volbách prohloubí , zvýší se spolu s ní také protekcionismus .
-to je však jen jedna část příběhu , který si budeme připomínat během mezinárodního dne ochrany ozonové vrstvy ( 16. září ) .
-jestliže tak činí , jejich úsilí posiluje legitimitu a autoritu jak členských států , tak unie .
-to je v průměru 2500 životů za rok .
-bush a jeho poradci se vzhledem ke své licoměrnosti a nedostatku historického a kulturního povědomí domnívali , že invaze do iráku bude snadná , že se armáda saddáma husajna rozdrolí a že usa zde budou vítány jako osvoboditel .
-tento sport věrně odráží a zároveň přesahuje rozmanitost indie .
-změnil se však potenciál ameriky věnovat se jim .
-mnohem zlověstnější ale bylo , že muslimové byli v indii často vnímáni jako pátá kolona , která chce zemi dále rozštěpit .
-v posledních třech letech schválila rada bezpečnosti organizace spojených národů deset rezolucí , které požadovaly , aby súdánská vláda změnila kurz a splnila svou povinnost bránit vlastní lid . mezi rezolucemi figuroval i požadavek rady bezpečnosti na odzbrojení džandžavídu .
-xenofobie je příznakem špatného vzdělání - výrazem úzkoprsosti a neschopnosti vcítit se do situace jiných .
-přestože řecko a portugalsko čelí nutnosti deflace v & nbsp ; celkové výši 30 respektive 35 & nbsp ; % , čísla platná pro španělsko a itálii jsou dost vysoká na to , aby byla důvodem k & nbsp ; obavám o budoucí vývoj eurozóny .
-uvědomme si , že silný jen je asociován se silnou japonskou ekonomikou .
-objevují se pokusy vypořádat se základními lidskými sklony a pozměnit chování lidí k lepšímu .
-jestliže od počátku 70. let narůstal průměrným ročním tempem pouhých 1,6 % , během sedmi let od roku 1995 americký roční růst produktivity v nezemědělských sektorech podnikání zrychlil na průměrně 2,6 % , a to bez známek zpomalení .
-vlády – a korporace – musí najít dokonalejší způsoby poskytování rovných příležitostí prostřednictvím lepšího vzdělávání , širších finančních trhů a dalších postupů .
-irácké šíitské skupiny podporuje už od počátku 80. let 20. století a obdobně dlouholeté spojenectví jej váže se sýrií .
-v súdánu podpořila čína rezoluci rady bezpečnosti osn , která zřizuje mezinárodní operaci , a pro společný sbor osn a africké unie vyčlenila 315 projektantů .
-protože mezi jednotlivými činiteli bezpochyby nastanou rozpory v otázce relativní důležitosti inflace a nezaměstnanosti , musí být úspěšný šéf fedu také schopen dobře spolupracovat s lidmi různých postojů .
-výnos desetiletých dluhopisů v usa činil 3,11 % , tedy jen o málo přesahoval 2,1 % míru inflace za posledních dvanáct měsíců .
-proto by se usa neměly tolik zaměřovat na pilování taktiky jako takové , ale spíš na přemodelování regionálních souvislostí , za nichž se íránští vůdci budou rozhodovat , zda pokračovat , anebo přestat .
-jeho nešťastné kroky nejsou , zdá se , ideologicky motivovány , spíše se zakládají na jeho neschopnosti vidět rozpory uvnitř vlastních politických iniciativ .
-představa , že za situace , kdy se jejich akcie prodávají za zlomek účetní hodnoty , budou muset shánět dodatečný kapitál , působí na banky jako silná pobídka ke snižování vlastních bilancí tím , že odvolávají přiznané úvěrové limity a zmenšují si zápůjční portfolia .
-jeho poslední návštěva izraele jako by však naznačovala , že jeho cíl je jiný : zdá se , že spolu s izraelem plánuje ukončení íránského jaderného programu – a že tak učiní spíše vojenskými než diplomatickými prostředky .
-místo toho dnes používají insekticidy pouze v případě , že míra zamoření tímto motýlem přesáhne určitou hranici , přičemž jejich cílem je zajištění trvale udržitelné a uspokojivé úrody .
-a protože se zásoby nezvýšily , žádné spekulace se nekonají .
-jeho relativně slabé podnikatelské prostředí obnažil nejnovější průzkum zvaný doing business , který provedla světová banka .
-nikdy se neptali , zda se jejich osudem stanou chyby jejich pána .
-generálním tajemníkem komunistické strany byl v roce 1989 čao c’-jang .
-udělalo někdy něco potomstvo pro mě ? “ nebo to řekl groucho marx ?
-začít by mohly tím , že zvýší efektivitu výdajů souvisejících s potíráním násilí .
-také v tomto případě nebrzdí osn ona sama , nýbrž její přední členové , kteří se nedokážou dohodnout , jaká změna je vlastně zapotřebí .
-nesouhlasím s těmi , kteří prohlašují , že taková politika bude rusko jen dále hospodářsky i politicky brzdit .
-také v zemích se zpolitizovanými univerzitami nebo s univerzitami , jejichž výzkumné iniciativy vedou šéfové s mocnými konexemi mimo akademické kruhy , se nejlepší vědci financují obtížně .
-chování ecb by nemělo překvapovat : jak jsme viděli i jinde , instituce bez demokratické zodpovědnosti jsou náchylné nechat se ukořistit zájmovými skupinami .
-a nakonec sám prezident bush oznámil , že ochraně ženevských konvencí se budou moci těsit bojovníci tálibánu , ovsem nikoli členové teroristické organizace al-kajdá .
-američtí spotřebitelé jsou vyčerpaní nákupy , bez úspor a zadlužení ( průměrně 136 % příjmu ) a zmítá jimi řada negativních šoků .
-obchodní ztráty eurozóny v důsledku znehodnocení drachmy by přitom byly mírné , vezmeme-li v úvahu , že podíl řecka na hdp eurozóny činí pouhá 2 % .
-navíc by bylo možné účinně zabezpečit téměř plnou zaměstnanost .
-zatřetí , podnikový sektor se vyrovnává s přebytkem kapacit , a pokud bude růst bezkrevný a přetrvají deflační tlaky , pravděpodobným výsledkem bude nevýrazné zotavení ziskovosti .
-chirac praktikuje politiku „obětního beránkovství“ a výmluv .
-opozice již začala připravovat půdu pro změnu .
-existuje bezpočet možností .
-uspěje medveděv tam , kde všichni ostatní ztroskotali ?
-byly všechny informace skutečně pravdivé ?
-rostoucí cena zdravotní péče a pojištění například vede pojišťovny k tomu , aby se zbavovaly klientů , kteří trpí „nelukrativními“ , tj . odškodnitelnými nemocemi .
-máme-li nějaký morální závazek , pak je to závazek vykonat za každý vynaložený dolar maximum dobra , které vykonat můžeme .
-jenže cleggova politická kariéra i úspěchy jeho strany budou nadlouho otřesené tak jako tak , vzhledem k & # 160 ; ekonomickým těžkostem , jež británie zažívá ( a nadále bude zažívat ) .
-zemědělci jsou jiná kapitola .
-věřil v kapitalismus – či přinejmenším v podporu velkých firem a bohatých lidí . zda rozuměl tomu , jak mají v právním řádu fungovat volné trhy , je už ale spornější .
-starší asad se obával , že otevřené hranice a konec politiky konfliktu by mohly narušit jeho systém jedné strany .
-je to proto , že ekonomie jako vědecká disciplína více přitahuje jedince , kteří jsou od přírody sobečtější , anebo proto , že je ekonomie formuje a činí z nich sobečtější jedince ?
-tento mechanismus nemůže v evropské unii fungovat , alespoň ne dokud platí stávající evropská ústava .
-dlouhodobou odpovědí je více výzkumu a vývoje – nejen v oblasti bezpečnější jaderné energetiky příští generace , ale i energetiky solární či větrné , která v současnosti zajišťuje výrazně méně než 1 % energie planety .
-dokud bude v iráku zůstávat vysoký počet amerických vojáků jako okupační síla , budou povstalcům sloužit jako prostředek náboru nových členů .
-náš svět je v zásadě světem g-nula .
-budou zdůrazňovat , že nepoučíme-li se z dějin , budou se dějiny zákonitě opakovat .
-moderní technika , možná včetně zbraní hromadného ničení , posiluje možnost , že kterýkoli z teroristických úspěchů způsobí škody velkého rozsahu .
-žádný stát se nemůže zříci odpovědnosti za ochranu svých obyvatel před zločiny proti lidskosti , natož aby takové zločiny sám páchal .
-napadl samotný koncept monarchie v�islámu , když prohlásil , že „lidmi s�autoritou“ nejsou králové , nýbrž náboženští učenci .
-jedním z rozhodujících faktorů v prezidentském klání byly právě generační rozdíly , jež nahradily dosud tradiční regionální témata .
-zaujmeme-li počínaje dneškem a konče rokem 2015 postupný přístup , pak se roční dodatečné náklady na zajištění středního vzdělání pro všechny děti budou pravděpodobně pohybovat někde mezi 27 a 34 miliardami dolarů .
-jde o výzvu mravnosti a vize .
-anebo si vezměme národní bezpečnost .
-avšak třebaže ukrajinské politické elity už zvládly umění nechat se demokraticky volit , účinná správa státu jim uniká .
-mnohem obtížněji je pak vidět hluboká a vlastní rukou zasazená rána , jež se otevřela uvnitř samotné severoatlantické aliance .
-tato současná diskuse nad klady a zápory různých kandidátů připomíná způsob , jímž se letouny vypouštěním falešných cílů chrání před raketovým útokem .
-přivítaly a poté svrhly saddáma husajna , čímž vyvolaly chaos a zároveň daly nezamýšlenou vzpruhu íránu .
-země , kterou usa od skončení studené války přehlížely a ponižovaly , nepotřebuje protizápadní strategii konfrontace , nýbrž integraci do nového globálního uspořádání , které bude respektovat jeho zájmy obrozené velmoci .
-díky příchodu digitálního vzdušného prostoru a při náležité podpoře výzkumu je úspěch možný i pravděpodobný .
-pro taliban a al-káidu je snadné mobilizovat za takových podmínek bojovníky .
-máloco navíc dokládá , že hluboká nedobrovolná restrukturalizace by byla traumatičtější než hluboká dobrovolná restrukturalizace .
-buď jak buď , opatření ohlášená nedávno fedem a dalšími centrálními bankami jsou nesprávně zaměřená .
-proč ?
-existuje způsob jak největší členské státy mmf , zejména spojené státy a čínu , postrčit k tomu , aby napomohli rozptýlit rizika plynoucí z obrovských obchodních nevyvážeností světa ?
-podnikatelé , manažeři a akcionáři čelí podobné nejistotě , poněvadž převratné technologie mění pravidla hry tím , že omezují vstupní bariéry a snižují minimální efektivní rozsah ( nejmenší objem , který musí určitá firma vyprodukovat , aby ještě mohla plně využívat úspor z rozsahu ) .
-a konečně by měli být občané schopni pokračovat v rozvíjení zpravodajského článku .
-a tak v oblasti obchodu do značné míry přešlapujeme na místě .
-právě teď chceme zhubnout a jsme racionálně přesvědčeni , že je to důležitější než požitek , který nám přinese ještě jeden kousek koláče .
-zákony o minimální mzdě a kolektivní smlouvy často způsobují , že nejméně produktivní pracující vyjdou zaměstnavatele dodržující zákony příliš draho .
-na to odpovím připomínkou toho , jaké hrůzy v sobě skrývala studená válka .
-věští vzestup levicově orientovaných vlád v latinské americe , zejména volba evo moralese na post prezidenta bolívie , posun ke krajní levici napříč kontinentem ?
-tento tlak sílí , kdykoli vzniká pocit , že konkurenti a sousedé mají nějakou strategickou výhodu .
-a experti se obávají , že nový virus h1n1 by mohl zmutovat v nebezpečnější kmen .
-když se situace vyvíjí špatně , mohou manažeři snadno přecházet z firmy do firmy a vyhýbat se jakémukoliv trestu .
-v době , kdy jinde získává náboženství stále větší význam , jsme my evropané do značné míry zapomněli na svou ( násilnou a netolerantní ) náboženskou minulost a dělá nám potíže pochopit roli náboženství v každodenním životě jiných národů .
-roční růst produktivity v sektorech , které jsou uživateli ict , činil v usa v letech 1995 až 2000 průměrně 0,63 % , zatímco v evropě to bylo velmi podobných 0,41 % .
-avšak i tyto snahy jsou nákladné .
-to sice stále může vypadat jako nevelké číslo , ale s ohledem na krátkodobé růstové vyhlídky ve vyspělém světě jde stěží o bezvýznamnou sumu .
-ministr financí spojených států timothy geithner již obvinil čínu z měnové manipulace .
-avšak dárfúr , stejně jako tigray , ještě víc než mírové síly potřebuje rozvojovou strategii , která se vypořádá s hladem a suchem .
-žádný stát neohrožuje čínské pozemní hranice .
-jak ve své knize this time is different doložili carmen reinhartová a kenneth rogoff , postkrizová oživení výstupu a zaměstnanosti mají v & nbsp ; dlouhém pásu dějin tendenci být výrazně pod úrovní trendu .
-nedávno jsem si na doporučení četla o simphiwe dludlu , fotbalistce , která se stala jednou z předních sportovních osobností jižní afriky .
-které z těchto kroků by měly úvěrově věrohodné vlády z celého světa činit v reakci na květnové pohyby cen aktiv ?
-typickým projevem tohoto selhání byla neschopnost vnutit palestincům a izraelcům v roce 2000 mírovou dohodu .
-zákonodárci v jedné komoře by se vybírali na základě zásluh a schopností , zatímco ve zbylých dvou komorách na základě nějakého typu voleb .
-jenže předchozí řecké vlády tato omezení nehorázně překračovaly .
-dokonce se zdá , že i naznačil , že první přijetí nových zemí by snad bylo možné již k prvnímu lednu roku 2003 , což je přinejmenším o rok dříve , než předpokládala drtivá většina dřívějších předpovědí .
-poněvadž většina mediální pozornosti se přesunula do libanonu , izraelci mají volnou ruku pro další nátlak na palestince bez mezinárodních protestů .
-všichni mají zájem na světě , kde se síla používá jen jako poslední možnost , terorismus je nepřijatelný , zbraně hromadného ničení se nešíří a nepoužívají , svobodný trh se stává běžnou věcí , občané požívají základních svobod , demokratické hodnoty vítězí a právní řád nahrazuje právo silnějšího .
-cambridge – čína se pravděpodobně stane první velkou ekonomikou , která se zotaví ze současného globálního poklesu .
-globální partnerství pro oceány je slibná nová aliance více než stovky vládních a mezinárodních institucí , organizací občanské společnosti a soukromých firem snažících se řešit problém ohrožení oceánského zdraví , odolnosti a produktivity .
-zadruhé , dobře fungující finanční soustavy propojují velké , nelikvidní investiční záměry s & # 160 ; relativně malými sumami peněz poskytovanými jednotlivými střadateli , kteří si likvidity vysoce cení .
-tato nová technologie s názvem „zachycování a odlučování uhlíku“ může snížit emise oxidu uhličitého při výrobě energie o 80 % .
-z & # 160 ; angličtiny přeložil david daduč
-za starých časů se kriketu vyčítalo , že je to sport , který provozují poangličtěné elity ve velkých městech . dnes však kriket sledují masy z celé země .
-nejlépe organizovanou stranou je v & # 160 ; současnosti politické křídlo muslimského bratrstva ( strana svobody a spravedlnosti ) , které může získat nejsilnější pozici k & # 160 ; vytvoření většinové koalice za & # 160 ; účasti salafistických prvků .
-jednotliví spotřebitelé jsou vybízeni k tomu , aby přímo oslovovali zmíněné společnosti a naléhavě je vyzývali k větší zodpovědnosti za to , jakým způsobem získávají ingredience pro své produkty .
-navíc vzhledem k tomu , že starší lidé více utrácejí a méně šetří , budou se bohaté země muset vyrovnávat se změnou poměru mezi úsporami a spotřebou , který je součástí národního důchodu , a stejně tak se změnou složení kupovaného zboží a služeb .
-z tohoto důvodu se podíl prostředků vynakládaných na osvětlení za poslední tři staletí prakticky nezměnil a stále představuje asi 0,72 % hrubého domácího produktu .
-jedním z nich byla demokratická obnova evropy po druhé světové válce a druhým vítězství ve válce studené .
-každý ústav , který je příliš velký na to , aby zkrachoval , anebo by se takovým mohl záhy stát , musí mít dostatečný kapitál ( narůstající s velikostí ) a neustálý monitoring rizik v reálném čase , avšak je zapotřebí tato opatření zavést , aniž by to přehnaně plodilo mikromanagement .
-na počátku dvacátého století ovšem tyto snahy selhaly a korea se stala japonskou kolonií .
-existuje jen málo důvodů k optimismu .
-atentát na bývalou premiérku benazir bhuttovou vyšrouboval pákistánský chaos do nových výšin .
-projevuje se obrovská nostalgie po posledním liberálním experimentu ( od 20. let do revoluce roku 1952 ) , který byl příkladem pro ostatní arabské země .
-důkazy o takovém růstu se vyskytují hojně .
-skutečnými vítězi tohoto nového světového pořádku jsou velké rozvíjející se ekonomiky , za prvé a především čína a indie , které ve stále větší míře stanovují tempo globálního hospodářského a politického rozvoje .
-špatný způsob uvažování o ropě
-obě oblasti jsou zřetelně provázané .
-všichni evropští lídři se před ním klepou .
-navrhl jsem plán , který by itálii a španělsku umožnil refinancovat své dluhy emisí státních pokladničních poukázek při asi 1 & nbsp ; % .
-odměny pro vedoucí pracovníky ve finančním sektoru se vázaly k sázkám na hodnotu firemního kapitálu , silně vyzdviženou dluhovou pákou .
-ze širší a hlubší evropské integrace teď největší zisk plyne menším státům eu .
-nemůžeme zvítězit , nebude-li počet lidí , jež extremisté naverbují , nižší než počet těch , které zabijeme a odstrašíme .
-jenže zákaz rituální porážky zvířat nebrání židům ani muslimům v & # 160 ; praktikování jejich náboženství .
-a další ironie : naše víra v lidská práva jistým způsobem k této zradě napomohla .
-pokud ti , kdo se 9. května sejdou v moskvě , udělají cokoliv , čím by stvrdili právoplatnost sovětských válečných zločinů , projeví tím necitlivost vůči němým výkřikům desetimilionů nevinných mrtvých z druhé světové války .
-s kolegy , s nimiž působím v poradním výboru španělské iniciativy , doporučujeme , aby dárci vložili své prostředky na jediný mezinárodní účet , který nazýváme finančně koordinační mechanismus ( fcm ) .
-v iráku měl ovšem prezident bush jít ve stopách svého otce a vytvořit širokou mezinárodní koalici .
-proč bych si ale já , čínský ekonom , měl přát , aby rostoucí mzdové náklady snížily konkurenční schopnost číny ?
-je to tichá a svízelná dřina v zákulisí .
-rozdíl mezi nejchudšími a nejbohatšími státy světa je více než stonásobný .
-„třetí cesta“ pro postup vůči rusku
-od číny po chile , od jižní koreje po jihoafrickou republiku se vede debata , zda jsou soukromé investice nezbytné pro zajistění prosperity a růstu .
-znalosti obsažené v knize života podnítily změny zavedených paradigmat v biologii a medicíně .
-peking přitahuje přední politické kritiky číny , zatímco sociální kritici jeruzaléma obhajují výklad náboženství , který za posvátné pokládá spíš osoby než neživé objekty .
-vyváženějsí agenda by uvedla do souladu pokusy o uvolnění toku kapitálu se snahami usnadnit pohyb pracovních sil , včetně těch nekvalifikovaných .
-data tento pohled evidentně potvrzují .
-chceme-li mít z globalizace vskutku globální prospěch , musíme se těmto nedostatkům postavit na mezinárodním měřítku .
-čtvrtý posudek , jenž byl právě zveřejněn , potvrzuje hromadící se důkazy i narůstající přesvědčení , že globální oteplování je důsledkem přibývání skleníkových plynů v atmosféře .
-londýn – když senát usa potvrdil opětovné jmenování bena bernankeho předsedou federálního rezervního úřadu , trhy po celém světě si oddychly .
-když už lidé nakonec začali doufat v liberálnější a slušnější společnosti , usa nadále schvalovaly režimy , které je utlačovaly . amerika se jednoduše nedokázala držet svého vlastního scénáře šíření demokracie .
-poslední kapitola dvouletého plánu premiéra saláma fajjáda – „cílová rovinka ke svobodě“ – se dovrší v srpnu 2011 .
-dnes bude armáda usa pravděpodobně využívána spíše ke stabilizaci a obnově zkrachovalých států , k pomoci partnerům v boji proti vzpourám a terorismu , ke kontrole jaderných zbraní v případě , že se někde zhroutí režim , nebo k přímé likvidaci teroristických organizací a jejich stoupenců .
-všeobecný náhled je takový , že vláda se mezi společnosti nevměšuje a že výnosy z investic na americkém trhu cenných papírů reflektují zásadní síly silného kapitalistického hospodářství .
-anebo chceme žít v systému , kde jsou lidé hnáni k zodpovědnosti za svá rozhodnutí a kde se nemoudré chování trestá a moudré odměňuje ?
-přesto na naší planetě stále existuje 23 000 jaderných hlavic s výbušnou silou rovnající se 150 000 bombám z hirošimy .
-čína pochopitelně nahromadila obrovský přebytek platební bilance , což naznačuje , že jüan je značně podhodnocen .
-jsou tu ovšem i tací američtí předáci , kteří s ohledem na dodávky energií hovoří o proměně usa v soběstačnou zemi .
-obamovy působivé signály od nástupu do úřadu – telefonování arabským lídrům dřív než evropským spojencům , jmenování zvláštního vyslance george mitchella a vystoupení v televizi al-arabíja jako první interview – jsou odrazem přístupu , který se od poskvrněné a suchopárné minulosti liší .
-tyto podniky jsou součástí komerčního zábavního průmyslu .
-bushova vláda se před třemi měsíci stále držela svého ďábelského refrénu : „nikoho nemučíme.“ teď organizace lékaři za lidská práva vydala zprávu dokládající traumata lidí zadržovaných američany a i zkoušky na detektoru lži potvrzují , že byli mučeni .
-bezprecedentní demonstrace proti syrské okupaci libanonu po atentátu na bývalého premiéra rafíka al-harírího podle všeho nikterak neopadají .
-zadruhé , levice obecně – ať po původu socialistická , nebo populistická – sice „hlasitě promluvila“ , ale jen málo „zatlačila na pilu“ , abych tak řekl .
-podívejte se na upoutávku k tomuto filmu na youtube .
-pro eurozónu , kde všechny ekonomiky skupiny piigs ( portugalsko , itálie , irsko , řecko a španělsko ) sužují úzce provázané problémy udržitelnosti dluhu jednak veřejného , jednak externího , je řecko též příslovečným kanárem v dole .
-podobná prohlášení jsme slyšeli od většiny amerických prezidentů už od woodrowa wilsona .
-nadřazenost práva eu by nevycházela ze zákonů národních parlamentů , nýbrž z nadnárodní ústavy .
-pomazání ségolène royalové na prezidentskou kandidátku socialistů je významný krok na cestě k osmým prezidentským volbám páté republiky , ohlášeným na 22. dubna 2007 , přičemž jejich druhé kolo proběhne dva týdny nato .
-odhlédněme však na okamžik od těchto otázek .
-v jiné zemi jsem hovořil s vůdcem islámské fundamentalistické opozice , která vedla dlouhotrvající občanskou válku proti vládě .
-skandály mohou být náladě na trhu přítěží , ale jejich dopady překonává příliv hospodářské prosperity , tedy alespoň prozatím .
-v & # 160 ; takovém případě se chmurné předpovědi absolutního amerického úpadku ukážou být stejně zavádějící jako podobné předpovědi v & # 160 ; uplynulých desetiletích .
-když papež přičetl sexuální poklesky těmto výzvám , mohl mít přinejmenším zčásti pravdu , ovšem z jiných důvodů , než si myslí .
-připočtěme si k tomu zjevná pnutí ve francouzsko-německých vztazích , blokádu společného trhu eu s plynem , úzkou strategickou spolupráci s ruskem vladimíra putina a tak dále a neklid ohledně německa se začne násobit .
-evropská komise by tedy měla přestat řinčet zbraněmi v prohrané bitvě , protože tím jen oslabuje svou důvěryhodnost , obzvlášť v očích malých zemí , které se jako jediné nechají donutit k přijetí nechtěných fiskálních pravidel .
-sliby , jež administrativa usa učinila před pouhými sedmi měsíci na kodaňském summitu , jsou bez amerického balíčku klimatických opatření k ničemu .
-na prvním místě byla čína a za ní následovaly usa , rusko , japonsko a jižní korea , zatímco evropa ve výčtu chyběla .
-nemůžeme vědět jistě , jak dlouho ještě budou ceny nemovitostí klesat .
-starověké atény se staly „demokracií“ – tedy doslova vládou lidu – , když kleisthenés zorganizoval obyčejné rybáře a farmáře v & # 160 ; mohutný dav schopný porazit oligarchy podporované spartou .
-nesmíme pustit ze zřetele katastrofické následky těchto událostí , k nimž může dojít , pokud násilí v těchto zemích nebude potlačeno .
-konečně , irácká vláda musí začít odstraňovat skupiny domobrany , jež stále mají větší palebnou sílu než rodící se irácká armáda , a musí porazit převážně sunnity vedené povstání .
-členové výboru se čas od času v soukromí svěřili , že v mnoha případech lze najít několik kandidátů , kteří si cenu zaslouží stejně jako vítěz .
-po tři hrůzostrašné dny vévodili vrazi světovým sdělovacím prostředkům a dosáhli znepokojivého úspěchu . ten musel po celém světě otřást experty na boj proti terorismu , kteří si dnes uvědomují , jak snadno by si mohlo deset mužů nestrachujících se ze smrti udělat z & nbsp ; kteréhokoliv města na světě rukojmí .
-zásoby vody jsou v rozsáhlých částech světa , zejména v aridních oblastech , pod narůstajícím tlakem .
-palestinské milice však znovu a znovu dokazují , že se ozbrojeného boje nevzdají dříve , než uvidí palestinský stát v hranicích z roku 1967 , jehož hlavním městem bude arabský jeruzalém .
-íránské studenty je třeba povzbudit , aby navštěvovali a studovali asijské univerzity , kde by zjistili , jak sebejistí jsou mladí čínští a indičtí studenti při pohledu do budoucna – což by je dost dobře mohlo přimět k úvahám , proč mladí íránci tentýž optimismus nesdílejí .
-místo aby zaměřil pozornost banky na pomoc nejchudším zemím při zdokonalování jejich infrastruktury , zahájil křížovou výpravu proti korupci .
-po roce 1989 jako by čína ztratila morální kompas .
-německo ilustruje problémy , které vznikají , když bankovní sektor země míjejí globální trendy směřující ke konsolidaci .
-od počátku tohoto roku je útlak bojovníků za lidská práva , advokátů a bloggerů tvrdší než kdykoliv předtím .
-klíčovou otázkou jsou dopady katastrofy na globální dodavatelské řetězce .
-rusové se obracejí do minulosti – k velkolepým prohlášením o rusku coby jedinečném velkém národu , předurčeném k vládě nad světem .
-centrální banky by se tedy měly zaměřit na to , jak propad objemu peněz protékajících finančními trhy postihne útraty a nakolik by měly snížit úrokové sazby a rozšířit peněžní nabídku , aby účinky na výdaje kompenzovaly .
-ke konci roku tedy zaznamenáme mírně zlepšenou úroveň hdp , avšak tempo růstu hdp se pravděpodobně vrátí do záporných čísel .
-německo , francie ani itálie své sousedy nenapadají .
-navzdory oprávněnému volání amerického kongresu po zavedení objektivních měřítek pokroku spojených států v afghánistánu vyzývá příliš málo lidí afghánskou vládu k tomu , aby formulovala své cíle při zkvalitňování vládnutí a posilování zodpovědnosti a aby sdělila , jak hodlá tyto cíle naplnit .
-daň z přidané hodnoty je například stanovena , aby motivovala firmy zajišťovat si za své vstupy faktury s cílem snížit si vlastní daňové výdaje .
-od první schůzky předáků v roce 1999 byla dosud v konžské pánvi založena nově chráněná území o rozloze 3,5 milionu hektarů .
-jejich hlavní účinek bude psychologický , pokud všeobecná podpora sankcí vytvoří v íránu pocit , že se země zahnala do izolace .
-oživená francie
-příležitostí , která se nabízí v kodani , je začít formovat některé z modelů kolektivního konání , na nichž budeme moci vystavět postkarbonovou ekonomiku .
-v roce 1997 založil hnutí s názvem společenský výbor pro morální obrodu vlasti .
-každý krok přitom postupně vedl k větší integraci .
-pravděpodobnost či hrozba použití síly mezi státy sice zeslábla , ale zachovává si silný účinek a právě takové situace vedou racionální aktéry k & # 160 ; pořizování si nákladného pojištění .
-ironií je , že mnoha úmrtím by bylo možné zabránit preventivním očkováním již existujícími vakcínami ( jako například vakcínou proti spalničkám ) , ovšem obyvatelstvo některých zemí je často tak chudé , že nemá nijaký přístup ani k té nejzákladnější veřejné zdravotnické péči .
-naším cílem je přilákat velké západní energetické firmy se zkušenostmi v tomto oboru v roli strategického investora .
-konkrétně řečeno zřejmě neexistovaly žádné důkazy pro premiérovo tvrzení , že irácký diktátor mohl použít zbraně hromadného ničení , ,do 45 minut `` .
-v maastrichtu v roce 1991 společně založily nové instituce , které by tuto ideu naplňovaly ; a v loňském roce v amsterdamu tyto instituce ještě dále okázale posílily .
-členské země by se měly rozhodnout , zda si nad oblastmi , jež slouží jejich národním zájmům , chtějí ponechat úplnou národní kontrolu , nebo zda chtějí spolupracovat s ostatními .
-příčina tak slabého výkonu je opět pro všechny sektory shodná : složitý systém nejasných dotací , přebujelých předpisů a cen neodpovídajících skutečné hodnotě zboží totiž ochraňuje státní podniky , jejichž produktivita je zoufalá , a zabraňuje rozvoji nových firem s mnohem vyšší produktivitou .
-máme vodní elektrárny .
-záměrem iff je zaručit , že dárcovské země během příštích deseti let zdvojnásobí objem svých příspěvků , aby dobře spravované země mohly uskutečnit ty investice , jež potřebují pro splnění rozvojových cílů tisíciletí .
-dnes íránský program obohacování uranu pokračuje navzdory varováním rady bezpečnosti osn před novými sankcemi , zatímco íránští představitelé veřejně zesměšňují hrozbu vojenského zásahu usa .
-během pouhých několika týdnů evropský soudní dvůr ( k němuž se mohou soukromé strany odvolávat proti rozhodnutím komise ) zrušil tři montiho rozhodnutí , která zamítala navrhované fúze obchodních společností .
-švýcarsko a austrálie se překvapivě probojovaly do vyřazovacího kola a asijské a africké týmy poněkud zklamaly , neboť postupuje jen ghana .
-špatnou zprávou však je , že ačkoliv se předpokládá , že úrokové sazby zůstanou ještě nějakou dobu nízké , nezůstanou takto nízké neomezeně dlouho .
-avšak nepřinesl konec studené války světu jen více nebezpečí - terorismus , ztrátu bezpečí , nejistotu a rostoucí majetkovou nerovnost ?
-a v neposlední řadě je zde otázka férovosti .
-odpor k sankcím ze strany ruska , číny a francie přesvědčil představitele usa , že je třeba „ponechat více času na diplomacii , “ než se začne naléhat na trestní řízení v radě bezpečnosti .
-navzdory silným etickým argumentům ve prospěch vegetariánství zatím nejde o většinový postoj .
-avšak tím , že má jako hnací síla příprav vládnoucí strany na éru po mubárakovi možnost získat si všeobecnou legitimitu a vysokou míru přijetí uvnitř politického establishmentu , si gamál získává strategickou pozici pro efektivní souboj o prezidentství .
-jak ukazují ceny akcií , investoři věří , že udělali opravdu dobrý obchod .
-snad jedinými lidmi , kteří si z plíživého autoritářství v rusku nedělají těžkou hlavu , jsou samotní rusové .
-vezměme si péči o staré lidi , která je z hlediska zaměstnanosti nejrychleji rostoucím sektorem v evropě .
-a proto se také nečastá vynucení lidských práv , jichž býváme svědky , přizpůsobují politickým zájmům států , které vynucovací akce provádějí .
-ví , že to , co ekonomika krátkodobě potřebuje , se liší od toho , co je třeba učinit , aby se dlouhodobě zvládl veřejný dluh , ale není schopen zajistit rozhodné vedení .
-noviny se skláněly a umělci často vraceli objetí státu .
-při absenci jakékoliv „zázračné“ léčby by měla být střednědobým cílem obnova a posílení rámce mezinárodní hospodářské a obchodní spolupráce .
-kiyosakiho snaha o inspirativnost je možná přehnaná , ale já na něj často myslím , když slýchám , jak profesoři financí debatují o efektivitě trhů a marnosti úsilí vydělat peníze obchodováním na nich .
-od té doby se naštěstí situace změnila a 110 zemí , zodpovědných za 80 % emisí skleníkových plynů , včetně indie , číny a brazílie , dnes vyjadřuje podporu kodaňské dohodě .
+pokud jde o pomoc a zvýšení objemu finanční pomoci evropské unie na humanitární programy v keni , rád bych si vyslechl odpověď komisaře michela na otázku , kterou již vznesli předřečníci , totiž jak přesně budou tyto prostředky vynaloženy a jak bude zajištěno správné použití těchto prostředků .
+když moje země , portugalsko , nedávno přijímala návštěvu vysokých čínských hodnostářů , vláda přesunula demonstraci organizace amnesty international konanou v místě , kudy měla skupina účastníků projíždět , o několik set metrů jinam ; totéž se stalo ve francii , kde byla demonstrace přesunuta k eiffelově věži .
+pravdou je , že situace ve španělsku bude posuzována spíše podle hodnocení tohoto předsednictví než podle toho , co se udělalo , či neudělalo zde .
+říká se , že ne od němců .
+toto společné a zacílené uvažování může přinést větší výsledky .
+pouze pokračujete v projektech a do pekla s každým , kdo by s vámi nesouhlasil nebo měl jiný názor .
+člen komise . - paní předsedající , i já bych chtěl poděkovat poslancům , evropského parlamentu , kteří se zapojili do dnešní rozpravy , za jejich konstruktivní názory .
+vidím zde sedět pana komisaře mccreevyho .
+( pl ) vážený pane předsedající , berlatova zpráva se zabývá spojením zdravotní a zemědělské problematiky .
+aby investiční dohody přinesly těmto zemím ještě větší užitek , měly by zavazovat investora k dodržování lidských práv a protikorupčních zásad jako součást širšího partnerství mezi eu a rozvojovými zeměmi v zájmu snižování chudoby .
+pane předsedající , rád bych poděkoval vám i všem poslancům , kteří se zúčastnili této rozpravy o dočasném opatření - a rád bych zdůraznil ten dočasný charakter - v oblasti letecké dopravy .
+a konečně , protože nezbývá moc času , mluvil jste o páté svobodě - svobodě pohybu znalostí .
+toto kulturní dědictví musí být spravováno udržitelným způsobem .
+je na politických orgánech a administrativních a regulačních úřadech , aby se chopily své úlohy a povolily a s nadšením podpořily pokračující zlepšování .
+neexistuje žádný rozdíl mezi těmito dvěma usneseními ve vztahu k našim požadavkům na svobodné a spravedlivé volby , ale liší se ve svých hodnoceních vlády a většinové strany v moldavsku .
+jménem skupiny pse . - ( de ) pane předsedo , dámy a pánové , portugalské předsednictví bylo úspěšné a já k tomuto úspěchu blahopřeji vám , pane sócratesi , i celé vaší vládě .
+proto zpráva věnuje pozornost významu sledování lidských zdrojů .
+( es ) pane předsedo , naše skupina včera uspořádala alternativní energetický summit , v jehož rámci jsme požadovali závaznou 20 % energetickou účinnost a 30 % obnovitelné energie do roku 2020 .
+písemná vysvětlení hlasování
+nyní ke konkrétním otázkám , které otevřela zelená kniha .
+to je přidaná hodnota , kterou evropská komise může v současnosti poskytnout .
+náš balíček stanoví obecný rámec , který pak bude v průběhu tohoto volebního období doplněn o další nástroje zaměřené na specifické potřeby některých druhů obětí .
+proto bych chtěla přivítat nedávné návrhy komise na vytvoření evropské reakce na katastrofy , jejíž součástí by bylo zřízení dobrovolného souboru organizací členských států pro mimořádné situace , vypracování pohotovostních plánů a sloučení krizových středisek humanitární pomoci s civilní ochranou s cílem vytvořit evropské středisko reakce na mimořádné situace , které bude zodpovídat za sledování nebezpečných situací , vydávat včasné varování a koordinovat reakci eu na katastrofy .
+zdá se , že v dnešní evropě - přesně , jak to před lety napsal george orwell - jsou si některá prasata rovnější .
+zde bych také rád poděkoval evropskému parlamentu a zejména výboru pro kulturu a vzdělávání za jejich podporu .
+( nl ) pane předsedající , loni v září parlament odmítl uzavřít účty evropské policejní akademie z důvodu závažných nedostatků v řízení a strukturálních problémů .
+důsledky zločinů komunistického režimu jsou odpudivým šrámem na tváři evropy .
+stále nevíme , zda krize nezpůsobí prohloubení rozdílů mezi různými regiony evropy .
+to bude jedinečná příležitost sdělit mu naše stanovisko .
+je načase jednat .
+zdržením se hlasování o zprávě o uzavření dohody mezi evropskou unií a brazilskou federativní republikou o leteckých službách vyjadřuji postoj , jenž nesouvisí s oblastí působnosti této dohody .
+není to jen možnost , je to povinnost .
+naopak musíme i dál pokračovat na této cestě liberalizace , na niž se eu nyní vydává přijetím podobných opatření .
+na závěr bych chtěla popřát novému panu komisaři hodně úspěchů v jeho práci a říci následující : náš vážený a zkušený kolega pan cercas dnes řekl , že doufá , že vykročíte pravou nohou .
+jménem skupiny ind/dem . - ( nl ) pane předsedající , tato sněmovna bojuje za občanské svobody , z nichž jednu tvoří právo na vzdělání .
+hlasoval jsem pro tuto zprávu , jelikož katarální horečka ovcí je choroba postihující přežvýkavce ( například dobytek , ovce a kozy ) .
+vláda spojeného království přislíbila , že ukončí tato nemravná opatření - ale dosud se jí to nepodařilo .
+cítím , že evropská veřejnost ji chce .
+úmluva o kazetové munici zakazuje používání , výrobu , skladování a převoz kazetové munice .
+právě připravuji e-mail všem poslancům , který osobně podepíši .
+zatřetí , byl vyvinut model postupných opatření - podle předpovědi počasí , přičemž vývoj sopečné aktivity se může měnit z hodiny na hodinu - ale kdo bude dále provádět aktuální hodnocení bezpečnosti leteckých koridorů ?
+evropská služba pro vnější činnost zároveň potřebuje organizační složku , která bude mít na starost otázky rovnosti pohlaví a jež bude mít minimálně jednu pozici na plný úvazek na každou geografickou oblast a delegaci eu zabývající se genderovými aspekty ve vztahu k ženám , míru a bezpečnosti .
+místopředseda komise . - ( it ) vážená paní předsedající , vážená paní lichtenbergerová , rád bych vám odpověděl v italštině , protože vím , že jste studentkou mého mateřského jazyka .
+pane schulzi , byl jsem informován , že tento návrh byl předložen před hodinou , z čehož usuzuji , že byl předložen jako preventivní opatření .
+je však zřejmé , že počet žádostí o registraci v rámci režimů jakosti potravin pod chráněným zeměpisným označením ( chzo ) , chráněným označením původu ( chop ) a označením zaručené tradiční speciality ( zts ) se mezi jednotlivými členskými státy podstatně liší .
+taková byla realita před zavedením stávající blokové výjimky v roce 2002 a zůstává to tak i o osm let později , ale tehdy , stejně jako teď , byl nejčastějším distribučním modelem prodej jedné značky .
+proto považuji nový rozpočet za excelentní .
+jsem přesvědčen , že úloha evropské centrální banky a vlád jednotlivých členských států eu bude mít v tomto procesu zásadní význam .
+do jisté míry dnes opakujeme to , co jsme vyjádřili již tehdy , ale říkáme také některé věci , které jsou poněkud důraznější a jak uvedla paní doyleová , přicházejí v rozhodujícím okamžiku , kdy by si většina z nás v této sněmovně přála , aby eu získala křeslo v arktické radě a tuto perspektivu nechceme ohrozit .
+například , jak mi řekl pan komisař michel , se ve zprávě tvrdí , že se v roce 2007 objem poskytnuté pomoci ze strany 27 členských států nezvýšil tak , jak měl , ale ve skutečnosti ještě klesl .
+písemně . - ( sv ) rozhodli jsme se hlasovat proti těmto dvěma dohodám o partnerství v oblasti rybolovu mezi eu a guineou-bissau , respektive pobřežím slonoviny .
+to je již první vítězství , je to v každém případě první průlom do kultury utajování , která byla pro toto odvětví charakteristická po více než čtyřicet let .
+jsou téměř neporovnatelné .
+fórum pro vnitřní trh a společná rozprava o těchto třech zprávách , která se bude konat každoročně ve stejný den , se pro nás stane příležitostí k tomu , abychom si kladli všechny tyto otázky a pracovali na tom , aby se vnitřní trh stal pro všechny občany a občanky jejich trhem domácím .
+žádám všechny strany , aby se v této otázce urychleně a okamžitě spojily a jednou provždy překlenuly tuto nespravedlivou digitální propast .
+máme nedostatek zaměstnavatelů - nikoli nedostatek zaměstnanců , ale zaměstnavatelů , kteří mohou nabídnout lidem práci .
+finanční prostředky evropské unie nebyly dosud nikdy v historii využívány efektivněji , nikdy jsme nezačlenili větší množství malých a středních podniků do mezinárodních sítí a regiony nikdy nebyly lépe připraveny na to , aby mohly začít využívat evropské programy .
+zprávy je třeba předložit rychle , ale musí být důkladné a důkladnost je důležitější než rychlost .
+doufám , že k tomu nedojde .
+obsahem těchto jednání bude pokusit se dosáhnout obojího v rovnováze .
+( pt ) chci zdůraznit , řekněme s velkým zadostiučiněním , že skupina evropská lidová strana ( křesťanští demokraté ) a její portugalští členové jsou svědky zahájení procesu přistoupení evropy k evropské úmluvě o ochraně lidských práv a základních svobod .
+( fr ) pane předsedající , budu velmi stručný .
+musíme si dát pozor , abychom nezpůsobili nové rozbroje tam , kde chudí občané , kteří nejsou romové , kriticky vnímají skutečnost , že romové najednou dostávají hodně peněz nebo se jim věnuje více pozornosti .
+písemně . - ( pl ) evropský parlament na středečním zasedání přijal zprávu paní giannakouové o statutu a financování politických stran na evropské úrovni .
+pro naši skupinu pokrokové aliance socialistů a demokratů v evropském parlamentu je toto téma velmi důležité .
+zahájení zasedání
+boj proti chudobě je boj za zlepšení upadajících čtvrtí , které lze najít ve všech velkých evropských městech .
+tento projekt může vážně poškodit zranitelný ekosystém baltského moře , ale nejvíce tento projekt ohrožuje nedostatek důvěry mezi ruskem a zeměmi kolem baltského moře .
+skutečně se naše evropské politiky dopravy , životního prostředí a regionálního rozvoje vzájemně zohledňují ?
+podporuji iniciativu předsedy skupiny sociálních demokratů , pana schulze , který se snažil využít tento přezkum k tomu , aby znemožnil vůdci francouzské extrémně pravicové strany mít tu čest a předsedat zahajovacímu zasedání nového parlamentu .
+pane saryuszi-wolski , některé části podporujeme , ale jiné ne !
+a především také , jak zajistíme , že afrika bude moci i v dlouhodobém výhledu těžit ze svých vlastních surovin ?
+zdálo by se , že by to vyhovovalo oběma stranám : členským státům eu , které hledají jiné zdroje energie , i zemím střední asie , které by rády prodávaly své suroviny za vyšší ceny .
+akční plán bude také napomáhat tvůrcům politik na místní , regionální a vnitrostátní úrovni při plném zachování - opakuji , při plném zachování - zásady subsidiarity .
+evropský úřad pro bezpečnost potravin ( efsa ) ve svém stanovisku uvedl , že antimikrobiální ošetření by se mohlo považovat za užitečný nástroj k doplnění hygienických postupů , které jsou už v evropské unii zavedeny .
+využil veškerou obrannou linii a neukázal žádnou vůli ke konstruktivní spolupráci .
+závěrem bych chtěl uvést , že zatímco evropská unie přirozeně obhajuje volný obchod , nemělo by toto usnesení vyústit v anti-americkou rétoriku .
+konečně bych rád upozornil na jeden bod , o kterém hovořil pan poignant , a také mu chci poděkovat , že zdůraznil význam jeana monneta .
+obávám se , že průmysl důlního zařízení bude těžební produkci následovat a přesune se z evropy pryč .
+to mě přivádí zpět k začátku tohoto odpoledne .
+proto věřím , že v této době má větší smysl optimalizovat programy a projekty , které již máme , tak , aby pomohly financovat small business act .
+z tohoto důvodu je důležité , aby světová banka přijala novou strategii financování energetických projektů , která poskytne efektivní , dostupnou , čistou energii jako prostředek ke snižování chudoby a k podpoře hospodářského růstu .
+plánujeme , že v roce 2008 zřídíme evropskou síť sdružení obětí terorismu , aby na evropské úrovni zastupovala zájmy obětí terorismu a posílila solidaritu evropských občanů s oběťmi terorismu .
+zpráva , o níž dnes vedeme rozpravu , se snaží nalézt potřebnou rovnováhu mezi vysokou mírou ochrany spotřebitelů a konkurenceschopností společností na pojišťovacím trhu při současném dodržení zásady subsidiarity .
+rovněž je třeba vytvořit vyváženější odvětví silniční dopravy , které bude nejen hospodářsky udržitelné , ale také udržitelné z hlediska ochrany životního prostředí , a odvětvím , které uznává , že musí platit spravedlivou cenu za náklady , které vytváří - ať již environmentální , nebo infrastrukturní .
+musím říci , že této poznámce prostě nerozumím .
+pane schulzi , nejsem si jistý , zda o tomto bodu můžeme ješte diskutovat .
+nutno zdůraznit , že strategie komise i zpráva parlamentu se nesou v duchu lisabonské smlouvy - odrážejí to , co píše o energetické solidaritě , i obavy , které dává najevo ohledně zabezpečení dodávek energie .
+prostřednictvím veřejných zakázek , které podporují výměnu starého vozového parku za nová vozidla , se ekonomika dostává do služeb životního prostředí ; snižováním emisí co2 kvůli vytvoření poptávky se životní prostředí dostává do služeb ekonomiky .
+plánujeme , že iniciativu východního partnerství zahájíme v květnu na úrovni summitu v praze a příslušné rozhodnutí zvolíme také právě na konci šestiměsíčního období , kdy můžeme provést hodnocení .
+zúčastnit se mohou jen ti , které režim toleruje .
+nachází se v něm mnoho průlivů , včetně bosporu , gibraltaru a pas-de-calais - jimiž každý den propluje 800 obchodních lodí - , které náleží mezi největší přístavy na světě .
+`` čistky '' , jejichž oběťmi byly jiné etnické , národnostní a společenské skupiny za ii . světové války , by rovněž měly být vzpomínány a jejich památka připomínána .
+pokud zvážíme důsledky globálního oteplování , je zřejmé , že rozvojový svět platí cenu za poškození životního prostředí , které způsobily bohaté státy .
+za prvé , nadměrné požadavky pro občany třetích zemí , kteří se u nás ucházejí o zaměstnání .
+tento návrh by pomalu zlikvidoval malé a střední podniky zabývající se chovem dobytka , které bojují o přežití , zejména v důsledku prudkého nárůstu cen krmiva .
+rovněž jsme požádali komisi , aby se tímto problémem zabývala při jednáních o dohodě o volném obchodu , a požádali indickou vládu , aby vyvinula maximální úsilí vedoucí k odstranění základních příčin s cílem tomuto jevu zamezit .
+uložili jsme sankce bělorusku , ale nejednali jsme tak v souvislosti s případem sergeje magnického v rusku , přestože evropský parlament na tento případ upozornil ve své výroční zprávě o stavu lidských práv ve světě v roce 2009 a v opatření evropské unie v této záležitosti .
+na jedné straně tvrdí , že doklad o původu je zbytečný , neboť uvádí , že evropská unie se může chránit na základě systému následného statistického celního dohledu .
+vytvořili jsme agenturu frontex , a to je vynikající .
+kvalitnější a přesnější první rozhodnutí by ušetřila peníze díky menšímu množství nákladných odvolání .
+jsme ovšem přesvědčeni , že by toto nařízení mělo být podstatně vylepšeno , abychom zamezili dalším případům dlouhotrvajících blokád dopravy mezi členskými státy , které jsou zásadním porušením takových základních principů vnitřního trhu , jakými jsou volný pohyb zboží a osob .
+v této souvislosti bych rád prohlásil , že bych skutečně očekával , že orgán patřící vládě členského státu bude dodržovat základní požadavky řádného vědeckého chování .
+je však důležité vědět , co přesně je hodnoceno a jak .
+bez diskuse je jasné , že je nutná regulace a kontrola .
+má komise reálné výhrady k její bezpečnosti ?
+ale takový jev existuje a zjevně hraje svou úlohu , což musíme vzít na vědomí .
+vzhledem k tomu , že lisabonská smlouva nebyla ratifikována včas , je žádoucí , aby po volbách v roce 2009 byli členové komise jmenováni postupem , který bude mnohem blíže k postupu zakotvenému v lisabonské smlouvě .
+parlament ovšem - a pořád ještě věřím , že ten požadavek je na místě - chtěl jasnou dohodu s radou o tom , jakým způsobem lze lisabonskou smlouvu , kterou pochopitelně rada a parlament přijaly společně - konec konců v této věci nestojíme proti sobě - skutečně provádět .
+investoři , občané , zvláště z usa , ale také evropané trpí jejími negativními následky . občané a investoři , spořitelé .
+zejména mě těší , že evropská unie upřednostňuje naše pacienty bez ohledu na to , zda jsou bohatí či chudí .
+dříve než se začnou vynakládat finanční prostředky , lidé by měli vědět , kolik se má utratit peněz , a dříve než se přijme rozhodnutí , by lidé měli vědět , kolik to bude stát .
+to neznamená , že bychom měli asadův nebo salehův režim podporovat , nýbrž že řešením by měla být spíše sjednaná úniková strategie než násilná a nekontrolovaná změna režimu .
+proto hlasuji pro tuto zprávu , jež požaduje , aby rada stáhla svůj návrh .
+nežádám vás , abyste vymýšlel něco nového , ale abyste vzal balíček předložený minulý týden panem předsedou komise a panem komisařem olli rehnem a předložil tento balíček s jeho čtyřmi základními kameny na jednací stůl rady a na stůl svých kolegů .
+( potlesk )
+na tom nám záleží a to jsou věci , kterými se řídila práce našeho výboru pro zaměstnanost a sociální věci .
+za druhé , hdp na jednoho obyvatele v nových členských státech je nižší než v starších , a totéž platí i o výšce osobního příjmu .
+domnívám se , že by diskuse neměla skončit zde .
+mezitím nám příslušné rakouské orgány sdělili , že jako náhrada za paní scheeleovou byla do evropského parlamentu zvolena paní maria bergerová , a to s účinností ode dne 11. prosince 2008 .
+to je třeba nyní udělat .
+jedná se o špatné nakládání s penězi nizozemských daňových poplatníků .
+příliš mnoho informací zabíjí evropské občany .
+někdo správně zmínil telekomunikační balíček .
+jde o správnou volbu , a to podle dvou kritérií .
+vím , že dvě rybářské společnosti z malty využily tuto dohodu k rybaření v atlantiku .
+alternativou je zásada , že každý si dělá , co chce , a nikdo nedělá , co by měl , každý však dělá něco .
+proto se připojuji k žádostem , aby úřad přijal potřebná opatření k nápravě těchto nedostatků , které v žádném případě nesnížily obecnou správnost a spolehlivost rozpočtu na rozpočtový rok 2009 .
+moje druhá předběžná poznámka navazující na výroky pana papanikolaoua a pana strejčka , které právě zazněly , se týká nutnosti zlepšit způsob fungování těchto agentur .
+dovolte , abych nejprve zdůraznil formy zvýšené odpovědnosti , které jsme vyjednali .
+využijme všech prostředků , jež máme k dispozici , během tohoto těžkého období evropské integrace , jímž právě procházíme .
+není to moje analýza , je to analýza mezinárodního měnového fondu ( mmf ) , organizace pro hospodářskou spolupráci a rozvoj ( oecd ) a pana tricheta , který je přece hlavou ochránce eura , prezidentem evropské centrální banky . pan trichet se domnívá , že všechna přijatá a připravovaná opatření nejdou dostatečně daleko .
+jak nás komise při několika příležitostech ujišťovala , ustanovení o navrácení cla obsahují ochrannou doložku , která na základě určitých kritérií připouští zřeknutí se nároku .
+před chvílí jste prohlásil , že vítáte spolupráci malých obchodníků za předpokladu , že nákupní dohody nepřesahují 20 % podílu na trhu .
+moje třetí poznámka se týká finančních trhů .
+není možné stavbu domu , výměnu střešního pláště , rozšiřování či výměnu tepelného systému podmiňovat instalací solárních panelů , jak to například předpokládá marburgský model .
+dovolte mi k tomuto říci , že jde o systémy těžby zlata , nikoli brambor , a vlastnické společnosti by tedy snadno mohly vyčlenit hospodářské a finanční prostředky na vývoj technologií , které jsou kompatibilní se životním prostředím a zdravotně nezávadné .
+nikdo nedokáže vyřešit hospodářské problémy v situaci , ve které se nacházíme , bez koordinace hospodářské politiky .
+ke zvýšení účinnosti politiky soudržnosti je nutná lepší součinnost mezi strukturálními fondy a lepší koordinace s jinými finančními nástroji eu a domácí pomocí .
+pracovní trh , který upravuje právní předpisy v oblasti ochrany spotřebitelů , v eu v praxi nefunguje .
+členské státy ji kategoricky odmítly .
+komise bude tedy nepochybně obhajovat dodržování přijatých závazků , například závazků přijatých v rámci financování rychlého zahájení boje proti změně klimatu .
+že někteří hloupí a ignorantští lidé mohou útočit na to , co je ve skutečnosti tragickou realitou , kterou zažívají občané , jednotlivci a především vnitrostátní vlády .
+velké rozpočtové deficity bohužel zažívá i španělsko , portugalsko a itálie .
+všichni se bezpochyby shodneme na to , že se jedná o nutnost .
+na termínovém trhu se ještě nikdy tolik neobchodovalo a ještě nikdy nešlo o tolik peněz jako nyní .
+byly sice přijaty jisté kroky , je však potřeba udělat ještě mnohem víc , než se navrhuje v této zprávě .
+čeho nicméně lituji , to je přijetí ústního pozměňovacího návrhu paní trautmannové .
+když se podíváme na 16 miliard eur považovaných za potřebné pro výzkum solární energie nebo na 5 miliard eur odhadovaných pro potřeby vodíkové technologie , nemůže být tato úvaha podružná .
+členské státy eu také musí vyvinout veškeré úsilí , aby poskytly kulturní či územní autonomii etnickým menšinám žijícím na jejich území .
+při snaze o pomoc ženám hrozí , že budou na trhu práce penalizovány .
+mít vliv na kontrolu finančních trhů , změnu klimatu , snahy o hospodářskou obnovu - to jsou věci , které může dokázat pouze evropa na základě spolupráce svých orgánů .
+tohoto vyššího počtu má být dosaženo tím , že se 18 křesel rozdělí mezi 12 členských států a německo ztratí tři křesla , ale k tomu nemůže dojít , protože je nezákonné třem německým poslancům evropského parlamentu předčasně zkrátit mandát .
+tento balíček musí zahrnovat kromě cílů 20/20/20 také opatření pro vozidla a letadla , která zajistí , aby všeobecné sliby snižování byly věrohodné , částečně pomocí vertikálních politik .
+zaměstnání a celý sociální rozměr byly hlavními tématy celé řady diskusí .
+jedná se tedy o opatření , které je přes svůj dočasný charakter nezbytné a vhodné .
+paní předsedající , dámy a pánové , hlasoval jsem pro zpráva pana cottignyho o poskytování informací zaměstnancům evropského společenství a jejich účasti na projednávání .
+bez lepší dohody nemůžeme podle tohoto argumentu zahájit ani důstojný dialog o lidských právech .
+svoboda projevu musí být absolutní a musí rozhodně zahrnovat politické názory i v kontroverzních otázkách , jako je migrace či islám .
+musíme stále zdůrazňovat , že evropská unie chce spolupracovat se všemi dotčenými zúčastněnými stranami v arktidě , abychom zajistili , že k daným problémům přistupujeme správně .
+nedaří se mu kontrolovat schodek veřejných rozpočtů .
+podle názoru finančních expertů by daň z finančních transakcí , která snižuje míru finančních spekulací a přijímání velkých rizik na straně finančních institucí - za což se již dlouho zasazuje skupina pokrokové aliance socialistů a demokratů v evropském parlamentu - může být zavedena na evropské úrovni , aniž by došlo k odlivu finančního sektoru z evropy .
+pokud konference předsedů navrhne změnu v postupu předsednictvu , to ji zváží se vší pečlivostí .
+souhlasíte se mnou , že evropská směrnice může pouze stanovit požadavky , které pak členské státy budou muset provést ve svých vnitrostátních právních předpisech ?
+jako zástupci občanů evropy se musíme v tomto parlamentu k uvedenému návrhu vyjádřit .
+tato mise by samozřejmě mohla být uskutečněna za pomoci africké unie a není důvod , proč by do ní nemohly být zapojeny také třetí země .
+( ro ) paní předsedající , ženy i děti jsou nepochybně důležité téma , ale ve zprávě pana arlacchiho je důležitá její srozumitelnost .
+to je solidarita , již nyní uvnitř potřebujeme , takže této svobody můžeme dosáhnout společně se sociální spravedlností .
+evropská unie již oznámila ve svém akčním strategickém plánu na počátku procesu z annapolis , že je připravena se v tomto směru zapojit .
+na závěr bych komisi chtěla požádat , aby v nadcházejícím akčním plánu pro logistiku dopravy , který hodlá předložit , věnovala potřebám těchto ostrovních oblastí zvláštní pozornost .
+dnes si připomínáme dvacáté výročí pádu berlínské zdi a přestřižení ostnatého drátu .
+jménem skupiny verts/ale . - ( fr ) paní předsedající , paní komisařko , pane lenarčiči , hovořím jménem delegace ; jsem předsedkyní delegace evropského parlamentu do tří kavkazských zemí .
+toto rozhodnutí musí vzít v úvahu tu skutečnost , že dne 12. září 2007 podala malta žádost o uvolnění prostředků z fondu na 675 propuštěných pracovníků v odvětví textilu , konkrétně pro pracovníky propuštěné společnostmi by vf ( malta ) ltd a bortex clothing ind .
+hovoříme o růstu a je to jediný způsob , jak se mohou okrajové ekonomiky vyškrábat z propasti , v níž se nacházejí .
+( de ) pane předsedo , pane barroso , dámy a pánové , rád bych změnil tón této rozpravy a navrhl , abychom se všichni sami sebe zeptali : kdo z nás nepotřebuje růst a rozvoj ?
+komise , jíž jsem členem , oznámila na počátku roku 2005 přepracování této směrnice .
+ve světle nedávných událostí souvisejících s katastrofami , které způsobilo potopení lodí erika a prestige , se lidské pochybení ukázalo jako závažný aspekt , který ohrožuje námořní bezpečnost .
+hlasovala jsem pro tuto zprávu , i když poněkud nerozumím důvodům pro ustanovení veřejného ochránce práv spotřebitelů a prostředkům kolektivního odškodnění .
+clo bez papírování , centralizované odbavení a systém jednotného kontaktního místa podpoří naše malé a střední podniky a usnadní jim práci , ale je však nutné , v tomto členské státy důsledně pokračovaly , máme-li z toho mít užitek .
+na druhé straně zpráva obsahuje věci , které se nám nelíbí , a proto se zdržíme hlasování .
+písemně . - ( fi ) pane předsedající , dámy a pánové , rád bych poděkoval panu panzerimu za jeho skvělou zprávu o efektivnější prevenci neohlášené práce v eu .
+víme , že dokonce v samotné evropské unii se právní systémy a právní kultura velmi liší .
+navrhovaný rámec přispěje ke zkvalitnění a zefektivnění investic do lidského kapitálu mnoha různými způsoby , z nichž zmíním jenom tři : vylepšením vzdělávání a dovedností ; zlepšením standardů ; podporou mobility .
+pouhé zastavení dovozu do ruska způsobilo ztrátu 4,4 milionů eur .
+domnívají se , že úmysl jednat se rozplyne , zejména když letecké společnosti ze spojených států už de facto nemají soupeře pro vnitrostátní lety z jednoho členského státu do druhého , které na území usa nemůžeme vykonávat .
+podrobný postoj evropské unie sice ještě nebyl dokončen , nicméně mohu vysvětlit zásady a priority , jež ovlivní naše rozhodnutí spojená s nejcitlivějšími tématy diskuse v dohá .
+ochrana dětí , uvnitř i mimo společenství , je nepochybně velice důležitým cílem evropské unie .
+zlepšené nařízení by zavedlo vyšší úroveň transparentnosti .
+je také potřeba , aby nám evropský soudní dvůr poskytl judikaturu týkající se těchto záležitostí .
+jsou to špičkoví lidé , nejlepší ve třídě , nejlepší absolventi , přesto jsou jim nabízena horší místa v kurzech odborné přípravy a mají horší příležitosti postupu v práci .
+závěrem nám všem přeji hodně štěstí .
+tato osoba zlepší koordinaci a soudržnost mezi orgány eu a agenturami a členskými státy , pomůže zajistit , aby byly osvědčené postupy sdíleny v různých členských státech , bude rozvíjet existující a připravované politiky a bude kontaktní osobou pro třetí země .
+v každé otázce , zejména takové , která ovlivňuje životy miliard lidí , tak jak je tomu v případě změny klimatu , je důležité jednat při pokusu o vyřešení problému umírněně , se zdravým rozumem a určitou mírou spravedlnosti .
+tento nový evropský regulační orgán významně přispěje ke zvýšení přeshraniční konkurence a výběru pro spotřebitele .
+podle mého názoru se jedná o základní zásadu , kterou je třeba dodržet .
+11. červenec jako den vzpomínky na oběti masakru ve srebrenici ( rozprava )
+( it ) pane předsedající , dámy a pánové , chtěla bych poblahopřát panu zpravodaji k práci o vnějším mandátu evropské investiční banky .
+nicméně , žena by měla mít možnost , aby si zameškaný čas nahradila , jakmile se do zaměstnání jednou vrátí .
+pakt zahrnuje všechny aspekty řízení migračních toků : boj proti nelegální migraci a kontrolu na hranicích , ale také nové oblasti jako např. ekonomické přistěhovalectví , účinnou harmonizaci azylu a rozvoj zemí původu .
+přesto někteří poslanci vyjádřili s tímto řešením nesouhlas .
+musíme zaměřit pozornost na městskou dimenzi a zajistit koordinaci mezi fondy a jinými finančními nástroji evropské investiční banky ( eib ) a evropského investičního fondu ( eif ) .
+plynovod nord stream , který je veden po dně baltského moře , je vyjímečný projekt , neboť je rozsáhlý a hrozí , že bude mít dopad na životní prostředí regionu baltského moře .
+to , co říkal pan schulz , byla pravda , i když podaná poněkud dramaticky .
+doufám , že vzájemná výměna zkušeností pomůže zvýšit úroveň zaměstnanosti a mobilitu na pracovním trhu .
+to je základním záměrem .
+konstruktivní návrhy , jako je používání sušeného odstředěného mléka pro krmení telat , stanovení minimálních cen výrobků ze sýrů , jasné označování náhražek sýra a používání máselného tuku při výrobě zmrzliny a pekárenských výrobků , existují už dlouho .
+5 ústavy portugalské republiky stanoví , že stát nesmí převést na jiné subjekty žádnou část portugalského území ani svrchovaná práva , jimiž na těchto územích disponuje , což se vztahuje i na příslušné mořské dno . kromě toho je nevyhnutelné zlepšit pracovní podmínky námořníků , zaručit udržení pracovních míst , zabezpečit dodržování zásady rovné odměny za stejnou práci , zkrátit pracovní dobu a zajistit , že nebude uplatňován požadavek široké kvalifikace .
+právě tento den je vynikající příležitostí k tomu , jak prostřednictvím politiky související s ochranou spotřebitele přiblížit evropskou unii jejím občanům .
+proč máme vždy tento problém , ale v případě jako je ten dnešní , který je pouze administrativní otázkou , využíváme tento typ prezence a podpory ?
+chtěla bych se vás ale , pane barroso , zeptat na jednu věc - a zmínil jste to i v dokumentu , který jste nám předložil - konkrétně na vlastní finanční zdroje evropské unie .
+větší zaměření na energetickou účinnost bude znamenat především to , že budeme spotřebovávat méně energie .
+slyšení , které se uskutečnilo , a studijní návštěva v španělsku nám poskytly zajímavé pohledy a dnes musím velmi pěkně poděkovat zpravodaji za to , že všechny naše příspěvky zapracoval do své zprávy .
+otázkou také je , zda si mohou malé a střední podniky mezi všemi těmito znalostními a výzkumnými instituty nalézt cestu .
+tímto tématem jsme se zabývali v usnesení v roce 2005 a nyní o něm jednáme opět .
+náš závazek k mnohostrannému systému obchodování lze považovat za zaručený .
+nijak jsem ale nezamýšlel dotknout se vážené paní poslankyně , jejíž záznamy hovoří samy za sebe .
+napadá mě xenofobie a homofobie .
+dlužíme svým občanům konstruktivní politiku pro evropu .
+nicméně problém lidských práv se v rámci evropy neomezuje pouze na východní blok ; zasahuje také na západ .
+důvody této nepřítomnosti jsou procedurální .
+způsobilost intervencí do bydlení ve prospěch marginalizovaných společenství (
+přijímáme a vítáme návrhy komise na odstranění kvót do roku 2015 .
+pokud se rozhodnou , že je v zájmu jejich země přistoupit na jednotnou měnu , je to jejich národní právo a podle toho učinili své rozhodnutí .
+avšak pokud jde o rok 2010 , byla komise během dohodovacích jednání o rozpočtu vyzvána , aby předložila revidovaný finanční plán , který by zajistil požadované zvyšování částek plánovaných na období 2010-2013 při současném zachování ročního maxima v nezměněné výši .
+členka komise . - pane předsedo , blízký východ je nyní v období přeměny .
+usnesení zároveň vyzývá izrael , aby podnikl kroky na zajištění volného průchodu humanitárních zásob a základních dodávek .
+ústavní architektura evropské unie stále více přejímá formu národního státu .
+přesto však musím zdůraznit , že za provádění směrnic je odpovědna komise .
+pokud je ohrožena záležitost principu , pak něčí náboženství a etnická příslušnost nehrají roli .
+a tak není snadné shodnout se na jednotném přístupu evropy ke společné energetické politice a k náročným cílům v oblasti změny klimatu .
+jaké strukturální změny může evropská unie poskytnout světu ?
+nadešel čas pro harmonickou společnost .
+je zde bělorusko , sklon k diktatuře je v rusku , na ukrajině a problémy jsou v moldavsku a v podněstří .
+petice : viz zápis
+děkuji vám za pětiletou spolupráci .
+mezi chyby se navíc nezapočítávaly případy plýtvání , kdy docházelo například k tomu , že se hornické dotace vyplácely miliardářům .
+pane komisaři , nautilus , hermes a 24 milionů eur znamená více závazků a více prostředků .
+evropská unie již vynaložila na kosovo 3 miliardy eur .
+proto se domníváme , že nejlepším způsobem , jak se vyhnout ohrožení schengenského prostoru je právě posílit pravidla jeho správy a vyjasnit některé jeho aspekty .
+je třeba , abychom lépe pochopili , co irové řekli , čeho se obávají a v co doufají .
+pokud jde o problém jako celek , je vidět , jak důležité jsou spolehlivé statistiky .
+jinými slovy , přesun od ropy k obnovitelným zdrojům energie je dlouhodobý proces , ale v následujících 10 až 30 letech v evropě poptávka po ropě nepoklesne .
+někteří z těch , kteří se hlasitě dožadovali dodržování mezinárodního práva a územní celistvosti , svrchovanosti a nezávislosti gruzie , jsou titíž , kteří propagovali a podporovali agresi proti jugoslávii .
+finanční krize , kterou svět prošel , ukázala , že mezinárodní finanční výměny musí podléhat alespoň minimálním pravidlům .
+doufám , že se tak stane brzy .
+většina ve vládě odmítla jakékoliv předchozí dohody , které by mohly vyústit v široký a potřebný politický a společenský konsensus .
+nebo co třeba iniciativa komise v případě , kdy například , jak se stalo právě nedávno , holandský politik nemůže získat povolení ke vstupu do jiného evropského členského státu , spojeného království .
+značnou zásluhu na tom má postoj skupiny pokrokové aliance socialistů a demokratů v evropském parlamentu .
+dámy a pánové , děkuji za názory , které jste vyjádřili , myslím si , že ukázaly zcela zřetelně mnohoznačnost této otázky . snad jenom ještě jediná poznámka .
+tam , kde hrozí ztráta úrody , může ignorace a nedostatek náležité pomoci zemědělcům vést k nekontrolovatelnému používání pesticidů .
+komise již dokončila velkou část tohoto úkolu .
+členské státy mohou v současné době používat označování s cílem informovat kupující o možných negativních následcích požívání alkoholu , a to je něco , co by irská vláda měla určitě zvážit .
+za prvé došlo ke katastrofě ve spojeném království , o které dnes jednáme a hlasujeme . okamžitě potom vypukly hrozné požáry v řecku , o kterých všichni víte .
+každý střadatel chce vědět , za jakých podmínek a do jaké míry je zajištěno jejich navrácení .
+v případě daně bude trpět ta strana , která peníze potřebuje dostávat .
+otázku bezvízového styku v evropě nelze považovat ani za privilegium , ani za diplomatické gesto .
+takto energetická revoluce nevypadá .
+ovšem ústřední součástí této zprávy je stejně jako v jiných případech sledování .
+je zřejmé , že vám nebudu pokaždé blahopřát , pokud nedáte jasně najevo , kde stojíte ve věci konkrétních problémů , dilemat a krizí .
+chtěl bych rovněž učinit jednu důležitou poznámku .
+domníváme se , že taková spolupráce by podstatně přispěla k účinnějšímu a jednotnějšímu provádění práva společenství .
+koordinační nařízení , které dnes projednáváme , dokonce každý rok uvádí úpravy zákonů členských států v soulad .
+imo ( mezinárodní námořní organizace ) spolupracuje od roku 2005 s mezinárodní organizací práce ( ilo ) a programem osn pro životní prostředí ( unep ) , aby vypracovala závazné mezinárodní předpisy o neškodné demontáži lodí .
+musíme spojit veškeré síly v ratifikačním procesu , abychom tuto smlouvu získali do roku 2009 .
+myslím si , že dokonale shrnuje současný stav této problematiky , pokud jde o návrhy komise .
+doufám , že tato zpráva zvýší otevřenost a transparentnost lobbování v parlamentu .
+otázky 10 a 11 byly spojeny , protože se velmi podobají , ale oba autoři chtějí využít možnosti položení doplňujících otázek panu ministrovi .
+písemně . - skupina ecr je jednotná v názoru , že obchodování s lidmi je nepřijatelné a mělo by být zastaveno .
+jsme přesvědčeni , že by se takovým krokem institucionalizoval nedostatečný výkon v zemědělském odvětví .
+písemně . - ( pt ) evropská policejní akademie má potíže s dodržováním standardů řádného řízení , které se očekávají od každého regulačního orgánu .
+i pracovní text vaší pozměňující smlouvy má svoje nedostatky : ztráta symbolů evropy je větrem do plachet pro federalisty , a také únikem před hlasovacími systémy ze strany poláků .
+je dobře , že máme směrnici , ale každý , kdo je s daným sektorem obeznámen , tuší , že je třeba udělat toho ještě mnohem více .
+doplní systém ochrany základních práv uvnitř evropské unie a velmi dobře víte , že lisabonská smlouva to neuvádí jako možnost , nýbrž jako cíl .
+musíme tak učinit v rámci strategie eu do roku 2020 , která byla minulý týden předložena .
+evropská kulturní odvětví přispívají k evropskému podnikání , inovacím a obchodu a rozmanitá kulturní krajina eu z ní činí nejpřitažlivější turistickou destinaci na světě .
+zadruhé , pokud jde o energetiku , potřebujeme energetickou účinnost .
+paní předsedající , chci říci panu hökmarkovi , že to , co říkáte o socialistických vládách , může být do určité míry pravda , ale pravicové vlády si v zásadě zvolily ten samý způsob , když navršují soukromý dluh místo veřejného dluhu .
+musíme mít dramatičtější unii , která dá občanům možnost iniciativy .
+bude to také zkouška naší schopnosti sestavit návrh rozumného rozpočtu zaměřeného na oblasti , ve kterých lze prostředky nejlépe využít a které přinesou hmatatelné výsledky , a nikoli rozpočet zaměřený nesprávným směrem , protože byla dána přednost politickému kompromisu před kvalitou a efektivitou našich výdajů .
+proto zde není žádný problém , neboť mám dojem , že desátý navržený zmíněný pozměňovací návrh rovněž představuje zklidňující řešení , neboť se nizozemská vláda zavázala informovat příslušné občany v objasňujícím oběžníku , takže nyní není zapotřebí , aby tento navrhovaný pozměňovací návrh schvaloval parlament .
+byl univerzitním profesorem ve spojených státech a velkým zastáncem evropské integrace , již na americkém kontinentu propagoval .
+je nejvyšší čas , aby skončila turecká okupace a zasahování , aby kyperští řekové i turci mohli žít společně v míru v evropské unii .
+rád bych rovněž obrátil pozornost poslanců k určitým pozitivním vývojům v poslední době , jako je vytvoření úřadu pro lidská práva v sekretariátu rady pro spolupráci v zálivu .
+podaří-li se již lidi zachránit z této hrozivé situace , musí členské státy také zajistit , aby se jim dostalo lékařské a psychologické péče , než jim bude ve vhodných případech pomoženo navrátit se do země jejich původu , nebo se jim otevře cesta k získání azylu či jiné možnosti , jak tu najít nový domov a začít vést nový život .
+stárnutí obyvatelstva pravděpodobně způsobí nedostatek pracovní síly a tlak na systémy sociálního zabezpečení .
+jak říká staré moudré rčení mého lidu : `` vždy doufej v to nejlepší , ale připrav se na to nejhorší , a bůh pomůže těm , kdo pomohou sami sobě ! ''
+jedním z klíčových úkolů v oblasti rozvojové politiky je přesměrování našeho úsilí na udržitelný konzervativní přístup k těžbě dřeva , správě lesů a rybolovu .
+dle mého názoru to je velká škoda , protože keňa je zemí , která byla mnoho desítek let politicky stabilní .
+my se opravdu setkáváme opakovaně s tím , že někteří politici a nevládní organizace své postoje ke vztahu k rovným právům obou pohlaví poněkud přehánějí .
+ze stejného důvodu jsem některé záležitosti ze zprávy vynechal .
+( es ) pane předsedající , cikáni , kteří jsou jednou z nejstarobylejších skupin v evropě , si zaslouží pozornost evropské unie , které se jim doposud nedostalo .
+z našeho pohledu jde o špatný přístup .
+poslední dva roky jasně ukázaly , že tato iniciativa eu není zaměřena na hospodářskou soutěž , ale spíše na spolupráci s ruskem , protože stabilní a sebevědomé společné sousedství je v zájmu jak eu , tak i ruska .
+druhý bod se týká evropského úřadu pro bezpečnost potravin , kde se snažíme o pravý opak , a sice o umístění 10 % zdrojů do oblasti rezerv do té doby , než agentura prokáže , že řádně plní své úkoly .
+máte-li v úmyslu prosazovat moderní , udržitelné myšlenky , naše skupina za vámi bude rozhodně stát .
+chystá se komise udělat něco pro to , aby zaručila rovné a spravedlivé zacházení s touto slabší smluvní stranou ?
+v dnešní době není povolání učitele atraktivní .
+budoucí zajištění dodávek základních potravin vyžaduje silnou společnou zemědělskou politiku ( szp ) .
+jak mají zemědělci informovat všechny své sousedy a obyvatele v okolí předtím , než aplikují přípravky na ochranu rostlin ?
+znovu tak vyzývám komisi , aby zajistila , aby byl tento koncept správně používán , a to do posledního detailu , což znamená , že budou vytvářeny vhodné intermodální uzly a odstraňována problematická místa se zúženým průjezdem při přepravě zboží směrované přes důležité brány evropského obchodu .
+existují modely místního rozvoje , které se tímto problémem začaly zabývat na základě jednotlivých konkrétních oblastí .
+odhady naznačují , že ročně by této podpory mohlo využít 35 000 až 50 000 zaměstnanců .
+domnívám se , že jsme při její přípravě spolupracovali dobře , a děkuji svým kolegům .
+když maďarský premiér viktor orbán 19. ledna představoval evropskému parlamentu program maďarského předsednictví eu , řekl : `` strategie pro romy je prioritním aspektem maďarského předsednictví , neboť inteligentní evropa nemá smysl , pokud nemá žádné srdce .
+co se týče bývalé jugoslávské republiky makedonie , bernd posselt , mezi jinými , uvedl , že bychom měli podpořit její úsilí , a já se domnívám , že má pravdu .
+doufám , že s evropou v čele dosáhneme v kodani úspěchu .
+myslím si , že digitální strategie evropské unie je klíčovým faktorem pro tuto novou ekonomiku .
+chci také podtrhnout význam změny spočívající v možnosti odložit vyčerpání prostředků předpokládaných na rok 2007 .
+písemně . - vítám tuto dohodu a účast chorvatské republiky na činnosti evropského monitorovacího centra pro drogy a drogovou závislost .
+je přímo absurdní , že je dovoleno , aby se karcinogenní látky dostaly do rukou dětí .
+nemám ve zvyku odpovídat na hypotetické otázky .
+nemáme žádnou kritiku ani ke způsobu použití prostředků , ani k výši výdajů .
+chtěla bych se jen vrátit k problematice elektromagnetických polí .
+děkuji za vaši laskavou pozornost .
+vytvoření systému označování , který zajistí zveřejňování příslušných informací o palivové účinnosti a přilnavosti a dalších , umožní spotřebitelům informovaný výběr při nákupu pneumatik .
+podporuji dosažení shody na společné metodice pro měření vnitrostátních cílů v oblasti energetické účinnosti a monitorování pokroku při jejich dosahování .
+musíme opravdu lpět na politické soudržnosti , aby nedošlo k tomu , že budeme na haiti neúspěšní jenom proto , že veškerý náš pokrok zhatí jiné škodlivé politiky .
+písemně . - ( pl ) hlasovala jsem pro přijetí pozměňovacích a doplňujících návrhů č. 18 až 21 , tj . bloku č .
+tento limit je nezbytný proto , aby 87 % nárůst emisí z letecké dopravy mezi lety 1990 a 2004 nepodkopal snížení v jiných průmyslových odvětvích .
+přesto , protože nemáme jednotné podmínky , stále vidíme , že se jednotlivé části eurozóny , jednotlivé členské státy , stále potýkají s potížemi , a na to musíme reagovat .
+současná ustanovení smlouvy obsahují závazek usilovat o rovnost mezi ženami a muži .
+nemáte projekt na environmentální a sociální transformaci evropy .
+musíme provést klimatický balíček , třetí balíček opatření pro vnitřní trh a zlepšit zabezpečení dodávek plynu .
+písemně . - ( it ) poslední mezivládní konference o změně klimatu a různé konference v rámci rámcové smlouvy osn o změně klimatu ( unfccc ) poukázaly na to , že skleníkové plyny vyrobené člověkem jsou příčinou změny klimatu a že zvýšení světové teploty se musí zastavit na 2 °c nad úrovní před industrializací .
+na druhou stranu je však důležité , abychom si uvědomili , že existují právní předpisy na úseku životního prostředí , které upravují tekoucí a podzemní vody a těžbu surovin ze země .
+to , že uživatel letiště nemůže pozdržet plány letiště , umožní letištím ihned začít s plány infrastruktury , a tak ušetřit své peníze a nakonec i peníze cestujících , protože ti budou s největší pravděpodobností využívat výhod plánů s dalšími náklady .
+pokud by příští volby vytvořily rušivé linie na politické paletě , byl by to důvod ke znepokojení .
+víme však také , že tyto reformy nelze provést v rámci jednoletého rozpočtu .
+i když souhlasím s potřebou revidovat režimy podpor pro zemědělce , domnívám se , že návrh komise zachází příliš daleko , což má vážný dopad na příjem zemědělců , kteří jsou strážci evropské venkovské krajiny a mají zásadní význam pro naši potravinovou soběstačnost .
+na základě smlouvy se členské státy zaváží zvyšovat objem vojenských prostředků na operace mimo jejich území a v jejich dřívějších koloniích .
+dámy a pánové , uklidněme se .
+tento jazykový zákon není tak dobrý , jak by měl být , o tom skutečně není pochyb .
+musíme také sestavit seznam zařízení , které splňují vyšší normy , který navrhla paní grossetęteová navíc souhlasíme , že na vyřazené lodě se musí uplatňovat přísnější nařízení o přepravě odpadu .
+nejsme a nikdy nesmíme být lhostejní k vašim stanoviskům . netvrdíme a nikdy jsme netvrdili , že jsme dokonalí , nebo že všechno , co jsme udělali , jsme udělali správně a bezchybně a že to nelze kritizovat .
+( potlesk )
+jsme připraveni vám dát náš hlas , ale musíte slíbit , že zastavíte vyjednávání s tureckem , že zajistíte , aby nizozemsko již nebylo největším čistým přispěvatelem byrokratické evropské unie , a že budete pracovat na evropě suverénních členských států , spíše než na federálním super státu , k němuž aspirujete .
+písemná prohlášení ( článek 116 jednacího řádu ) : viz zápis
+hodlá komisař přejmenovat šestou evropskou průmyslovou iniciativu jednoduše na iniciativu `` jaderná energie '' ?
+býval bych si myslel , že jako autoři otázky týkající se unie mercosur bychom se mohli dočkat alespoň takové slušnosti , že se s námi bude konzultovat , proč k tomu došlo .
+chtěl jsem vás informovat o tomto řešení a řeknu o něm i radě na jejím dalším jednání 9. října , kde se zaměříme na zbývající dva texty .
+agentura v posledních třech letech výrazně zlepšila své finanční řízení , což je velmi vítáno , a měla by nadále pokračovat v úsilí o dosažení nejvyšších standardů rozpočtového plánování , plnění rozpočtu a jeho kontroly .
+v zájmu řešení nesmyslných cen energie bychom se měli pravděpodobně zabývat vytvořením nezávislých energetických regulačních orgánů ve všech členských státech , které by měly pravomoc zajistit , aby každý nárůst v cenové úrovni veřejných služeb , jako je energie a voda , kanalizace , letištní poplatky atd. , musel být odůvodněný .
+pro rozpočet eu na přechodné období mezi smlouvou z nice a lisabonskou smlouvou musíme mít jasná pravidla .
+v nedávné době se objevil návrh zakázat kouření na veřejných místech , přičemž zároveň v centru hlavního města můžete koupit tisíce balíčků pašovaných cigaret .
+včerejšího `` polského instalatéra '' zítra nahradí instalatéři čínští nebo pákistánští .
+na druhé straně závěry této pečlivé zprávy nabízejí přesvědčivé náznaky , jak je možné uskutečnit takovouto změnu a jak srbsko může zaujmout své místo v evropě .
+pan rouček a paní de keyserová měli naprostou pravdu , když uvedli , že je třeba mnoho vzdělání , s malířem magrittem nebo bez něho .
+počet nových případů tuberkulózy na celém světě stále vzbuzuje obavy , přitom do konce lhůty pro dosažení rozvojových cílů tisíciletí ( mdg ) zbývají čtyři roky . proto bychom s opatřeními neměli otálet .
+tento akční plán bude vodítkem při uplatňování ambiciózního souboru velmi konkrétních opatření v oblasti , kde bude přidaná hodnota evropy našim občanům naprosto zjevná .
+vysoce hodnotím proces , který nás dovedl až ke schválení nové smlouvy .
+stejně jako mnoho kolegů poslanců vyjadřuji svůj nesouhlas se skutečností , že rada dále snížila již tak velmi skromný rozpočet : prostředky na závazky návrhu rozpočtu představují celkovou částku 134 miliard eur , tedy schodek 469 milionů eur vzhledem k pdb , dokonce i když platby dosahují 115 miliard eur , což je nárůst o 1,8 miliardy eur .
+například v mé zemi , v irsku , může dodatečnou ochranu získat někdo , kdo použije platební kartu , nicméně nikoli v případě , jestliže dojde k fakturaci .
+je to všechno velmi pěkné , že se pro toto usnesení hlasuje - a já jsem pro něj hlasoval , protože jsem ho pomáhal vyjednat - ale díky tomu si uvědomuji , že má také svoje slabiny .
+komise se domnívá , že směrnice , jejíž návrh nedávno předložila , by byla mnohem vhodnějším nástrojem k dosažení našeho společného cíle chránit děti proti pachatelům sexuálně motivovaných trestných činů na dětech .
+v současné době je situace velice vyostřená .
+písemně . - ( fr ) hlasoval jsem pro usnesení o návratu a opětné začlenění zadržovaných osob z vězení v guantánamu .
+nyní hovoříme o `` obnovitelných zdrojích energie '' , a v této oblasti dosáhneme více než 40 % .
+paní gomesová vypracovala skutečně výjimečnou zprávu , jejíž závěry jsou odvozené z jejích osobních poznatků , které získala z první ruky přímo na místě .
+ráda bych zdůraznila body , kterými se členské státy podle mého názoru budou muset více zabývat , aby parlament dohodu přijal .
+co řekneme bankám ?
+jde o první z nové generace dohod o volném obchodu , které obsahují jak kapitolu o udržitelném rozvoji a shodě s pracovněprávními normami , tak mechanismus sledování , na němž se bude podílet občanská společnost .
+musí existovat směrnice , kterou tyto společnosti porušují .
+souhlasím s návrhem komise , jehož cílem je poskytnout další jednodušší metodu pro využívání prostředků z evropského sociálního fondu s cílem zajistit , aby mohl reagovat rychleji a účinněji na hospodářské a sociální problémy , jimž evropa čelí .
+jednohlasně jste převzali odpovědnost , a doufám , že toho nebudete hořce litovat .
+paní předsedkyně , gratuluji své kolegyni paní gomesové k vynikající zprávě .
+20 odst . 6 písm . d ) a odstavcům 7 a 8
+je důležité , aby nebyl režim restriktivních opatření vytrhnut z kontextu , při uplatňování těchto opatření se nemůžeme spoléhat na to , že všechno automaticky zapadne na své místo .
+neobviňujte mě z rasismu , buďte seriózní .
+je ještě příliš brzy na to , abychom vyvozovali nějaké závěry o potřebných změnách .
+evropská politika soudržnosti musí zůstat politikou silnou a dobře financovanou , a proto bych rád zdůraznil , že je zapotřebí zachovat finanční zdroje pro cíl 2 .
+instituce v celé evropě a členských státech , které byly zodpovědné za řešení těchto otázek , byly naprosto paralyzované a upřímně řečeno , kdyby to nebylo tak vážné , bylo by to až směšné .
+diskuse byla skutečně velice zajímavá .
+na závěr mi dovolte říci , že určitě odevzdám vaše připomínky panu komisaři mandelsonovi , aby byly v plné míře vzaté v úvahu při jednáních s jinými členskými zeměmi wto .
+slouží pouze k odborné přípravě politického rozhodnutí .
+protože nemáme času nazbyt a já naopak vyzývám všechny k co nejrychlejšímu rozhodování , abychom mohli dosáhnout úspěchu se strategií evropa 2020 a vytvořit skutečné základy pro udržitelný růst a tvorbu pracovních míst v evropě .
+jaké budou další konkrétní kroky ?
+k této věci musím říci , že rada nemůže dodat nic dalšího k tomu , co již bylo řečeno v pondělí při dohodovacím řízení , přestože vím , že parlament s tím tehdy nemohl souhlasit .
+tato opatření jsou bezprostřední odpovědí na situaci .
+paní předsedající , skutečnost , že parlamentu se podařilo přijmout první směrnici od vstupu lisabonské smlouvy v platnost již během prvního čtení , a to navzdory náročnému krizovému období v evropě i ve světě , jímž nyní procházíme , vypovídá mnoho o citlivosti této sněmovny .
+písemně . - ( pt ) tato dohoda má za cíl zajistit zpětnou sledovatelnost a certifikaci dřevařských výrobků z konžské republiky .
+myslím si , že je důležité neinvestovat výlučně do technické oblasti , přestože je to oblast důležitá .
+spolupráce s francouzským předsednictvím a radou byla velmi plodná .
+nejde tu o slabou globální pozici evropské unie v zahraničních věcech , ale o šikanování a revanšizmus ze strany ruska v jižní osetii .
+domnívám se , že zde došlo k evidentním chybám a opět zjišťujeme , že zde existují velké mezery .
+proevropská volba moldavského lidu se v současnosti projevuje i na politické úrovni .
+na druhé straně , právní předpis , který je podporován vědeckými argumenty , nebo z nich vychází , přičemž se na něm budou podílet všechny zúčastněné subjekty , a který případně povede k právnímu předpisu přijatelnému pro všechny a současně bude funkční - to povede k větší prosperitě evropy .
+uvádí se v ní , že `` za stejnou práci obdrží muži a ženy stejnou odměnu '' .
+činíme tak samozřejmě ve prospěch občanů v evropě a v kanadě , ale podporujeme tím i bezpečnost a prosperitu ve světě .
+za čtvrté , surovinová politika eu musí zajistit , aby se unie nestala rukojmím , například ruska v případě plynu nebo možná v budoucnu brazílie v případě cukru .
+hlasoval jsem pro zprávu , protože tato dohoda obsahuje podporu spolupráce na úrovni subregionu , a proto respektuje evropský cíl posílení rámce regionálních organizací pro řízení rybolovu jakožto způsobu podpory dozoru nad rybolovem .
+tyto cíle byly nyní posíleny v plánu pro blízkou budoucnost , ve strategii evropa 2020 .
+když vy sám , pane van rompuyi , tvrdíte , že nám euro přineslo stabilitu , možná bych vám měl za váš smysl pro humor zatleskat .
+ředitel společnosti pan flick , jak se zdá , není schopen reagovat na otázky poslanců evropského parlamentu a jednoduše ignoruje stížnosti ze strany široké veřejnosti .
+pokud se bude zdát , že má odpověď na jednu z vašich otázek není dost dobrá nebo je špatná , rád to připustím a napravím , tím si můžete být jisti .
+zpráva o právech cestujících v autobusové a autokarové dopravě obsahuje mnoho dobrých a pozitivních prvků .
+toto je však vzácný případ zprávy směřující správným směrem - ke změně ?
+podařilo se nám vytvořit rovnováhu , která nám zajistí jednodušší postupy , které se mohou použít , aniž by se slevilo z norem pro malé a střední podniky , a zároveň nám přinese co nejlepší možný výsledek .
+schopnost stanovit koncový bod životního cyklu vedlejších produktů je významným krokem vpřed .
+nedávný vstup mnoha nových členů , připomeňme například čínu a blížící se vstup ruska , zvýraznil úspěch tohoto orgánu , který je v současnosti složený ze 152 zemí .
+uvádění biocidních přípravků na trh - nový návrh revize týkající se biocidních přípravků ( rozprava )
+dnes tyto závazky znovu potvrzuji , ale samozřejmě nastavené pouze na dobu , která od té doby uplynula .
+je nejúspěšnějším rozvojovým partnerem z hlediska plnění svých závazků , hlavně pokud jde o přístup na trh , pravidla původu a zmírnění zadlužení .
+náklady spojené s modernizací energetických systémů nemohou nést jen samotní evropští občané .
+jsme ovšem připraveni vést detailnější diskuzi o otázce regulace odvětví ratingových agentur jako takového , jakmile nám komise poskytne svůj návrh komplexního přezkumu tohoto odvětví , který je plánován na příští rok .
+pan předseda barroso musí samozřejmě bránit své komisaře , včetně pana mccreevyho .
+bulharskou vládní koalici tvoří tyto tři strany : bezbožníci , kteří bombardovali kostely , aby udělali dojem na kominternu , tj . bulharskou socialistickou stranu , dále strana vytvořená okolo dědiců borise iii. , který zatáhl bulharsko do druhé světové války a nenechal si ujít příležitost políbit se s hitlerem , to jsou zloději z národního hnutí simeona ii. , a nakonec protiústavní muslimská strana hnutí za práva a svobody , jejímiž členy jsou teroristé , kteří přibližně před dvaceti lety vyhodili do povětří železniční vagony s matkami a jejich dětmi .
+nicméně západnímu balkánu a turecku , které mají jasnou perspektivu členství , evropská unie nesmí ukládat další přechodné fáze před kandidátstvím nebo přistoupením .
+nikdo by samozřejmě neměl být naivní .
+dále jsme s nadšením přijali návrh podrobit tyto potraviny předběžnému etickému posudku , abychom na našem trhu předešli pohybu potravin pocházejících z ohrožených druhů nebo těch potravin , jejichž konzumace by byla pro nás evropany nepřijatelná .
+kéž toto usnesení právě v roce 2008 , který je 75. výročím hladomoru , připomíná naši náklonnost lidu ukrajiny , a zejména žijícím pozůstalým hladomoru jakož i rodinám a příbuzným obětí .
+jak můžeme provádění těchto kontrol s důvěrou svěřit osn a prvním zemím azylu ?
+rada by nyní měla rychle jednat a schválit jejich začlenění .
+všichni vědí o utrpení a kulturní genocidě v tibetu , všichni s ním soucítí , takže je zcela na místě položit si důležitou otázku : kde zůstává eu ?
+dveře se zablokovaly a jezdil jsem výtahem nahoru a dolů a málem jsem nedorazil včas na tuto rozpravu .
+říkáte mi , abych se probudil , ale , ve vší přátelskosti , pane wurtzi , obával bych se vám radit , abyste nepřemýšlel příliš o tom , co se stalo ve dvacátém století , protože seriózní lidé , jako jste vy , by pak zjistili , že podporují systém , které je tak vzdálený ideálům jejich mládí .
+musíme udělat vše , co je v našich silách , abychom kontrolovali nával migrantů .
+určití poslanci využili příležitosti k tomu , aby během svých proslovů napadli španělskou vládu .
+tento nástroj by měl být přijat koncem roku 2008 .
+písemně . - ( nl ) nový telekomunikační zákon , o němž dnes jednáme , má dalekosáhlé důsledky pro nás všechny , uživatele internetu a telekomunikačních služeb .
+v čem spočívají hlavní ohlášená opatření , kromě toho , že se vítaně , ale velmi nedostatečně zvýší půjčky evropské investiční banky malým a středním podnikům ?
+pane předsedající , našeho bývalého nejstaršího poslance otty von habsburga se kdysi zeptali , zda lituje , že je poslancem evropského parlamentu , a nikoli vládcem .
+měli bychom se snažit pomáhat vlastním lidem , a současně tím pomáhat druhým .
+to všechno již bylo vysvětleno .
+vybraní jednotlivci , které jsou z naší strany , z řad liberálů a socialistické strany , jsou všichni velmi schopní a neměli bychom si činit nárok na to , abychom se již nyní , ještě předtím , než se konalo slyšení , zabývali tím , zda můžeme změnit oblasti působnosti komisařek .
+druhý závazek spočívá dle mého názoru na sousedících zemích , především na srbských orgánech .
+rád bych vám řekl , že je moc hezké prohlašovat `` v naší zemi nechceme identifikační doklady a nechceme společnou přistěhovaleckou politiku '' , když vás na druhou stranu těší , že cizinci , jejichž doklady nejsou v pořádku , jsou zadrženi ve francii , abyste se s nimi nemuseli zabývat ve spojeném království .
+ve zprávě se také kritizuje akční plán , především v části , kde se uvádí , že `` akční plán má v sobě zárodky polovičního neúspěchu , protože se zaměřuje jen na doplnění existujících politik společenství , neopírá se o politiku prevence s cílem snížit výskyt onemocnění souvisejících s environmentálními faktory a nesleduje žádný jasný a vyčíslený cíl . ''
+zaprvé se jedná o příliv migrujících pracovníků tuniska , egypta , alžírska a nigeru - a zde byla komise i členské státy velice efektivní .
+zpráva poslance mikolášika si zaslouží podporu .
+tyto příčiny , které jsou zakořeněné v kapitalistických výrobních vztazích , nelze odstranit , dokud tyto vztahy existují .
+zpráva , kterou parlament dnes přijal , se týká významné otázky bezpečnosti výrobků , a tedy ochrany občanů .
+s tímto názorem se plně ztotožňuji .
+( potlesk . )
+pane van rompuyi , má otázka zní : jak dlouho ještě bude evropa považována za zázračného pracovníka sloužícího finančnímu kapitálu ?
+písemná prohlášení ( článek 142 )
+obchodní politika evropské unie věnuje specifické povaze tohoto odvětví a zájmům výrobců v eu pouze okrajovou pozornost .
+( de ) pane předsedající , konkrétně jsem řekl , že by se to muselo uskutečnit ve spolupráci s arabskou ligou a arabskými zeměmi .
+naší povinností coby komise je mít kontrolu a dohlížet , aby členské země plnily své povinnosti .
+rovněž se nám podařilo zajistit , že základní zásady , které jsme vždy dodržovali , budou v lisabonské smlouvě zachovány .
+jak jsme již zmínili , cestovní ruch tvoří více než 5 % hdp evropské unie , podniká v něm téměř 2 miliony malých a středně velkých podniků a přispívá mírou zaměstnanosti , která přesahuje 12 % .
+ano , existuje princip prevence a je třeba , abychom si ho byli vědomi , ale také rozhodnutí musejí být založena na důkazech , a v této záležitosti bych bývala přivítala více důkazů .
+rozvoj transevropské dopravní sítě , vytváření mořských dálnic a rozvoj intermodality dopravních prostředků by vedlo k vytvoření evropského systému námořní dopravy , který bude konkurenceschopný a otevřený inovacím .
+včelaři si sami nedokáží poradit také s ochranou vlastních trhů a zajištěním životaschopnosti svých produktů .
+předložení dokumentů : viz zápis
+rusko se stáhlo z východní evropy , kde až do ne tak dávné doby vládla nesmiřitelná komunistická diktatura .
+domnívám se , že společná evropská přistěhovalecká politika musí být politikou , která podporuje solidaritu s členskými státy , jež se nachází na hranicích eu a čelí velkým přílivům přistěhovalců .
+dalším bodem na pořadu jednání je zpráva paní staunerové jménem výboru pro zaměstnanost a sociální věci o budoucnosti systémů sociálního zabezpečení a penzí : jejich financování a trendu směřujícím k individualizaci .
+ráda bych reagovala na dva či tři z těchto projevů .
+vzhledem k tomu je prvořadým úkolem institucionální posílení africké unie a zvýšení její operativnosti .
+obávám se , že problémem je to , že se toto monitorování zvrhlo na proces výměny dopisů mezi úředníky v bruselu a v hlavních městech členských států bez jakéhokoliv politického vkladu .
+jsem si jist , že dohoda o stabilizaci a přidružení přinese této zemi konkrétní hospodářské a obchodní výhody v oblastech , jako jsou životní prostředí , energetika , doprava a mnohé další .
+ráda bych ještě poděkovala svým kolegům , členům výboru , panu bögemu a dvěma zpravodajům za jejich tvrdou práci na tomto rozpočtu .
+houževnatost a odvaha , kterou její obyvatelé při těchto obtížích projevovali , by měly inspirovat evropu , která se často zdá být až příliš zabraná sama do sebe a ne vždy si dostatečně uvědomuje , co se děje za jejími hranicemi .
+pokud snižujeme znečištění půdy , znečišťuje se tím i znečištění moře .
+jestli však existuje oblast , v níž potřebujeme zvýšenou aktivitu ze strany evropy a přísnější nařízení společenství , potom je to právě oblast nebezpečných materiálů .
+myslím tím chartu spojených národů , evropskou úmluvu o lidských právech a energetickou chartu .
+odmítli jsme všechny návrhy , které by omezily nezávislost politických skupin .
+jsou tyto věci skutečně slučitelné ?
+fakt , že jsou lepší a horší situace v závislosti na geografické poloze a datu vstupu do evropské unie , skutečně ukazují , že žádná společná zemědělská politika neexistuje a že žádná ani v dohledné době nebude .
+hlasovali jsme pro tuto zprávu , ale hlasovali jsme - a zásadně se stavíme - proti doporučení zavést daň z finančních transakcí a proti rozdělování dluhu mezi zeměmi eurozóny .
+zmiňuji to proto , že zejména během nadcházejících měsíců bude muset evropská unie definovat a přizpůsobit svoji budoucí politiku soudržnosti a strategii 2020 , stejně jako podmínky pro jejich úspěšné provádění .
+často slýcháme , že komise ztrácí schopnost chránit legitimní zájmy výrobců , zaměstnanců a spotřebitelů a jistě došlo k nějaké chybě při komunikaci s oběma stranami průmyslu ve vyjednávání , které bylo někdy kritizováno pro nedostatek transparentnosti .
+zadruhé musí být využívání přeshraniční zdravotní založeno na informované volbě pacienta , a nikoliv na nátlaku .
+to je jeden z cílům hodnotící zprávy o spotřebitelských trzích , na které pracujeme , a která bude podle mne komisí schválena velice brzy .
+přeji španělskému předsednictví mnoho úspěchů při dosahování jeho priorit a při hledání řešení problémů , kterým v současné době eropská unie čelí .
+odpovědí naší skupiny je v tuto chvíli toto - zásada stejné odměny za stejnou práci ve stejném zařízení musí být rovnocenná v rámci vnitřního trhu , pokud jde o kritérium svobody .
+v době , kdy se evropa snaží dosáhnout udržitelného hospodářství účinně využívajícího zdroje , nám tyto údaje umožní propojit environmentální a hospodářské faktory , a tudíž vznikne možnost rozhodovat komplexněji a na základě lepších informací .
+komise by měla ve své hodnotící zprávě za dva roky po vstupu této směrnice v platnost mít daleko větší odvahu navrhnout jednotnou a závaznou metodu na výpočet bezpečnostních poplatků napříč eu .
+existují také některé velmi pozitivní věci , které byly vytvořeny .
+stát může své daně zvyšovat jen do určité míry , pak se peníze začnou odlévat do zahraničí a příjmy se sníží .
+v důsledku toho není tento balík ani trochu vyvážený .
+museli jsme si to vyjasnit na úrovni členských států a museli jsme trvat na tom , aby každý členský stát provedl tuto směrnici správným a náležitým způsobem v naprosto každém členském státě .
+stále větší počet lidí přichází o práci v důsledku dalekosáhlých účinků globalizace .
+člen komise . - paní předsedající , evropská komise sdílí hluboké obavy tohoto parlamentu - tak výslovně a jasně vyjádřené váženými poslanci - ohledně lidskoprávní situace v iráku .
+bylo to vítězství občanské společnosti a je to dobrý argument do pokračující diskuse v ostatních členských státech .
+z tohoto důvodu jsem se zdržel hlasování o této zprávě .
+tváří v tvář krizi evropa ukázala , že opravdu existuje , a prokázala svou přidanou hodnotu .
+před osmnácti lety jste jako vůdce opozice ve východním timoru projevil nesmírnou odvahu a velkolepou vizi .
+jsou to návrhy , jejichž cílem je objektivně zlepšit platné nařízení a upravit některá jeho hlediska , která jsou nedostatečná nebo zastaralá .
+tato zpráva prosazuje přiznání mnoha občanských svobod a svobod spojených se zdravím osobám , jež vstoupily do mnoha zemí eu nelegálně .
+proto potřebujeme zemědělskou strategii , strategii spotřeby , úprav půdy , regulace řek a v případě potřeby i přesměrování vody .
+po celou svou politickou a osobní dráhu jsem vždy pevně věřila , že i ty nejtěžší problémy se dají řešit aktivní účastí a dialogem , a doufejme , až nastane ten pravý čas , že se dají také vyřešit .
+zaprvé proto , že cíl , který byl dojednán na jarním summitu v roce 2007 , odpovídá v dnešních hospodářských podmínkách mnohem vyššímu snížení , než je 20 % .
+nemůžeme si dovolit nechat své sousedy , aby se sami vyrovnávali s bezpečnostními problémy , organizovaným zločinem a nelegální migrací .
+prostřednictvím neutrálního , inkluzívního a konsenzuálního procesu přechodu .
+navrhujeme , aby pohledávky vůči členským státům , které se týkají důchodů zaměstnanců a jejichž odhadovaná výše k 31. prosinci 2008 činila 37 miliard eur , byla zaúčtována jako aktivum .
+je zcela evidentní co je oním pojítkem mezi sovětským socialismem a národním socialismem .
+nesmíme snižovat význam těchto zločinů a nesmíme je popírat .
+nejdříve teroristé hamasu odpálili rakety , poté izrael nepřiměřeně oplácel , a opět je těžké rozlišit mezi civilními a vojenskými oběťmi .
+( pl ) pane předsedající , v mnoha věcech souhlasím s kolegou .
+za hlavní problémy označila odlišnost sankcí udělovaných v členských státech a spornou otázku , jak provádět vzájemná uznávání , když žádný jednotlivý systém nemá přesnou obdobu v jiných státech .
+evropská unie půjde na bali se stejnou cílevědomostí , jíž byla vedena posledních 15 let , kdy jsme bez váhání a rozhodně převzali úlohu vůdce mezinárodního společenství v boji s touto velkou světovou výzvou .
+pane předsedo , v některých našich členských státech je možné , aby se lidé jen tak školili v používání střelných zbraní , dokonce zbraní typu magnum , aniž by jakkoli prokazovali svou totožnost nebo byli držiteli zbrojního průkazu .
+návrh zpravodaje , aby nebylo zřízeno nové evropské středisko pro sledování migračních toků , si obzvlášť zaslouží podporu .
+některé překážky dosud zůstávají , zejména ty , které se týkají denuklearizace a vztahů s ruskem .
+a v tomto výčtu bych mohl dále pokračovat .
+ty samé politické síly jsou těmi , kdo zakládají velkou alianci rady , evropské komise a evropského parlamentu : skupina evropské lidové strany ( křesťanských demokratů ) a evropských demokratů , socialistická skupina v evropském parlamentu , skupina aliance liberálů a demokratů pro evropu , skupina zelených/evropské svobodné aliance a ostatní zastánci evropského `` monolitu '' , za účasti poslanců nové demokracie a pasok .
+buďme k turkům čestní .
+je naprosto nepochopitelné , že je v tuto chvíli možné snížit finanční prostředky na školení a vzdělávání .
+obojí musí skončit .
+na dalším plenárním zasedání ve štrasburku si vyslechneme zprávu evropské komise o poskytnuté humanitární pomoci a podmínkách poskytování pomoci v barmě .
+co si ale , paní předsedající , nemusíme rozmýšlet , je vaše možnost vyjádřit odmítavé stanovisko tohoto parlamentu .
+zastavte veškerá jednání s tureckem a s dalšími islámskými zeměmi .
+tento požadavek ve spojení s pravidlem pro snížení kapacity o 60 % a pro omezení této kapacity na 25 % s cílem prosazovat nová plavidla je důvodem , proč je toto opatření zcela neproveditelné , jak před krátkou chvílí prohlásil můj kolega pan casaca .
+to je jeden z prvků , které vyvolávají pochybnosti ohledně vyhlídek na překonání recese .
+- před hlasováním :
+v prvé řadě bych rád připomněl , že rozsudek ve věci t-228/02 ze dne 12. prosince 2006 , známý jako věc ompi ( organisation des modjahedines du peuple d'iran v . rada evropské unie ) , neopravňuje k závěru , že postupy eu při sestavování seznamů teroristů porušují právní předpisy eu .
+navrhovatel stanoviska hospodářského a měnového výboru . - ( de ) mnohokrát děkuji , pane předsedající .
+požadujeme dlouhodobou akci spíše než krátkodobé reakce .
+jsem přesvědčen , že tlak ze strany evropských orgánů pomůže uklidnit represe proti běloruským občanům .
+stanovisko výboru bylo v tomto ohledu zmírněno a jsem potěšen zjištěním , že zejména díky úsilí výboru pro vnitřní trh a ochranu spotřebitelů byla většina těchto přehnaně protekcionistických aspektů zeslabena .
+fond má však svá omezení .
+jménem skupiny verts/ale . - ( fi ) paní předsedající , dámy a pánové , děkuji upřímně panu schnellhardtovi za vynikající práci a spolupráci .
+modrá vlajka již stejně je na všech bankovkách a poznávacích značkách .
+pane olbrychte , partnerství může být vyjádřeno sdílením dobrých postupů a na žádost měst i prostřednictvím směrnic , které se týkají například využívání ústřední infrastruktury , nebo prostřednictvím ujednocených informací : někdy se značky pro silnici pro motorová vozidla ve městech nebo jednotlivých členských státech liší .
+od podzimu loňského roku ztratilo práci více než 5 milionů evropských občanů , takže celkový počet nezaměstnaných v evropě dosáhl 22,5 milionu .
+totéž se ostatně týká pojistného .
+mnozí z vás se ptali na současnou schopnost agentury frontex pomoci lidem , jejichž lodě ztroskotaly .
+( předsedající řečníka přerušil )
+takové velké hydroelektrárny ničí obrovským způsobem přírodu a vyhánějí lidi z domovů .
+pan daul vynikajícím způsobem poukázal na změny , jež je třeba učinit ve vztahu ke zbývajícím cílům , zejména co se týče energeticko-klimatického balíčku .
+a kaliningrad je též samozřejmě velmi specifický případ , díky jeho jedinečné zeměpisné poloze .
+druhá věc je tato : nyní jste ve třetím roce pětiletého období .
+skutečně to je jako rok 1989 a evropská unie potřebuje zvláštní postupy - tato sněmovna , komise , rada , esvč - a vítáme zálohu cathy ashtonové na demokracii , musíme však udělat víc .
+v tomto ohledu vám dám návrh .
+domnívám se , že abychom odpověděli na složitost problémů sahelu , musíme jednat na různých úrovních .
+je to povinnost , kterou nám ukládá náš zájem o budoucnost evropy .
+migrace rodičů do zahraničí za prací je sociálním jevem se složitými důsledky pro dynamiku a funkčnost rodiny , stejně jako pro celou společnost .
+je jednomyslnost určená jen na otázky , které nás rozdělují , spíše než na základní konsensus , na němž je unie vytvořená ?
+jistě nemůžeme dále ignorovat sociální a ekonomický dumping , kterého využívají společnosti v rozvíjejících se zemích , jež vyhrávají zakázky v zemích evropské unie na úkor sociálních práv a právních předpisů upravujících státní subvence , zatímco trhy těchto zemí zůstávají pro evropské společnosti uzavřené .
+rád bych poděkoval kolegům poslancům i vám všem , kdo jste toto prohlášení podepsali .
+takže když si stěžujete , stěžujte si na správném místě .
+to mi nezabrání , ani mému kolegovi a příteli panu rehnovi , který k vám hovořil dnes dopoledne , říci , že jsem byl překvapen - a své překvapení vyjádřil také pan mölzer - včerejším načasováním tohoto posledního hodnocení řecka jednou z agentur .
+písemně . - hlasoval jsem pro přijetí tohoto usnesení o zrušení nařízení rady ( es ) č. 1964/2005 o celních sazbách pro banány .
+vymáhání může být samozřejmě obtížné , ale to není důvod k nečinnosti .
+také budeme muset provizorně uzavřít některé kapitoly , jež mají finanční dopady .
+tentokrát děti v naší společnosti vědí více než rodiče , což není samo o sobě špatné , avšak vytváří to pro rodiče potíže , když se snaží pomoci svým dětem tento problém překonat .
+v tomto ohledu bychom se měli sami sebe ptát , jestli za peníze , které vydáváme na mzdy , vytváříme dostatečnou protihodnotu .
+panu schmidtovi bych řekla , že bychom skutečně neměli míchat věci dohromady a jedním dechem mluvit o zdanění a zdraví .
+v polsku a pobaltských státech stále žijí lidé , kteří ztratili rodiče , prarodiče , ale nikdo si je nepamatuje .
+je to země se vzdělanou a pracovitou pracovní silou , která by si mohla vést mimořádně dobře , kdyby si stanovila svou cenu na trhu a využila výhod relativně levného vývozu ; jsem však demokrat a je samozřejmé , že chorvatští občané budou hlasovat pro vstup do eu - a je-li to jejich uvážená vůle , pak budu jejich přání na půdě této sněmovny respektovat .
+písemně . - kdybychom měli k dispozici vysoce kvalitní údaje o vzájemném vztahu mezi environmentálními a hospodářskými faktory , bylo by možné mnohem lépe sledovat recyklaci odpadu , předcházení jeho vzniku , emise do ovzduší , změnu klimatu a udržitelnou spotřebu a výrobu .
+v minulosti zachránil americký marshallův plán evropské hospodářství .
+druhým problémem je ponižující zacházení s přistěhovalci .
+povinnosti dovozců hraček byly ještě více zpřísněny .
+posiluje myšlenku občanství , což je samotným kořenem evropského projektu .
+obě strany si neuvědomují , že to vše je pro ostatní evropany naprosto nepochopitelné .
+potřebujeme legální migrující pracovníky s právy a povinnostmi , a nikoliv otroky .
+hospodářský blahobyt a sociální soudržnost jsou nezbytnými podmínkami emancipace lidu a bezproblémového chodu země .
+důležité je , že stávající krize by měla vyústit ve vytvoření demokratického režimu a právního státu a že je nezbytně nutné zabránit vytvoření radikálního muslimského státu , který by narušil stabilitu regionu .
+je důležité podpořit technologie čistého uhlí a zesílit naše činnosti v oblasti biopaliv třetí generace a výzkumu jaderné energie .
+postavení veřejného ochránce práv a následně také právní postavení občanů se tím výrazně posílí .
+ve vašem slohovém cvičení - mohu-li to tak nazvat - zmiňujete `` náhlou krizi důvěry '' .
+zároveň 6. ledna 2009 , vzhledem k tomu , že došlo k výraznému poklesu dodávky plynu do některých členských států eu , což vedlo k závažnému výpadku dodávek , předsednictví a komise vydaly mimořádně důrazné prohlášení vyzývající obě strany k okamžitému a bezpodmínečnému obnovení dodávek plynu do eu .
+hlasoval jsem pro zprávu z vlastní iniciativy mé francouzské kolegyně a přítelkyně , paní sudreové , kterou vypracovala jako reakci na oznámení komise o strategii pro nejvzdálenější regiony .
+písemně . - ( sk ) od roku 1990 se emise z leteckých plynů zdvojnásobily a neustále se zvyšují .
+pokud má tedy trh v tomto směru fungovat , označování je nutné .
+paní předsedkyně , hlasoval jsem proti tomuto jednoduše proto , že návrhu se de facto zmocnil výbor pro životní prostředí , veřejné zdraví a bezpečnost potravin a komisaři .
+zpravodaj navrhl vypuštění všech částí textu o zdravých veřejných financích , porušováních paktu o stabilitě a růstu , která musí být ukončena , a o důležitosti jeho přísného prosazování - a 250 poslanců ho v tom skutečně podpořilo .
+v tomto kontextu jsme v rámci debaty ve výboru pro dopravu a cestovní ruch zorganizovali setkání , na kterém nám zástupci odvětví sdělili , ne úplně překvapivě , že vše je možné .
+místopředseda komise . - paní předsedající , rád bych poděkoval parlamentu a především zpravodajům za to , že komisi podpořili , pokud jde o tyto významné dohody .
+všichni jste si svou dovolenou zasloužili .
+nezaměstnanost mladých lidí je jedním z nejnaléhavějších problémů evropy .
+( fr ) omlouvám se , pane předsedo .
+je samozřejmě správné , že rozpočty všech orgánů jsou součástí širšího kontrolního systému a dohledu .
+příliš mnoho stresu , příliš mnoho podezírání , příliš mnoho ambicí a lačnosti , i tyto faktory myslím ničí náš vnitřní mír .
+závěrem bych chtěl říct , že musíme reagovat , protože jako jedinou alternativu k nedostatku medu , který v evropě pomalu nastává , nemůžeme akceptovat jako nevyhnutelné dovážení medu odjinud - jeho kvalita je nižší a nesplňuje naše přísná výrobní kritéria .
+jen komise na tento účel v průběhu 15 let celkem utratila téměř 3 miliardy eur .
+tento ovocný program je tedy vítán .
+proto bychom ji měli přivítat s uspokojením .
+tyto otázky musí být vyřešeny před podpisem dotčené dohody , aby byl zajištěn volný a spravedlivý obchod .
+toho všeho se dočkáte na jaře roku 2011 , crd 4 i legislativních textů .
+pane předsedající , dovolte mi , abych začal podobně jako paní gräßleová projevem uznání panu kallasovi a účetnímu dvoru za spolupráci , díky níž statistiky každým rokem vykazují zlepšující tendenci v oblasti řízení rozpočtu , povinného podávání zpráv , výročních zpráv a hodnocení .
+spotřeba co2 musí být zdaněna a petrolejová daň musí být nakonec zavedena .
+( pt ) pane předsedající , v praxi se ukázalo , že mezi hospodářskou soutěží a ochranou práv pracujících nebyla nalezena rovnováha .
+také nesouhlasím s plány založit sociální model eu na rozdělování dávek , jinak se bude naše příští rozprava zabývat už jen migrací .
+musíme zabezpečit , aby existovaly základní kameny , které dnes položíme , které budou za 15 let stejně pevné jako dnes , aby díky nim hospodářství rostlo , a aby bylo možné zaručit bezpečnost dodávek energie .
+po zpoždění a zvýšení nákladů , které souvisejí se zabezpečením těchto tří elektráren , zpráva vyzývá komisi , aby prováděla intenzivnější dohled , zjistila aktuální stav procesu a předpokládaný časový rámec pro dokončení různých fází procesu vyřazení z provozu podle původního harmonogramu .
+je tomu tak proto , že dosud lidé měli pouze omezené možnosti volby soudu , který by se měl zabývat jejich rozvodem .
+dalším bodem je hlasování .
+na základě toho se členské státy mohou rozhodnout o jeho upřednostnění a sdílení osvědčených postupů .
+proto bych ráda zdůraznila některé rozpočtové aspekty podpory evropské unie pro sportovní odvětví .
+každý víkend se setkávám s podnikateli , kteří nemohou získat úvěr , zejména pak v mé zemi .
+stáváme se nyní politickou unií a skutečným společenstvím zájmů .
+jak poslanci vědí , usilujeme v souvislosti s touto záležitostí o řadu dvoustranných dohod .
+( hu ) vážený pane předsedající , zpráva , kterou jsme právě přijali , nazvaná `` situace v oblasti základních práv v evropské unii '' , je komplexní a v mnoha ohledech průlomová .
+náš problém spočívá v tom , že všechny členské státy eu neuplatňují stejná kritéria , pokud jde o vývoz zboží dvojího užití .
+zvláštní důraz musí být kladen na prevenci nezaměstnanosti mládeže , a za tím účelem je nutné sladit vzdělávací nabídky s poptávkou na trhu práce , dodat střednědobé vnitrostátní a regionální předpovědi týkající se očekávané poptávky na trhu práce a umožnit národním vzdělávacím systémům , aby účinněji zaručily dosažení těch dovedností , které jsou aktivně na trhu práce vyhledávány .
+pane předsedající , pan rübig už mě dvakrát obvinil z toho , že jsem do sněmovny vnesla střelnou zbraň .
+jelikož parlament opět promarnil příležitost ukázat svým občanům svůj jasný závazek k úsporám , k odpovědnému nakládání s penězi daňových poplatníků a ke vzdání se svých privilegií , hlasoval jsem proti této zprávě .
+proto vyzývám radu , aby dostatečné refinancování sklizně a zásob potravin učinila svou prioritou číslo jedna .
+písemně . - ( fr ) vítám přijetí společného usnesení o barcelonském procesu : unii pro středomoří .
+pokud jde o hospodářství , tunisko v letech 2002 až 2008 dosáhlo 4,6 % průměrné úrovně růstu .
+rozdíly se samozřejmě týkají složení energetického mixu .
+toto je dohoda ve stylu komise , která se hodí spíše do centrálně plánovaného hospodářství .
+chybná rozhodnutí vlád v oblasti hospodářské a finanční politiky a nepřiměřený finanční dohled vlád a zjevné zhroucení řady bank jsou důvodem , proč požadovat reformovaný finanční systém , nikoli nový hospodářský systém .
+před 27 lety dělníci z gdaňských loděnic zahájili boj proti komunistickému systému , boj za chleba a svobodu .
+( fr ) paní předsedající , to , co paní liotardová řekla , je naprosto neuvěřitelné .
+ne všude vládne naprostý pesimismus .
+výrobci pneumatik budou mít z tohoto opatření také prospěch .
+cena za barel se od roku 2007 zvýšila o 63 % . je sice pravda , že se nyní snížila , ale domnívám se , že neklesla dostatečně na to , aby mohla být udržitelná .
+hovořila jste rovněž o trojici : peníze , mobilita a přístup na trh .
+jménem pse . - ( es ) paní komisařko , již jsme zde zaznamenali , že evropské školy byly jako oficiální střediska vzdělanosti společně zřízeny vládami členských států , aby poskytovaly vícejazyčné a multikulturní vzdělávání zejména dětěm zaměstnanců orgánů eu , a že z mnoha důvodů je třeba je nyní reformovat , především s ohledem na nové potřeby .
+projekt elevate nabízí obětem bezpečný přístav a podporuje jejich snahy o znovunabytí sebevědomí a schopnosti fungovat ve společnosti .
+67 odst . 2 odrážce 2 smlouvy o es , jak navrhnul pan coelho .
+je poměrně náročný , jak vidíte .
+to je zjevně základní úvaha .
+pokud jde o vnitrostátní priority v rámci transevropské dopravní sítě ( ten-t ) , považuji za důležité investovat nejen do železnice , ale především do námořních dálnic a možností interoperability a spolupráce jednotlivých druhů dopravy .
+ukažte , přesně , jak řekl pan schulz , že chápeme to , že energetická politika je také sociální politikou , průmyslovou politikou a politikou pro budoucnost .
+nová vláda ve spojeném království už naznačila , že v letošním roce bude zapotřebí přijmout velký balíček úsporných finančních opatření .
+jedná se o oblasti zájmu , ve kterých musíme v budoucnu provést změny , abychom zamezili špatnému řízení , nesrovnalostem , podvodům , střetům zájmů a v konečném důsledku špatným výdajům .
+členské státy , které k tomu chtějí využívat zákonnou minimální mzdu , tak mohou činit .
+musíme biopaliva pěstovat trvale udržitelným způsobem .
+výzva k výstavbě nových jaderných elektráren v evropě je nepřijatelná .
+dovolte mi uvést několik připomínek k této zprávě .
+podporujeme komisi v tom , aby využívala tento soubor iniciativ , které mají za cíl zvyšovat efektivitu , podporovat vědecký a technický pokrok , přinášet výhody konečným spotřebitelům a zkrátka zlepšit celkovou konkurenceschopnost a udržitelný rozvoj našich podniků .
+byl to dlouhý a bolestný proces a každý , kdo v něm hrál nějakou roli , se nyní může ohlédnout zpět s čistým svědomím .
+je čas , aby mubarak odešel ; jeho doba je pryč .
+členka komise . - pane předsedající , vztahy eu-usa pod novou vládou prezidenta obamy měly kladný a svižný začátek .
+je to v zájmu eu a stejně tak je to v zájmu turecka .
+zboží dvojitého využití , které je použitelné k vojenským i civilním účelům , jakož i opětovný vývoz se také musí stát předmětem úpravy kodexu chování .
+je také v současnosti jediným orgánem s účastí běloloruské opozice .
+písemně . - hlasoval jsem pro toto kolegium komisařů , čímž jsem chtěl vyjádřit především svou důvěru předsedovi komise .
+statisíce lidí přišly o život a do dnešního dne trpí mnozí na následky radiace v podobě onemocnění či úmrtí na rakovinu .
+například v případě odstranění mléčných kvót a zrušení systému půd vyňatých z produkce se jednalo o neúspěšná rozhodnutí , pokud jde o znevýhodněné regiony .
+rovněž vyzýváme k většímu úsilí ke snížení četnosti vracení nezpůsobilých výdajů a chtěli bychom upozornit komisi na nutnost zrychlení rozhodovacích procesů , které se týkají finančních úprav .
+děkuji za vaši pozornost .
+zpráva tuto potřebu uznává a navrhuje některá důležitá opatření , která považujeme za pozitivní , nicméně otvírá dveře řešením , která nás znepokojují a jež nemůžeme akceptovat , jako je zrušení nulové tolerance vůči geneticky modifikovaným organismům v dovážených krmivech , což vystavuje riziku striktní uplatňování zásady předběžné opatrnosti .
+byli jsme informováni , že se kolumbijská vláda , nebo v každém případě tento subjekt , snaží uměle vytvořit spojitost mezi ní a guerillovými skupinami , konkrétně organizací farc .
+stejně tak je však nepřijatelné , abychom vystavili izrael útokům a teroristické činnosti namířené proti občanům státu izrael a přitom jej nebyli schopni aktivně bránit .
+rozprava je ukončena .
+bělorusko ( rozprava )
+klíčovou otázkou je podpora malých a středních podniků .
+evropská unie a evropa jako celek se otevírá přistěhovalcům z různých zemí celého světa .
+hledisko rovnosti žen a mužů se na mezinárodní úrovni nepochybně stalo důležitější .
+v rámci evropské unie musíme dosáhnout porozumění pro tato opatření a já se domnívám , že se nám v této souvislosti podařilo dosáhnout té správné rovnováhy .
+požádali mne , abych vám tuto informaci tlumočil , což jsem nyní učinil .
+komise v současnosti pracuje na přípravě oznámení o strategii pro trvale udržitelnou akvakulturu v eu , která by měla být dokončena do konce roku 2008 .
+domnívám se , že jde o nepřijatelný argument , který protiřečí sám sobě , protože to , že nedosáhneme 20 % zvýšení energetické účinnosti , je právě důvodem , proč nestanovíme závazné cíle , abychom toho dosáhli .
+strategie eu pro zajištění přístupu evropských společností na trh ( rozprava )
+písemně . - podporuji kroky vedoucí k přezkoumání současných omezení týkajících se množství tekutin , které si cestující mohou vzít v eu na palubu letadla .
+ukončení zasedání
+ale její úspěch vyžaduje solidaritu mezi občany evropy .
+ministr zahraničí jednoho velkého členského státu eu řekl , že pokud se slovinsko stane nezávislým , ostatní země je budou izolovat po dobu 50 let .
+tyto dva příklady nám demonstrují způsob spolupráce mezi evropskou unií a spojenými státy , pokud jde o boj proti terorismu .
+nemám nic proti této zásadě , proto jsem hlasoval pro návrh .
+tato nesprávná úřední praxe ohrožuje práva občanů eu .
+protože učebnice našich dětí , naše noviny a média , knihovny a všechny dokumenty a materiály , všechny jsou jako z orwellova románu 1984 .
+jsem přesvědčen , že je to velký krok kupředu , pokud jde o zájmy evropské unie .
+písemně . - hlasovala jsem ve prospěch tohoto usnesení o zelené knize komise o možnostech politiky pro pokrok směrem k evropskému smluvnímu právu pro spotřebitele a podniky .
+zaručoval to původní text komise , avšak skupina ppe , s podporou zpravodaje , tento návrh zamítla .
+loajalita je nutná , a proto požadujeme , aby nebylo možné podávat žaloby mezi státy týkající se údajného nedodržování právních předpisů , pokud akt spadá pod evropské právní předpisy .
+zprávě se ve zvláštním výboru pro politické výzvy a rozpočtové zdroje pro udržitelnou evropskou unii po roce 2013 dostalo silné podpory .
+dále je podle mne nesmírně důležité nabídnout přístup k digitálnímu obsahu europeany lidem s postižením .
+věřím v úlohu , kterou budou usa nadále v tomto ohledu sehrávat pod vedením zvoleného prezidenta obamy .
+takto je nutno vykládat tyto obecné směry , jejichž cílem je pod klamným zdáním flexikurity zvýšit flexibilitu pracovních trhů , organizace práce a pracovních vztahů , včetně toho , co hlásají ohledně revize pracovního práva , bude-li nutná , různých smluvních podmínek a ustanovení o pracovní době .
+nicméně lituji , že nebyl přijat návrh na zvýšení sazeb spolufinancování na 60 % způsobilých výdajů v oblasti shromažďování , správy a využívání dodatečných údajů .
+služba koneckonců bude zastupovat evropskou unii po všech jejích stránkách , proto ten důraz na odpovědnost , transparentnost a soudržnost .
+musíme dát prioritu nesčetným iniciativám obsaženým v této zprávě , spolu s těmi , které již rozvinuly jiné orgány a které zpráva otevřeně podporuje v souladu s opatřeními obsaženými v nouzovém plánu komise .
+jménem skupiny gue/ngl . - ( de ) pane předsedo , dámy a pánové , toto je skutečně významná chvíle , protože si dnes poprvé v evropském parlamentu připomínáme romské a sintské oběti holocaustu .
+je to jediný způsob , jak poskytneme této populaci šanci na přežití .
+prohráli jsme o 8 hlasů , protože 20 evropských zemí , které jsou dnes členy evropské unie , se spolu domluvilo a zdrželo se hlasování .
+s tím vám všem přeji šťastné a veselé vánoce !
+tomuto cíli nepomáhá soustředění komise na myšlenku jistoty zaměstnanosti v protikladu k zajištění pracovních míst , což se opakuje jak v zelené knize o pracovním právu , tak ve sdělení o flexikuritě .
+pokud hovoříme o evropském sociálním fondu , zkušenosti ukazují , že financování hospodářských opatření evropského fondu pro regionální rozvoj může být účinnější , jestliže bude lépe koordinováno a začlení se mezi činnosti , které tento fond vykonává .
+druhý se týká vnitřního trhu .
+z toho důvodu je toto ten nejlepší kompromis , ale není to socialistická zpráva .
+bez přiměřenosti v celosvětovém měřítku pouze zvyšujeme konkurenční výhody číny , indie a brazílie .
+je zde také žádost , abychom uzavřeli rozpravu předložením návrhů na usnesení a hlasováním o nich během dílčího zasedání v únoru .
+ukazuje se , že současné právní předpisy evropské unie , týkající se diskriminace , je i nadále náročné zavést do praxe .
+prožíváme velmi náročné období a evropské orgány v něm sehrávají nezastupitelnou úlohu , je to zásadní úloha , ve které nesmí selhat , a musí proto mít k dispozici dostatek prostředků .
+na jedné straně uznáváme vynaložené úsilí v podobě přijetí zákona o nadacích , reformy trestného zákoníku v souvislosti se svobodou projevu a ohlášených změn ústavy .
+úkolem občanské společnosti není jen účastnit se voleb .
+jistě vás nové objevy plynu v turkmenistánu vyburcují k akci .
+chtěl bych v každém případě požádat ty kolegy poslance , kteří se v této věci mohou ke mně přidat , aby vyzvali všechny občany , aby si sjednali pojištění odpovědnosti za škodu způsobenou třetí osobě .
+tato smlouva nepřináší žádný specifický právní základ , ale dává strategii , o níž zde nyní jednáme a která byla dodnes založena pouze na společné domluvě politiků , hodnotu evropské politiky .
+pane komisaři , není správné , aby komise členským státům bránila v provádění politik sociální rozmanitosti .
+nesmíme v tomto ohledu zapomenout na jaderné zkoušky prováděné pod vodou .
+vzhledem k současným konzultacím v radě očekáváme , že uslyšíme , jak bude komise pracovat , aby chránila národní autonomii a přitom vytvořila efektivní základ pro spolupráci , aby bylo možné bojovat proti návykům a podvodům .
+byl zmírněn , ale ne zrušen .
+mohla byste nám tuto informaci poskytnout ?
+jak si jen pákistán může říkat demokracie , když je náboženská svoboda , kterou zaručuje ústava , naprosto přehlížena a uplatňují se zákony o rouhání , proti nimž se tak důrazně stavěl již uvedený salmán tasír ?
+velmi důležité místo při snižování chudoby , kterou lidé trpí , patří politikám sociální péče a zaměstnanosti .
+já bych zde musela zvednout ruce obě .
+pozitivní signály k rozšíření a prohloubení spolupráce jsem zachytil také při mé návštěvě států střední asie vloni v říjnu , kdy jsem pobýval v kazachstánu , uzbekistánu a turkmenistánu .
+obracím se tedy teď na komisi , zda by sdělila , zda tuto zásadní chybu napraví , či to budeme muset řešit my jako poslanci ve výborech .
+jeho oficiálním úkolem bylo bránit společné území členských států proti zahraničním invazím , aniž by podnikalo akce mimo toto území .
+s ohledem na to rada vyjadřuje připravenost spolupracovat s parlamentem v duchu dobré spolupráce s cílem vytvořit moderní , komplexní a plně funkční právní rámec , který bude napomáhat uspokojování potřeb rozvojových zemí .
+prohlášení předsednictví
+jsem proto přesvědčen , že potřebujeme technologickou revoluci , a tento summit by nás měl nasměrovat na správnou cestu .
+( fr ) pane předsedající , paní ashtonová , smrt a zmizení těla seyeda ali mousaviho , synovce vůdce íránské opozice , je jedním z mnoha tragických příkladů , které ukazují současný neklid islámské republiky íránu .
+v této souvislosti bych chtěl zároveň zdůraznit úlohu příslušných kontrolních orgánů , např. celních , které nesou značnou odpovědnost při přímé kontrole vývozu nebo tranzitu zboží dvojího užití .
+absolutorium za rok 2009 ( pokračování rozpravy )
+lodě , které nevyhovují standardům , nesmí inspekci uniknout bez ohledu na trasu své plavby a místo vplutí do evropských vod .
+vaše zpráva vyzývá komisi , aby brala více v úvahu dopad liberalizace obchodu a dále aby se v boji proti daňovým únikům a škodlivé daňové konkurenci neomezovala pouze na zásady oecd .
+vítáme plán na předběžné platby , protože usnadní přijímajícím zemím využívání prostředků .
+písemně . - nemohl jsem podpořit tento pozměňovací návrh , protože jsem zcela proti vytvoření a financování eeas a jiných podobných programů odkázaných na ratifikaci lisabonské smlouvy .
+pořad jednání mezivládní konference byl diktován nepřáteli evropské ústavy , zatímco její přátelé , jako jste vy , se po onom slavném zasedání osmnáctky projevili mnohem uvážlivěji .
+tím , že parlament vedl tuto rozpravu a dnes i hlasoval , naplnil fakticky svůj závazek vůči těmto dvěma důležitým záležitostem .
+pravidlo o ochraně informací bylo přeneseno do vnitrostátní legislativy , ale až čas nám umožní posoudit efektivitu těchto ustanovení , která tvoří základ kultury podávání hlášení díky zajištění nezbytné důvěry osob , které hlášení podávají .
+( nl ) paní předsedající , žádná strategie , která je primárně vojenské povahy , nemá šanci v afghánistánu uspět .
+jsme jedinou finanční institucí , která má zákonnou povinnost , zakotvenou ve smlouvě , finančně podporovat politické cíle evropské unie .
+místopředsedkyně komise . - pane předsedající , jistě mi nebudete mít za zlé , že po této rozpravě , jež nebyla úplně přehledná , oznámím výsledek rozpravy doma v bruselu .
+obvykle trvá využití prostředků z fondu v průměru zhruba 18 měsíců .
+hlasovala jsem proti .
+jako evropský parlament bychom se tedy měli zasazovat za vyslání jednotek a humanitární pomoci , ale měli bychom také rychle přispívat k udržitelné politické mírové strategii v regionu .
+usmíření je téměř nepředstavitelné , pokud nebude zaveden nový spravedlivý řád .
+tato oblast skýtá obrovský prostor pro spolupráci .
+( sv ) paní předsedající , v mnoha ohledech je pozitivním znamením , že práce na nových pravidlech kapitálové přiměřenosti postupují kupředu .
+plně podporuji zprávy pánů karase a pitelly z hlediska jejich snah zajistit , aby činnost bankovního sektoru byla efektivnější a přístupnější jednotlivým zákazníkům a malým podnikům .
+politika soudržnosti evropské unie je součástí evropského rámce solidarity zahrnujícího 27 členských států a jejich 271 regionů a jejím cílem je ukončit stávající ekonomické a sociální rozdíly v rámci eu .
+v bodě 15 bychom chtěli vložit slovo `` ponižující '' , aby text zněl `` odsuzuje ponižující prohledávání kanceláří lidskoprávních organizací '' .
+proto přísluší unii , aby jednala v souladu se svými hodnotami a zájmy a učinila , co je v jejích silách , aby tuto odpornou kapitolu naší minulosti uzavřela .
+správa projektu však není v pořádku .
+jsme pevně přesvědčeni , že pokud budou vnitrostátní prohlášení o správě podávána pro všechny společně spravované fondy evropské unie , bude dosaženo pokroku .
+nesmýšlejte o mně špatně , ale pro mne jakožto protestanta je svoboda vyznání mimořádně důležitá .
+písemně . - ( ro ) zrušení všech osmi směrnic s největší pravděpodobností způsobí další administrativní zátěž , jelikož členské státy budou moci zavádět vnitrostátní předpisy o měřicích přístrojích , na které se vztahují směrnice , jež by měly být zrušeny .
+v neposlední řadě je rovněž třeba bojovat proti domácímu násilí v rodinách migrantů a omezit podíl cizinců ve školách , abychom přetnuli trend vzrůstajícího násilí .
+v této otázce je však řada produktů v současnosti vyňata z oblasti působnosti a náš názor je , že by měly být co nejdříve zahrnuty ; týká se to například některých druhů systémů důchodového zabezpečení , které fungují na principu kapitalizace , a obecně si myslíme , že návrh , aby byly zahrnuty produkty , které garantují 95 % vkladů , nenabízí dostatečné záruky .
+z tohoto důvodu je úplné provádění politiky pro malé a střední podniky a zejména pak iniciativy `` small business act '' úkolem s vysokou prioritou pro maďarské předsednictví .
+letecké společnosti nestydatě využily současné situace : krize a špatných povětrnostních podmínek .
+v radě však stále váznou naše právní předpisy týkající se například fondu solidarity či ochrany půdy , o nichž si myslíme , že by mohly být mimořádně užitečné .
+k tomu , abychom dospěli k závěru , že je k této oblasti ve srovnání například s afrikou přistupováno jako k daleké provincii našeho kontinentu , nepotřebujeme vypracovávat analýzy a nořit se do dokumentů .
+je důležité jednat globálně .
+přerušení zasedání
+budeme v tom přirozeně pokračovat .
+podle odhadů by mohlo být do roku 2020 vytvořeno 3,7 milionu pracovních míst a roční hrubý domácí produkt může do roku 2025 vzrůst o 800 miliard eur .
+co se týče pozměňovacího návrhu na schválení přípravků na ochranu rostlin , který byl poté stažen , souhlasím s jeho obsahem .
+s ohledem na nedávný vývoj musíme také uznat , že potřebujeme komplexní řešení všech aspektů migrace a musíme upevnit důvěru v systém .
+musíme také zohlednit spotřebitelské chování , otázku odpadu a komplexní vztah mezi životním prostředím , biologickou rozmanitostí a zdravím .
+zároveň je nanejvýš důležité zaměřit se na priority a oceňuji , že se zpráva s komisí v hlavních prioritách shoduje , a ty se týkají , jak jsem již řekl , mladistvých , ale také těhotných žen .
+zejména vzhledem k současné finanční a hospodářské krizi chceme , aby pro eib platily stejné regulační předpisy jako pro všechny ostatní komerční banky , protože eib nemůže být bez skutečného dohledu důvěryhodným hráčem na úvěrovém trhu .
+člen komise . - položil jste celou řadu otázek , které vyžadují vysloveně komplexní odpovědi , ale jenom na první otázku bych zjednodušeně odpověděl takto : dnes dopoledne jsme se zabývali nařízením 883 , které bude podstatnou novelou nařízení 1408 a nepochybně zlepší situaci pro řadu lidí právě z hlediska přeshraničního kontaktu .
+odhaduje se , že za posledních několik dní bylo zavražděno asi sto lidí a okolo dvě stě bylo zraněno .
+musím vyjádřit výslovné poděkování generálnímu tajemníkovi evropského parlamentu , panu wellemu .
+dále tomu odporuje paní vlastová , která rozšiřuje přístavní inspekci i na kotviště .
+uplynulo jen něco málo přes rok od tragédie na haiti , která připravila více než 200 000 lidí o jejich životy a postihla více než 3 miliony haiťanů .
+členka komise . - pane předsedající , údaje shromážděné pro účely programu tftp jsou v boji proti terorismu důležité .
+odpověď na otázku , zda má evropská unie ve světě své slovo , jsme mohli vidět v kodani .
+zpráva je velmi kritická .
+jak jste správně poznamenal a jak zdůrazňuje i organizace osn pro výživu a zemědělství , globální odvětví akvakultury získává čím dál větší důležitost a sehrává klíčovou úlohu při přemosťování propasti mezi rostoucí poptávkou po plodech moře a nabídkou rybích produktů , obzvlášť v kontextu zmenšujících se zásob volně žijících ryb .
+španělské předsednictví má tedy v tomto ohledu mimořádný význam a jsem vděčný za představení vize , která je do značné míry shodná s vizí evropského parlamentu .
+přijetí této zprávy z vlastního podnětu sestavené panem harbourem pomůže podpoře inovací v oblasti výzkumu a vývoje v evropské unii .
+třetím bodem , který chci zmínit , je , že vzhledem k rozsahu zkázy na haiti se opravdu musíme podívat nejen na způsobenou škodu , ale také na to , proč byla tak rozsáhlá .
+nebudeme-li nakupovat jejich energetické produkty , bude se ruské hospodářství v budoucnosti potýkat s vážnými problémy stability .
+to s sebou nese další administrativní práci , z čehož vyplývá , že poslanci potřebují kvalifikované pracovníky jako poradce .
+přesto mi dovolte říci , že mi bylo ctí se zpravodajkou spolupracovat .
+z úhlu pohledu státu , kde zemědělství poměrně významnou měrou přispívá k zaměstnanosti , což je případ polska , by bylo opodstatněné zvednout kvóty pro mléko a poskytnout vnitrostátní pomoc odvětvím , které jsou nejvíce znevýhodněné .
+( potlesk )
+písemně . - ( lt ) moderní reklama daleko předběhla právní rámec v této oblasti .
+tato zeměpisná skutečnost nepřináší jen výhody , a to zejména francii , portugalsku a španělsku , vezmeme-li v úvahu nezanedbatelnou roli atlantského oceánu , pokud jde o proudy uprchlíků , u nichž v důsledku probíhajících krizí v zemích severní afriky hrozí , že ještě zesílí .
+tato metoda je dokonalá .
+nejde jen o to , že financování zdravotní péče je přinejmenším problematické - lékaři a sestry musí také trávit stále více času papírováním , místo aby skutečně poskytovali zdravotní péči .
+je na čase přestat říkat : `` tento problém ještě několik let počká '' .
+pane barroso , myslím , že pro vás bude mít velký smysl , když si položíte otázku , jaká hospodářská a sociální řešení mohou existovat na problémy , jež nyní máme , a na krizi , již zažíváme , aniž byste využíval služeb komise , ale jako předseda skupiny evropské lidové strany ( křesťanských demokratů ) a evropských demokratů . myslím , že to má velký význam , abychom se neocitli v situaci , kdy chce evropská rada s parlamentem pouze konzultovat ( vzpomeňme si na buttiglioniho případ ) .
+zabezpečení těchto kroků je nezbytné s ohledem na znepokojení výboru , že komise by mohla vyjmout některé komitologické postupy , které jsou podle našeho názoru méně podstatné .
+( for the results and other details on the vote , see minutes . )
+podporuji stanoviska evropského parlamentu a jeho požadavek , aby členské státy skutečně kontrolovaly využívání prostředků z rozpočtu evropské unie a aby také poskytovaly úplné a spolehlivé informace v této oblasti .
+jak stále narůstá konkurence nově se objevujících trhů , je nanejvýš důležité udržet se ve špičce a domnívám se , že zpráva tento názor přesně vyjadřuje .
+proto vás naléhavě vyzývám , abyste respektoval rozhodnutí obyvatel irska , které vzešlo z jejich nedávného referenda .
+zaměření na strategii evropa 2020 , kterou podporuji , vede k opomíjení například politiky soudržnosti .
+tyto oblasti považujeme za klíčové , a proto jsme se hlasování zdrželi .
+která z našich západních vlád by byla svolná s tím , aby jen přihlížela , jak na její občany dopadají tisíce střel , a nijak nereagovala ?
+hlavním cílem tohoto procesu jsou reforma systému vysokoškolského vzdělávání a odstranění bariér mobility studentů a učitelů .
+jen málo legální ekonomické migrace je skutečně dobrovolné .
+navzdory ujišťování z nejvyšších míst jsou pachatelé jen vzácně postaveni před soud a odsouzeni .
+bylo by naprosto chybné a nesprávné charakterizovat tento proces jako dvoustrannou záležitost dvou členských států evropské unie .
+pouze vás informuji o zákoně , který platí zde ve sněmovně .
+kromě toho učinila maastrichtská smlouva kvalitativní skok v evropském občanství tím , že poskytla všem občanům možnost předkládat petice parlamentnímu orgánu , který je jediným rozhodčím , nebo se obrátit na specializovaný orgán , který jelikož pracuje na mimosoudním základě , uplatňuje postup nevylučující intervenci parlamentu v případě , že evropská instituce zodpovědná za nesprávný úřední postup nechce spolupracovat .
+během svého pobytu na haiti jsem získala dojem , že si vedeme docela dobře - jak z hlediska civilní ochrany týmů z jednotlivých zemí , tak i v naší vlastní práci .
+otázka se týká opatření , která můžeme přijmout v případě , že nedostaneme uspokojivou odezvu . jednou z možností je , samozřejmě , zopakovat žádost .
+usnesení nám připomíná , že aby byla evropská unie důvěryhodná , musí nejen ctít své závazky poskytnout v období 2010-2012 30 miliard amerických dolarů na pomoc nejchudším zemím , ale také projevit představivost při záchraně planety .
+mám tím na mysli , že s tímto navrhovaným řešením přicházíme v dostatečném předstihu a vytváříme tak podmínky pro modernost .
+písemně . - ( ro ) vrcholný moment konference na bali bylo přijetí plánu pro bezpečnou budoucnost klimatu , což je nový vyjednávací proces , který má být dokončen v roce 2009 a má vést k pokračování vyjednávání ohledně globálního oteplování pro období po roce 2012 , kdy skončí první fáze kjótského protokolu .
+je zřejmé , že evropská unie dosáhne svých ambiciózních cílů stanovených v klimatické politice , jen pokud se jí podaří zajistit široké využívání technologií zachycování a skladování uhlíku v elektrárnách .
+jako stínový zpravodaj za skupinu evropské lidové strany ( křesťanských demokratů ) a evropských demokratů bych chtěl uvést , že jsem potěšen tím , že všechny politické skupiny v parlamentu jednomyslně přijaly požadavky stanoví povinnou účast členských států na novém systému , který zaručuje význam této iniciativy z evropské perspektivy .
+abychom mohli začít připravovat nový rozpočet v roce 2010 , potřebujeme řadu přechodných ustanovení .
+jde o osobní údaje týkající se rodiny , sexuálního života , stavu bydlení a náboženského vyznání .
+co se týče mne , hospodářské zájmy jsou v porovnání s těmito dvěma klíčovými body podružné .
+zpráva byla jednomyslně přijata ve výboru pro práva žen .
+zpoždění nyní nemá jenom sis , ale také vízový informační systém ( vis ) , protože oba projekty realizuje stejná společnost .
+návrh usnesení je krokem tímto směrem , vyzývá komisi a radu společně s evropským parlamentem , aby do politik navržených pro obnovu pracovních míst a růstu zapojily národní parlamenty , sociální partnery a regionální a místní orgány .
+hrůzy a zločiny , které tyto režimy po sobě zanechaly , nesmí být nikdy zapomenuty , proto vítám diskusi nad minulostí .
+předseda španělské vlády byl tak laskav , že přijel a přednesl nám zde priority španělska pro šestiměsíční období španělského předsednictví .
+pokud se podíváme např. pouze na otázku veřejných financí , komise a její útvary před dvěma či třemi roky uváděly , že španělsko nejvíce ze všech zemí dodržuje pakt o stabilitě a růstu a že španělské veřejné finance jsou v pořádku .
+proto je velice důležité , aby rada a komise provedla důkladnou analýzu tohoto problému .
+musím říci , že pomalost institucí eu při řešení otázky středomoří může být vysvětlena jen nedostatečnou informovaností o situaci a neschopností vycítit , že jsou změny v pohybu .
+okolnostmi jsem ale nucen vyjádřit se k mimořádně závažné události . je jí vyhlášení nezávislosti kosova ze strany albánských separatistů .
+avšak čínská vláda se této pomocné ruky naprosto neracionálně nechce chopit , naopak ji násilně sráží .
+kubánský lid nemá svobodu projevu a sdružování .
+my i zbytek světa jsme podepsali úmluvu o právech dítěte spojených národů .
+já bych především chtěl vědět , kdo je může spustit a kdy .
+musíme být lépe informováni o uvádění původu výrobků , které kupujeme .
+navíc není nikde zmínka o iniciativě bolivijského prezidenta evo moralese aymy - světové konferenci národů o změně klimatu .
+to je jediný způsob , jak budeme moci nadále prosazovat respekt k základním hodnotám stanoveným v evropské úmluvě o lidských právech a doplněných listinou základních práv , včetně upevnění našich vlastních mechanismů určených k tomuto účelu .
+paní ayala senderová , ráda bych vám na úvod poblahopřála k tomu , že z jednoho z nejtragičtějších sociálních problémů činíte naši společnou politickou prioritu .
+správným přístupem je určitě ten , který ve svých závěrech zdůraznila rada , tedy opětovně potvrdit další rozvoj bilaterálních vztahů s izraelem .
+navíc tato otázka nemá s evropskou unií vůbec co dělat .
+chtěl bych z tohoto místa vyzvat i k tomu , aby se pacient , který může být středobodem našeho léčení a měl by být středobodem naší péče , dostával lépe k novým vědeckým poznatkům , k novým informacím .
+jen to nám pomůže účinně vzdorovat všem budoucím krizím .
+v konkrétním případě dospěli k dohodě a vyřešili si to sami , jenže vy jste nezastavil antidumpingové opatření vůči této konkrétní společnosti .
+to znamená , že chce , aby byla schopna zablokovat každé rozhodnutí , které by navýšilo výdaje byť jen o jedno euro , než je plánováno , ať se děje cokoli .
+a konečně , pane předsedající , protože vidím , že čas se nachyluje , bych chtěl říci , že plně souhlasím s tvrzením , že v jistém slova smyslu nízká kvalifikace s sebou nese vyšší náklady než krize .
+v těchto hospodářsky složitých časech je velmi důležité , aby si mohli pracující vydělávat i prací přesčas , pokud o to mají zájem , a aby se mohli zaměstnavatelé chovat pružně .
+písemně . - hlasovala jsem pro přijetí tohoto významného usnesení , protože je nejvyšší čas , abychom věnovali pozornost biologickým , radiologickým a jaderným rizikům , která představují nový rozměr možných teroristických útoků , průmyslových nehod , přírodních katastrof , případně pandemií vzhledem k jejich nadnárodní povaze a velkému počtu obětí .
+chtěl bych vám závěrem připomenout , jak je důležité dodržování zásady reciprocity a proporcionality .
+pokud jde o chráněné výrazy `` horský '' , `` ostrovní '' a tak dále , zabýváme se možností takové systémy zavést .
+moje díky patří německé kancléřce , paní angele merkelové , za to , že se k zimbabwe jasně vyjádřila jménem nás všech .
+výborně , myslím si , že rádi uposlechneme ; ale pak , na oplátku , by tento parlament myslím chtěl být úžeji zapojen do záležitostí , jako je například rámec k transatlantické ochraně údajů , protože poslední rok a půl to vyřizovali státní úředníci za zavřenými dveřmi , jako by to byla pouze technická záležitost , a ne záležitost , která se týká našich občanských svobod a našich základních práv .
+jaká je podle mě odpověď ?
+vzhledem k tomu by doba vyhrazená pro otázky měla být dále na programu až do té doby , než bude přijato rozhodnutí , spíše než abychom se preventivně podřizovali rozhodnutí , které dosud nebylo přijato .
+ze své strany považuji za skutečně znepokojivé , že ačkoliv evropský parlament svým vlastním usnesením schválil kodex řádné správní praxe veřejného ochránce práv v roce 2001 , ostatní orgány unie se požadavky parlamentu v plném rozsahu neřídily .
+proto musíme pokračovat i v této oblasti velmi opatrně , protože v současnosti není možné zaručit uplatňování určitých společných základních norem v trestním procesním právu .
+druhý ohledem , který byl určující pro mou zprávu , je to , že jak je patrné ze zprávy o provádění haagského programu pro rok 2007 , byla úroveň provádění , pokud jde o právní spolupráci na poli trestního práva , spíše nižší , přestože v jiných odvětvích , jako jsou občanská spolupráce , správa hranic a imigrační a azylové politiky , byly zaznamenány uspokojivé výsledky .
+co se týká zemědělství , jak jsem řekla , je zásadně důležité , abychom se postarali o to , že budeme schopni rozvíjet naše průmyslová odvětví .
+symboly unie svého času padly společně s odmítnutím návrhu tzv. evropské ústavy .
+bylo by paradoxem , kdyby se evropský parlament vehementně a účinně zapojoval do boje proti projevům diskriminace ve světě , aniž by byl schopen zabezpečit dodržování lidských práv doma , tj . v členských státech evropské unie .
+ale aby toho neměla tato krutě stíhaná země málo , přidaly se ještě tzv. islámské soudy .
+postupy vnější služby musí být plně sladěny s komisí .
+musíme zdůrazňovat , že lidská práva a základní svobody je třeba dodržovat jako způsob , jak předcházet etnickým nebo kulturním konfliktům .
+v této souvislosti vítá komise vaši podporu naléhavého požadavku , aby členské státy dodržely svůj závazek dosáhnout do roku 2015 cíle 0,7 % oda/hnd .
+možná , že to je důvod , proč je v dozorčích radách tak málo žen ?
+písemně . - považuji tuto zprávu za další pozitivní krok vpřed v ochraně chodců v eu před četnými zraněními a smrtelnými úrazy způsobenými dopravními nehodami motorových vozidel .
+hlasuji proti této zprávě .
+byl to krok správným směrem , když nový prezident litvy vyzval litevský parlament , aby tento zákon přehodnotil , a zajistil tak jeho soulad s ústavními principy právního státu , právní jistotu a právní jasnost a dodržování zásad otevřené společnosti a pluralitní demokracie .
+ve střednědobém až dlouhodobém horizontu by mělo dojít k zintenzivnění obchodních vztahů v souladu s jasnými a transparentními pravidly .
+bohužel , jak jasně vyplývá z této zprávy , v oblasti rovných příležitostí máme před sebou ještě hodně práce .
+zpráva paní kolegyně von thun je velmi zdařilým příkladem toho , jak můžeme dát jakožto evropský parlament najevo , že to s prováděním toho , o čem jsme společně s radou rozhodli , myslíme vážně , a toto provádění je úkolem členským států .
+domnívám se , že v době , kdy jsme svědky významných demokratických změn , by občané měli být spolu se svými prezidenty zahrnuti do rozhodnutí , které evropa v oblasti těchto klíčových otázek podniká .
+člen komise . - ( cs ) vážená paní předsedající , vážené paní poslankyně , vážení páni poslanci , směrnice 1999/70/es o pracovních poměrech na dobu určitou vyžaduje , aby členské státy přijaly opatření , která by zabránila zneužití vyplývajícímu z použití po sobě jdoucích pracovních smluv na dobu určitou .
+v tomto bodě nebyla samozřejmě ve výboru pro životní prostředí , veřejné zdraví a bezpečnost potravin shoda a vyzývám všechny levicové poslance , aby pro tentokrát ideologii odložili stranou a zajistili , že přijmeme dobrou směrnici pro pacienty a zaujmeme pragmatický postoj .
+zesílený dohled nad ratingovými agenturami by se však neměl omezit pouze na úroveň eu .
+co my , řečtí politikové a řečtí občané , od vás žádáme ?
+stojíme při úřadu .
+za tímto účelem by měla evropská unie v souladu s akčním plánem eu pro cíle tisíciletí podporovat globální partnerství pro zemědělství a potraviny .
+to je nové , domnívám se .
+měli byste akceptovat , že jedním z důvodů , proč komise předkládá tolik špatně zvážených , nepromyšlených , nevhodných a nedostatečně zpracovaných návrhů , s nimiž se v anglii a dalších zemích musíme vyrovnávat , je nedostatek transparentnosti .
+tento rozměr problému je ve zprávě zmíněn , ale pouze okrajově .
+mimochodem pan danilišin nebyl nikdy členem žádné politické strany , a tak jeho obvinění je čistě ekonomického rázu .
+tímto chci říci , že evropa bude muset někoho povolat k zodpovědnosti .
+existuje stále více náznaků , že obchodníci využívají tyto sirotky na prostituci do veřejných domů po celém světě .
+soudní dvůr rozhodl ve prospěch španělska a anuloval nový plán podpory pro bavlnický obor .
+v tomto ohledu se dá směrnice o elektronickém obchodu přezkoumat odděleně od revizí právních předpisů v oblasti ochrany spotřebitelů a ujišťuji vás , že budu tuto záležitost velmi pozorně sledovat společně s kolegou , panem komisařem mccreevym , do jehož působnosti směrnice o elektronickém obchodu patří .
+cílem mechanismu financování je , cituji , `` vytvořit pobídky k co nejrychlejšímu návratu k tomu , aby finanční trh odrážel rizika finančních toků '' .
+pane předsedo , když jsem poslouchal předsedu evropské rady , zaznamenal jsem jiný tón než ve slovech předsedy komise .
+právní zmatek , který obklopuje google , je dokladem toho , jaký dopad má absence jednotné právní úpravy na ochranu autorských práv v evropské unii , a rovněž nemožnosti zaujmout jednotný postoj vůči iniciativě google books .
+( pl ) pane předsedající , nejprve bych rád poděkoval panu borloovi za vynikající přípravu na jednání o klimatickém balíčku a za jejich dovedení k závěru .
+dnes je eu druhým největším obchodním partnerem latinské ameriky a největším investorem v této oblasti .
+dobře však chápu její důvody .
+rovněž věková hranice , kdy děti pod touto hranicí jsou vyjmuty z povinnosti poskytovat otisky prstů , vyvolává řadu otázek , jak jsme již slyšeli .
+tyto banky mají kladný dopad na poskytování pomoci rozvojovým zemím , ale jsem přesvědčen , že tento dopad je třeba řádně vyhodnotit .
+vynikající spolupráce ze strany mých kolegů , pánů becseye a rosatiho , mě vedla k závěru , že pokud chci , aby táto zpráva měla vůbec nějakou šanci být schválená , musím upravit úroveň jejích ambicí bez toho , abych tím úplně zmařil své původní návrhy .
+zahájení zasedání
+velmi odlišně od evropy .
+velmi obdivuji jejich nasazení a dalo by se říci i vytrvalost .
+zásoby ryb ve vodách západní afriky jsou téměř vyčerpány , nelegální obchod se dřevem ničí životní prostředí a využívání dalších přírodních zdrojů má prokazatelně dalekosáhlé dopady na chudé a politicky nestabilní oblasti .
+naše strana , socialistická strana nizozemska , považuje politické strany za organizace občanů , lidová hnutí , která spolupracují , aby naplnila svou vizi o podobě společnosti , a sledují zájmy skupin , jež do dané strany vkládají důvěru .
+zatřetí , že účel doporučení je neadekvátní a neobsahuje mnoho důležitých aktivit , jako je natura 2000 nebo kontrola nelegální přepravy odpadu .
+očekávali jsme spíše vaše vyjádření v tom smyslu , že po lisabonu do roku 2010 vytvoříte nový konstrukt , novou strategii , která bude pevně zaměřena na ochranu evropského sociálního modelu a která znovu uspořádá naše priority .
+jménem skupiny ind/dem . - paní předsedající , není překvapením , že paní baronka ludfordová z eurofanatické strany liberálních demokratů chce harmonizovat další oblast , která by měla podléhat suverénní vnitrostátní politice .
+výbor požadující právo žen řídit auta byl založen v rijádu 27. září .
+tento parlament členské státy opakovaně vyzýval , aby přikládaly připomínkám auditora mnohem větší důležitost , a zvláště jsme členské státy žádali , aby plnily podmínky interinstitucionální dohody z roku 2006 .
+dnes se zabývala přezkoumáním situace na místě a zhodnocením následků pro vztahy mezi evropskou unií a ruskem .
+žádost o navýšení příštího rozpočtu o 5 % je tedy oprávněná a nezbytná .
+proto jsme ve skupině zelených/evropské svobodné aliance toho názoru , že kontroly velkých projektů je nutno zvyšovat a nikoli snižovat , jak se uvádí v tomto návrhu .
+symboly evropské unie - vlajka , hymna a heslo - již jako takové z právního hlediska neexistují , protože dva evropské národy v roce 2005 evropskou ústavu jasně odmítly .
+je třeba zcela jasně říci , že společná zemědělská politika ve stávající podobě vede ke ztrátám biologické bezpečnosti v evropské unii a k prohloubení potravinové krize .
+to musí znamenat nabídku praktické pomoci .
+to je všechno teoreticky velice pěkné , ale v praxi se tak v bombaji rozhodně nestalo .
+toxické nebezpečné látky jsou užívány v mnoha dalších průmyslových procesech , nejen v těžbě .
+hdp sice musí zůstat hlavním kritériem , komise by však měla přihlédnout i k dalším ukazatelům , které mohou o regionálních problémech vypovídat lépe .
+pane leichtfriede , musím se přiznat , že tak úplně nerozumím vaší poznámce , neboť poslanci reagovali podle mého názoru velmi dobře .
+netěší mne , že jsme došli k nárůstu o 2,3 % .
+děkuji vám , pane předsedající .
+psal o pádu `` berlínské zdi klimatické změny '' .
+je to rozprava , která je podle mě velice zajímavá a mimořádně bohatá z hlediska příspěvků a má i nové důležité rozměry , které nebyly součástí lisabonské strategie nebo se jim v ní nedostalo stejné pozornosti .
+nesouhlasím s těmi , kteří bankám říkali , aby dělaly méně nebo aby byly v této těžké době obezřetné .
+pokud tak neučiníme , může to vést k promarnění dalšího desetiletí , k zastavení růstu a k masové nezaměstnanosti .
+lze ospravedlnitelně argumentovat , že eu není tím správným fórem , které by mělo řešit problém , jejž zdůrazňuje tato zpráva .
+doufáme , že je to krok dopředu .
+je pravda , že orgány , které řídí složité a široké oblasti , jak to činí evropský parlament , se často nemohou vyhnout pokušení obklopit svou vlastní demokratickou moc byrokracií .
+( řečník souhlasil s položením otázky `` postupem modré karty '' podle čl . 149 odst .
+velmi mne znepokojují především důchody mladých lidí , kteří pracují v různých zemích , v různých členských státech evropské unie .
+evropská unie až dosud bohužel neměla žádnou koncepci politiky vůči pákistánu .
+( es ) pane předsedající , já budu hlasovat ve prospěch této dohody , protože je pozitivní pro evropské loďstvo .
+tato nová , stále se rozšiřující evropa bude úspěšná pouze v případě , že posílíme solidaritu mezi všemi členskými státy .
+na konci to budou pouze dvě strany , které se spojí , učiní rozhodnutí a naleznou mír .
+díky tomu bude možné zajistit větší bezpečnost , kvalitu a diverzifikaci výrobků nabízených spotřebiteli , a tedy zajistit větší ochranu životního prostředí .
+chtěl jsem si jen být jistý .
+veřejné peníze mohou být použity jen výjimečně a pouze pro hospodářské struktury orientované na budoucnost , u nichž se předpokládá výsledek v podobě zachovaných pracovních míst .
+naznačuje to , že má země měla vhodnou vizi a že k zavedení tohoto obranného systému významně přispěje .
+otázka k ústnímu zodpovězení o ratingových agenturách , kterou komisi pokládají nikolaos chountis a jürgen klute jménem skupiny gue/ngl - b7-0302/2010 ) ,
+k otázce označování bych dodal , že nestačí k tomu , co potřebujeme .
+odvětví silniční dopravy je druhým největším producentem skleníkových plynů v rámci evropské unie a jeho emise včetně emisí z lehkých užitkových vozidel stále rostou .
+vzhledem k tomu , že tato otázka o kontrole vnějších hranic souvisí s pravomocemi frontexu , komise dostala od této agentury podrobnou odpověď , která je přiložená .
+mexiko se také velmi usilovně snaží reagovat na obavy týkající se porušování lidských práv , zvláště pokud jde o vliv skupin organizovaného zločinu a o nezadatelná práva na svobodu médií a svobodu projevu , na něž byla eu upozorněna organizacemi občanské společnosti .
+tento závazek nemůže zůstat závazkem s nejistým koncem ať už z hlediska časového nebo z hlediska finančních zdrojů .
+v mnoha evropských zemích však jaderná energie zůstává důležitou složkou zásobování elektrickou energií .
+mí kolegové poslanci mi pomohli dosáhnout této dohody rychle a já vám i stínovým zpravodajům a sobě děkuji , že jsme dosáhli v radě shody .
+o to tu jde . netýká se to potratů v polsku nebo v irsku .
+domnívám se , že lepším popisem než `` made in china '' ( `` vyrobeno v číně '' ) , který by pravděpodobně dostalo na základě tohoto nařízení , by bylo `` made in the world '' ( `` vyrobeno ve světě '' ) , budu-li citovat pascala lamyho , bývalého komisaře a současného generálního ředitele wto .
+nyní je načase učinit z ní přitažlivější , účinnou a důvěryhodnou politiku , která zaručí bezpečnost a blahobyt pro všechny .
+mluvme jasně , pane předsedo , dámy a pánové : sociálně hospodářské strategie pro střednědobé období se již ve zbytku světa provádějí .
+měl by být proto obnoven dialog mezi izraelci a palestinci a mezi palestinci navzájem .
+je možné říci , že pokrok v první oblasti - týkající se bezpečnosti - bude mít příznivý vliv na životní podmínky obyvatel , zatímco pokrok v druhé oblasti - týkající se zlepšení životních podmínek - bude podporovat zlepšení bezpečnosti .
+všichni chceme společně usilovat o zdokonalení , omezení a náhrady testování na zvířatech .
+prvním je hračka lachtana , druhým varná konvice .
+hlasoval jsem pro přijetí zprávy .
+pomyslete jenom na dárfúr v somálsku , nezapomeňme na kongo .
+bohužel existuje hodně potenciálních ohnisek konfliktu a ruské zásahy jsou výrazné .
+ale možná nejdůležitější poučení z programu peace se týká účinnosti přístupu `` zdola nahoru '' .
+to by nebylo rozumné , to by nebylo odpovědné , to by nebylo hodno skutečného státníka .
+lidé velmi těžce pracují , aby si na dovolenou uspořili , musíme jim tedy zajistit , aby se cítili bezpečně .
+jako součást energetické politiky společenství by komise a členské státy měly určit investice , které jsou nutné pro uspokojení strategických potřeb eu z hlediska dodávky a poptávky u zemního plynu a elektřiny .
+co chce propuštěný pracovník ?
+zdá se , že vzhledem k článku 290 a aktům v přenesené pravomoci - něčemu , co je v lisabonské smlouvě .
+každý členský stát se navíc může rozhodnout , jestli jadernou energii bude využívat .
+pravda je taková , že v oblasti našich jižních a východních sousedů jsme na ústupu a v defenzívě .
+toto usnesení jsem podpořil .
+díky tomu můžeme my v parlamentu být blíže svým občanům , což posiluje naši demokracii .
+nemáme dohodu o spolupráci a obchodu , k níž by mohla být připojena demokratická doložka , nepodařilo se nám vyslat misi pozorovatelů voleb a finanční prostředky nástroje pro demokracii a lidská práva jsou zanedbatelné .
+zasadím-li zrnko obilí , myslím pouze na dnešek , ale zasadím-li strom , dívám se do budoucnosti .
+domníváme se nicméně , že je toto pevné datum pro konec přechodného období v této fázi předčasné a mohlo by být na překážku nezbytnému rychlému přijetí tohoto pozměňovacího návrhu v radě .
+myslím , že některé z nich je možné vzít zpět , protože se opravdu překrývají s texty , které již přijal hlavní výbor .
+jsem přesvědčen , že přístup , který jste nám zde představil , nám dává skutečnou naději do budoucnosti .
+děkuji vám , paní ţicăuová , váš postřeh zaznamenáváme .
+zaprvé je to zabezpečení energie a změna klimatu .
+domnívám se , že to , co je v této rozpravě o situaci v řecku a o jeho vyhlídkách nejméně užitečné , to jsou protiřecké , nacionalistické a antievropské postoje .
+zásadním rozhodnutím je urychlení projektu nabucco .
+tento postup dnes ráno v 8:00 zahájil eurocontrol .
+je zásadně nutné posílit městskou dimenzi politiky soudržnosti a podpořit udržitelný rozvoj měst , zejména upevněním a rozvojem nástrojů pro uplatňování lipské charty na všech úrovních .
+zadruhé , jak už zde dnes bylo řečeno , se otevírá propast mezi tím , co říkáme , a tím , co děláme , jinými slovy propast mezi interními a externími reakcemi .
+( hluk )
+tento názor nelze než podpořit a rád bych vám , pane ministerský předsedo , poblahopřál k jednoznačnému a odhodlanému postoji vůči běloruskému režimu , poslední evropské diktatuře .
+a to je zvláště případ osobních údajů .
+zároveň bych proto hned na začátku také rád vyjasnil , že nebylo snadné nalézt společný postoj v rámci naší skupiny .
+( fr ) paní předsedající , pokud jde o solventnost ii , jedná se o reformu , jež byla zahájena dávno před krizí a na níž krize vrhla nové světlo .
+tím se usnadní vzdělávání v oblasti informačních technologií a také přístup k informacím , a to zejména těm lidem , kteří žijí v zemědělských oblastech .
+a vůbec nepopírám , že pan komisař špidla tvrdě a usilovně pracoval v nepřátelském prostředí , aby nechal tento sociální balíček schválit .
+chtěl bych konstatovat , že tato otázka je na evropské politické agendě už jenom proto , že komise se věnovala v několika svých dokumentech tomuto problému , už i vzhledem k tomu , že komise připravuje jistou možnou revizi současných předpisů , samozřejmě i proto , že se tímto tématem zabývá parlament díky zprávě paní poslankyně bauerové , kterou chci ještě znovu ocenit .
+písemně . - ( fi ) pane předsedající , zpráva pan racka o nové kultuře městské mobility , pro níž jsme volili , je důležitou součástí nového komplexního přístupu komise v souboru opatření v oblasti energetiky a klimatu : významné snížení emisí v evropě může být dosaženo použitím citlivého , efektivního komunitního a dopravního plánování .
+nedávná krize s dodávkami plynu zdůraznila , že je třeba , abychom přijali seriózní a jednotný přístup pro řešení otázky závislosti evropské unie na svých dodavatelích energie .
+jejich zájem musí být podporován řadou způsobů , jak připravit nejrůznější druhy potravin regionální produkce .
+protestovali proti nespravedlivým a diskriminačním krokům , které komise podnikla vůči polskému rybářskému průmyslu .
+není na radě , aby přesně rozhodovala o věku , kdy by k tomu mělo dojít , spíše by měla povzbuzovat všechny členské státy , aby plně využívaly své pracovní síly .
+plně s vámi souhlasíme , pane komisaři , že tento text konsoliduje právní předpisy , které upravují přepravu nebezpečných věcí , a zároveň snižuje jejich počet .
+za prvé , co se týká lisabonské smlouvy : jak víte , komise je plně zavázaná lisabonské smlouvě , jsme plně zavázáni k její implementaci a připravujeme - neodhadujeme , ale připravujeme její implementaci začátkem příštího roku .
+domnívám se , že jsme dosáhli dobrého kompromisu , jak řekla paní grossetêteová .
+studium na našich vysokých školách by bylo skvělou příležitostí pro studenty z těchto zemí , aby se zdokonalovali podle západních norem .
+je zřejmé , že tento druh konfliktu nelze řešit ozbrojenými silami .
+já sám jsem přešetřoval přijímání čečenských utečenců v polsku , protože na základě nařízení dublin bylo z belgie vráceno mnoho čečenských utečenců zpět do polska .
+písemně . - v závěrečném hlasování jsem hlasoval proti přijetí zprávy , protože podporuje vládní zasahování do správy internetu , což se neshoduje se stanoviskem zelených .
+snímkování těla je posledním útočištěm moderního mučení , jak to popsal stefano rodotà .
+studenti ze všech společenských vrstev by měli mít příležitost využívat bohatství kulturních a intelektuálních příležitostí , které jim evropská unie nabízí .
+pane předsedo , v zásadě podporuji myšlenku evropského paktu pro konkurenceschopnost upravujícího harmonizaci věku odchodu do důchodu a zejména zrychlení vzájemného uznávání akademických a odborných kvalifikací a rovněž lepší koordinaci výzkumných a vývojových snah .
+zcela upřímně , v socialistickém rozštěpení bych si vybral pana schulze , bez milosti a lítosti .
+tento návrh zákona je také v rozporu s deklarací o sexuální orientaci a genderové identitě osn .
+hlavní nedostatek představuje nezbytné uvolnění prostředků z fondu .
+nakonec tady evropská unie musí plně podporovat požadované činnosti týkající se boje proti nelegálnímu dovozu drog , obchodování s lidmi a především proti snižování respektování lidských životů jednotlivců .
+jsme hrdi na to , že jsme pevně a jednotně stáli za svým stínovým zpravodajem , panem poslancem le follem .
+část 1 tohoto aktu pojednává o plánech komise na vytvoření prostředí , které podporuje podnikání .
+je historicky deformovaná kompromisy založenými na postupných ústupcích , zejména vůči velkým členským státům .
+pane předsedající , ačkoli je tato zpráva v mnoha ohledech přínosná , s některými částmi v žádném případě nemohu souhlasit , stejně jako moji kolegové kaczmarek a mitchell .
+tento kompromis zaručuje nezávislost expertů , kteří rozhodnou , jestli se má lodi v tísni poskytnout útočiště , spravedlivé zacházení s námořníky v případě nehody podle imo , povinnost nepojištěné lodi v útočišti poskytnout náhradu za poškození přístavům a útočištím , ke kterým komise předloží různá politická stanoviska , a povinnost vlastním ropných tankerů podat oznámení , pokud jejich náklad přesahuje 1 000 tun .
+přestože chápu historická a politická specifika běloruska , jsem přesvědčen , že dozrál čas , aby se bělorusko připojilo k zemím , které zakázaly trest smrti .
+je to velice závažné obvinění .
+žijeme ve 21. století a zločiny názoru a svědomí by měly být vymazány z hodnot každého státu na světě nezávisle na tom , jak dlouhá může být jeho historie totality a diktatury .
+v poznani a v dánsku se budeme muset opět ujmout vedení .
+a konečně bude průhlednější financování , což může jejich legitimitu jedině zvýšit , a já to vítám .
+to musí být řečeno zcela jasně .
+řada věcí se jednoznačně zlepšila : kurdská televize či ustavení výboru pro ženy v tureckém parlamentu , za nějž jsem se já , jako zpravodajka pro práva žen v turecku , v posledních letech tvrdě zasazovala .
+očekáváme od komise jasné rozdělení pravomocí v této záležitosti a účinnou koordinaci mezi všemi příslušnými službami .
+tak tomu bude i nadále .
+proto jsme hlasovali proti .
+toto opatření se zavádí v situaci , kdy podniky musí platit dph bezprostředně po vydání faktury , příslušnou fakturační platbu ( a související dph ) však podniky dostanou zaplacenou i za několik měsíců - pokud vůbec .
+s tím zcela souhlasím .
+výsledkem by byla i soudržnější politika .
+takové opovrhování vlastním jednacím řádem je jako zasévat semeno skrytého totalitarismu .
+aby bylo možno se vypořádat s iracionálním chováním trhů , měla být změna smlouvy příležitostí udělit evropské centrální bance pravomoc dělat totéž , co dělají spojené státy , a v případě tlaků v oblasti měnových kurzů vykoupit veřejný dluh .
+pevně doufám , že komise bude i nadále dbát na to , aby byl v budoucnu rámec vnitřní kontroly zaveden .
+tato hra na kočku a myš skončila .
+je pravděpodobné , že se tak nestalo kvůli nedostatečnému povědomí o některých klíčových problémech , jimž čelí toto odvětví .
+je pravda , že dozorčí orgány jsou vnitrostátní .
+jasná odpověď zní `` ano '' , a jak dobře víte , v tomto směru budeme všichni posuzováni nikoli podle svých cílů , které jsme si stanovili na začátku , podle svých původních ambicí , nýbrž pouze na základě dosažených výsledků .
+je však třeba zajistit , aby posílená kontrolní opatření a sledování antimikrobiální rezistence u zvířat , která jsou určena k produkci potravin , tak u zvířat v zájmových chovech nezpůsobila zemědělcům další finanční a administrativní zátěž .
+v důsledku toho s potěšením konstatuji , že provádění balíčku pomoci po ukončení konfliktu , který připravila evropská komise s podporou členských států , funguje dobře .
+( de ) paní předsedající , pane oettingere , dámy a pánové , uvolnily se prostředky na financování , které měly být investovány mj. v oblasti energetiky .
+děkuji vám , paní wortmann-koolová , za vaše vysvětlení .
+to se zdá spravedlivé , s ohledem na to , že tento sektor těžil z obrovských státních podpor , aby přestál tuto neočekávanou krizi , kterou sám způsobil .
+rozprava je ukončena .
+oddělení vlastnictví žádným způsobem nezaručuje snížení spotřebitelských cen .
+dosáhneme toho i tím , že poskytneme přiměřenou pomoc regionům a městům středomořského pobřeží , jež budou muset řešit humanitární krizi , kterou způsobí příliv přistěhovalců , a jež budou muset zajistit dodržování pořádku a podporovat začleňování legálních migrantů .
+zároveň se rozšíří spolupráce a dialog mezi panafrickým parlamentem a tímto parlamentem a tyto instituce budou také působit jako kanály určené na provádění společné strategie a akčního plánu .
+( it ) pane předsedající , dámy a pánové , ráda bych věnovala mezinárodní den za odstranění násilí na ženách památce anny politkovské , novinářky a ženy , která zaplatila životem za lásku k pravdě , africkým ženám v konfliktech a těm mnoha trpícím ženám v evropě , o jejichž trápení se často ani neví .
+mnoho lidí , desítky tisíc , uvázlo na celém světě na letištích a čekají na návrat domů .
+to vystavuje životy lidí rizikům , například když je někdo donucen uprchnout ze své země kvůli politickému útlaku .
+plníme inteligentní , integrovanou strategii ve snaze bojovat proti příčinám terorismu ?
+rozprava je ukončena .
+útoky na platy a práva pracovníků , rozbití a zhoršení veřejných služeb , útok na sociální funkce státu a škrty ve veřejných výdajích jsou nedílnou součástí hospodářské a měnové politiky , kterou evropská unie členským státům ukládá .
+je to skutečně podivná záležitost .

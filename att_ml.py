@@ -28,7 +28,23 @@ class Attention:
         self.W_y = model.add_parameters((self.tgt_vocab_size, self.hidden_size*2+self.contextsize,))
         self.b_y = model.add_parameters(self.tgt_vocab_size)
 
+        self.attention_size = 128
+        self.W1_att_e = self.model.add_parameters((self.attention_size, self.hidden_size))
+        self.W1_att_f = self.model.add_parameters((self.attention_size, 2 * self.hidden_size))
+        self.w2_att = self.model.add_parameters((1, self.attention_size))
+
         self.max_len = 50
+
+    def __attention_mlp_batch(self, H_f_batch, h_e_batch, W1_att_e, W1_att_f, w2_att):
+        # H_f_batch: (2 * hidden_size, num_step, batch_size)
+        # h_e_batch: (hidden_size, batch_size)
+
+        a_t_batch = dy.tanh(dy.colwise_add(W1_att_f * H_f_batch, W1_att_e * h_e_batch)) # (attention_size, num_step, batch_size)
+        a_t_batch = w2_att * a_t_batch  # (1, num_step, batch_size)
+        a_t_batch = a_t_batch[0]  # (num_step, batch_size)
+        alignment_batch = dy.softmax(a_t_batch)  # (num_step, batch_size)
+        c_t_batch = H_f_batch * alignment_batch  # (2 * hidden_size, batch_size)
+        return c_t_batch
 
     # Training step over a single sentence pair
     def step_batch(self, batch):
@@ -36,6 +52,9 @@ class Attention:
 
         W_y = dy.parameter(self.W_y)
         b_y = dy.parameter(self.b_y)
+        W1_att_e = dy.parameter(self.W1_att_e)
+        W1_att_f = dy.parameter(self.W1_att_f)
+        w2_att = dy.parameter(self.w2_att)
 
         M_s = self.src_lookup
         M_t = self.tgt_lookup
@@ -69,7 +88,7 @@ class Attention:
         encoded_h = h_fs[-1]
 
         h_fs_matrix = dy.concatenate_cols(h_fs)
-        h_fs_matrix_t = dy.transpose(h_fs_matrix)
+        # h_fs_matrix_t = dy.transpose(h_fs_matrix)
 
         losses = []
         num_words = 0
@@ -80,13 +99,15 @@ class Attention:
         encoded_h = dy.concatenate([encoded_h])
         dec_state = self.dec_builder.initial_state([encoded_h])
         for (cw, nw) in zip(tgt_sent[0:-1], tgt_sent[1:]):
-            embed = dy.lookup_batch(M_t,cw)
+            embed = dy.lookup_batch(M_t, cw)
             dec_state = dec_state.add_input(dy.concatenate([embed, c_t]))
             h_e = dec_state.output()
             #calculate attention
+            '''
             a_t = h_fs_matrix_t * h_e
             alignment = dy.softmax(a_t)
-            c_t = h_fs_matrix * alignment
+            c_t = h_fs_matrix * alignment'''
+            c_t = self.__attention_mlp_batch(h_fs_matrix, h_e, W1_att_e, W1_att_f, w2_att)
             ind_tem = dy.concatenate([h_e, c_t])
             ind_tem1 = W_y * ind_tem
             ind_tem2 = ind_tem1 + b_y
@@ -462,4 +483,4 @@ def test_many_to_many():
 
 
 if __name__ == '__main__':
-    test_one_to_many()
+    test_single()

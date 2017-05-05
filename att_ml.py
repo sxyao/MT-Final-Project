@@ -98,6 +98,7 @@ class Attention:
         encoded_h = h_fs[-1]
 
         h_fs_matrix = dy.concatenate_cols(h_fs)
+        print h_fs_matrix.npvalue().shape
         # h_fs_matrix_t = dy.transpose(h_fs_matrix)
 
         losses = []

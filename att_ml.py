@@ -38,12 +38,17 @@ class Attention:
     def __attention_mlp_batch(self, H_f_batch, h_e_batch, W1_att_e, W1_att_f, w2_att):
         # H_f_batch: (2 * hidden_size, num_step, batch_size)
         # h_e_batch: (hidden_size, batch_size)
-
+        print 'a'
         a_t_batch = dy.tanh(dy.colwise_add(W1_att_f * H_f_batch, W1_att_e * h_e_batch)) # (attention_size, num_step, batch_size)
+        print 'b'
         a_t_batch = w2_att * a_t_batch  # (1, num_step, batch_size)
+        print 'c'
         a_t_batch = a_t_batch[0]  # (num_step, batch_size)
+        print 'd'
         alignment_batch = dy.softmax(a_t_batch)  # (num_step, batch_size)
+        print 'e'
         c_t_batch = H_f_batch * alignment_batch  # (2 * hidden_size, batch_size)
+        print 'f'
         return c_t_batch
 
     def __attention_mlp(self, H_f, h_e, W1_att_e, W1_att_f, w2_att):
@@ -120,7 +125,6 @@ class Attention:
             alignment = dy.softmax(a_t)
             c_t = h_fs_matrix * alignment'''
             c_t = self.__attention_mlp_batch(h_fs_matrix, h_e, W1_att_e, W1_att_f, w2_att)
-            print 'ct', c_t.npvalue().shape
             ind_tem = dy.concatenate([h_e, c_t])
             ind_tem1 = W_y * ind_tem
             ind_tem2 = ind_tem1 + b_y

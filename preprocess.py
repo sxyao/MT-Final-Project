@@ -111,8 +111,8 @@ def sample_non_english(origin_src, origin_tgt, split, src_lang, tgt_lang, n_trai
 
 
 def test1():
-    sample(cs_en_origin, cs_en_split, 'czech', 'english')
-    # sample(es_en_origin, es_en_split, 'spanish', 'english')
+    # sample(cs_en_origin, cs_en_split, 'czech', 'english')
+    sample(es_en_origin, es_en_split, 'spanish', 'english')
     # sample(fr_en_origin, fr_en_split, 'french', 'english')
 
 

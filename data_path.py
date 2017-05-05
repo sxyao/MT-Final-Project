@@ -13,8 +13,8 @@ cs_en_origin = {'czech': os.path.join(data_origin_root, 'europarl-v7.cs-en.cs'),
 es_en_origin = {'spanish': os.path.join(data_origin_root, 'europarl-v7.es-en.es'),
                 'english': os.path.join(data_origin_root, 'europarl-v7.es-en.en')}
 
-fr_en_origin = {'french': os.path.join(data_origin_root, ''),
-                'english': os.path.join(data_origin_root, '')}
+fr_en_origin = {'french': os.path.join(data_origin_root, 'europarl-v7.fr-en.fr'),
+                'english': os.path.join(data_origin_root, 'europarl-v7.fr-en.en')}
 
 data_split_root = os.path.join(data_root, 'split')
 

@@ -25,9 +25,9 @@ cs_en_split = {'czech': {'train': os.path.join(data_split_root, 'cs-en.train.cs'
                            'valid': os.path.join(data_split_root, 'cs-en.valid.en'),
                            'test': os.path.join(data_split_root, 'cs-en.test.en')}}
 
-es_en_split = {'spanish': {'train': os.path.join(data_split_root, 'es-en.train.de'),
-                           'valid': os.path.join(data_split_root, 'es-en.valid.de'),
-                           'test': os.path.join(data_split_root, 'es-en.test.de')},
+es_en_split = {'spanish': {'train': os.path.join(data_split_root, 'es-en.train.es'),
+                           'valid': os.path.join(data_split_root, 'es-en.valid.es'),
+                           'test': os.path.join(data_split_root, 'es-en.test.es')},
                'english': {'train': os.path.join(data_split_root, 'es-en.train.en'),
                            'valid': os.path.join(data_split_root, 'es-en.valid.en'),
                            'test': os.path.join(data_split_root, 'es-en.test.en')}}

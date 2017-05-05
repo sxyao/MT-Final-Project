@@ -20,15 +20,26 @@ def write_sents(sents, out_file, lang):
 
 
 def sample(origin, split, src_lang, tgt_lang, n_train=100000, n_val=1000, n_test=1000):
+
     reader = open(origin[src_lang])
-    src_sents = reader.readlines()
+    src_sents_old = reader.readlines()
     reader.close()
-    src_sents = map(lambda x: x.strip(), src_sents)
+    src_sents_old = map(lambda x: x.strip(), src_sents_old)
 
     reader = open(origin[tgt_lang])
-    tgt_sents = reader.readlines()
+    tgt_sents_old = reader.readlines()
     reader.close()
-    tgt_sents = map(lambda x: x.strip(), tgt_sents)
+    tgt_sents_old = map(lambda x: x.strip(), tgt_sents_old)
+
+    src_sents, tgt_sents = [], []
+
+    for src_sent, tgt_sent in zip(src_sents_old, tgt_sents_old):
+        if len(src_sent) < 5 or len(tgt_sent) < 5:
+            continue
+        if src_sent.startswith('<') or tgt_sent.startswith('<'):
+            continue
+        src_sents.append(src_sent)
+        tgt_sents.append(tgt_sent)
 
     sents = zip(src_sents, tgt_sents)
     random.shuffle(sents)
@@ -99,14 +110,9 @@ def sample_non_english(origin_src, origin_tgt, split, src_lang, tgt_lang, n_trai
 
 def test1():
     sample(cs_en_origin, cs_en_split, 'czech', 'english')
-    sample(de_en_origin, de_en_split, 'german', 'english')
+    sample(es_en_origin, es_en_split, 'spanish', 'english')
     sample(fr_en_origin, fr_en_split, 'french', 'english')
 
 
-def test2():
-    sample_non_english(cs_en_origin, de_en_origin, cs_de_split, 'czech', 'german')
-    sample_non_english(cs_en_origin, fr_en_origin, cs_fr_split, 'czech', 'french')
-    sample_non_english(de_en_origin, fr_en_origin, de_fr_split, 'german', 'french')
-
 if __name__ == '__main__':
-    test2()
+    test1()

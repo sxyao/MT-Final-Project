@@ -46,6 +46,16 @@ class Attention:
         c_t_batch = H_f_batch * alignment_batch  # (2 * hidden_size, batch_size)
         return c_t_batch
 
+    def __attention_mlp(self, H_f, h_e, W1_att_e, W1_att_f, w2_att):
+
+        # Calculate the alignment score vector
+        a_t = dy.tanh(dy.colwise_add(W1_att_f * H_f, W1_att_e * h_e))
+        a_t = w2_att * a_t
+        a_t = a_t[0]
+        alignment = dy.softmax(a_t)
+        c_t = H_f * alignment
+        return c_t
+
     # Training step over a single sentence pair
     def step_batch(self, batch):
         dy.renew_cg()
@@ -120,6 +130,9 @@ class Attention:
         dy.renew_cg()
         W_y = dy.parameter(self.W_y)
         b_y = dy.parameter(self.b_y)
+        W1_att_e = dy.parameter(self.W1_att_e)
+        W1_att_f = dy.parameter(self.W1_att_f)
+        w2_att = dy.parameter(self.w2_att)
         M_s = self.src_lookup
         M_t = self.tgt_lookup
 
@@ -158,11 +171,13 @@ class Attention:
             dec_state = dec_state.add_input(dy.concatenate([embed, c_t]))
             h_e = dec_state.output()
             # c_t = self.__attention_mlp(h_fs_matrix, h_e)
+            c_t = self.__attention_mlp(h_fs_matrix, h_e, W1_att_e, W1_att_f, w2_att)
 
             # calculate attention
+            '''
             a_t = h_fs_matrix_t * h_e
             alignment = dy.softmax(a_t)
-            c_t = h_fs_matrix * alignment
+            c_t = h_fs_matrix * alignment'''
             ind_tem = dy.concatenate([h_e, c_t])
             ind_tem1 = W_y * ind_tem
             ind_tem2 = ind_tem1 + b_y

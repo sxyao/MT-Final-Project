@@ -351,22 +351,20 @@ def main(argv):
                 start = end
 
 
-splits = {('czech', 'english'): cs_en_split, ('czech', 'german'): cs_de_split, ('czech', 'french'): cs_fr_split,
-          ('english', 'czech'): cs_en_split, ('german', 'czech'): cs_de_split, ('french', 'czech'): cs_fr_split,
-          ('english', 'german'): de_en_split, ('german', 'english'): de_en_split,
-          ('english', 'french'): fr_en_split, ('french', 'english'): fr_en_split,
-          ('german', 'french'): de_fr_split, ('french', 'german'): de_fr_split}
-fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'de': 'german'}
+splits = {('english', 'czech'): cs_en_split, ('czech', 'english'): cs_en_split,
+          ('english', 'spanish'): es_en_split, ('spanish', 'english'): es_en_split,
+          ('english', 'french'): fr_en_split, ('french', 'english'): fr_en_split}
+fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'es': 'spanish'}
 
 
 def test_single():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-src', type=str, default='de')
-    parser.add_argument('-tgt', type=str, default='en')
+    parser.add_argument('-src', type=str, default='en')
+    parser.add_argument('-tgt', type=str, default='es')
     parser.add_argument('--dynet-mem', type=int, default=3000)
     parser.add_argument('--dynet-gpu-ids', type=int)
     args = parser.parse_args()
-    fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'de': 'german'}
+    fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'es': 'spanish'}
     if args.src in fulls:
         args.src = fulls[args.src]
     if args.tgt in fulls:
@@ -389,107 +387,31 @@ def test_single():
 
 def test_one_to_many():
 
-    training_src = read_file(de_en_split['english']['train'], '<2de>')
+    training_src = read_file(es_en_split['english']['train'], '<2es>')
     training_src += read_file(fr_en_split['english']['train'], '<2fr>')
-    training_tgt = read_file(de_en_split['german']['train'])
+    training_tgt = read_file(es_en_split['spanish']['train'])
     training_tgt += read_file(fr_en_split['french']['train'])
 
-    dev_src = read_file(de_en_split['english']['valid'], '<2de>')
+    dev_src = read_file(es_en_split['english']['valid'], '<2es>')
     dev_src += read_file(fr_en_split['english']['valid'], '<2fr>')
     dev_ends = []
-    dev_tgt = read_file(de_en_split['german']['valid'])
+    dev_tgt = read_file(es_en_split['spanish']['valid'])
     dev_ends.append(len(dev_tgt))
     dev_tgt += read_file(fr_en_split['french']['valid'])
     dev_ends.append(len(dev_tgt))
 
-    test_src = read_file(de_en_split['english']['test'], '<2de>')
+    test_src = read_file(es_en_split['english']['test'], '<2es>')
     test_src += read_file(fr_en_split['english']['test'], '<2fr>')
     test_ends = []
-    test_tgt = read_file(de_en_split['german']['test'])
+    test_tgt = read_file(es_en_split['spanish']['test'])
     test_ends.append(len(test_tgt))
     test_tgt += read_file(fr_en_split['french']['test'])
     test_ends.append(len(test_tgt))
 
-    dev_out = [de_en_split['german']['valid'].split('/')[-1] + '_o2m_nocs',
+    dev_out = [es_en_split['spanish']['valid'].split('/')[-1] + '_o2m_nocs',
                fr_en_split['french']['valid'].split('/')[-1] + '_o2m_nocs']
-    test_out = [de_en_split['german']['test'].split('/')[-1] + '_o2m_nocs',
+    test_out = [es_en_split['spanish']['test'].split('/')[-1] + '_o2m_nocs',
                 fr_en_split['french']['test'].split('/')[-1] + '_o2m_nocs']
-    argv = ['',
-            training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
-            dev_out, test_out, dev_ends, test_ends]
-    main(argv)
-
-
-def test_many_to_many():
-
-    training_src = read_file(cs_en_split['english']['train'], '<2cs>')
-    training_src += read_file(de_en_split['english']['train'], '<2de>')
-    training_src += read_file(fr_en_split['english']['train'], '<2fr>')
-    training_src += read_file(cs_en_split['czech']['train'], '<2en>')
-    training_src += read_file(de_en_split['german']['train'], '<2en>')
-    training_src += read_file(fr_en_split['french']['train'], '<2en>')
-
-    training_tgt = read_file(cs_en_split['czech']['train'])
-    training_tgt += read_file(de_en_split['german']['train'])
-    training_tgt += read_file(fr_en_split['french']['train'])
-    training_tgt += read_file(cs_en_split['english']['train'])
-    training_tgt += read_file(de_en_split['english']['train'])
-    training_tgt += read_file(fr_en_split['english']['train'])
-
-    dev_src = read_file(cs_en_split['english']['valid'], '<2cs>')
-    dev_src += read_file(de_en_split['english']['valid'], '<2de>')
-    dev_src += read_file(fr_en_split['english']['valid'], '<2fr>')
-    dev_src += read_file(cs_en_split['czech']['valid'], '<2en>')
-    dev_src += read_file(de_en_split['german']['valid'], '<2en>')
-    dev_src += read_file(fr_en_split['french']['valid'], '<2en>')
-
-    dev_ends = []
-    dev_tgt = read_file(cs_en_split['czech']['valid'])
-    dev_ends.append(len(dev_tgt))
-    dev_tgt += read_file(de_en_split['german']['valid'])
-    dev_ends.append(len(dev_tgt))
-    dev_tgt += read_file(fr_en_split['french']['valid'])
-    dev_ends.append(len(dev_tgt))
-    dev_tgt += read_file(cs_en_split['english']['valid'])
-    dev_ends.append(len(dev_tgt))
-    dev_tgt += read_file(de_en_split['english']['valid'])
-    dev_ends.append(len(dev_tgt))
-    dev_tgt += read_file(fr_en_split['english']['valid'])
-    dev_ends.append(len(dev_tgt))
-
-    test_src = read_file(cs_en_split['english']['test'], '<2cs>')
-    test_src += read_file(de_en_split['english']['test'], '<2de>')
-    test_src += read_file(fr_en_split['english']['test'], '<2fr>')
-    test_src += read_file(cs_en_split['czech']['test'], '<2en>')
-    test_src += read_file(de_en_split['german']['test'], '<2en>')
-    test_src += read_file(fr_en_split['french']['test'], '<2en>')
-
-    test_ends = []
-    test_tgt = read_file(cs_en_split['czech']['test'])
-    test_ends.append(len(test_tgt))
-    test_tgt += read_file(de_en_split['german']['test'])
-    test_ends.append(len(test_tgt))
-    test_tgt += read_file(fr_en_split['french']['test'])
-    test_ends.append(len(test_tgt))
-    test_tgt += read_file(cs_en_split['english']['test'])
-    test_ends.append(len(test_tgt))
-    test_tgt += read_file(de_en_split['english']['test'])
-    test_ends.append(len(test_tgt))
-    test_tgt += read_file(fr_en_split['english']['test'])
-    test_ends.append(len(test_tgt))
-
-    dev_out = [cs_en_split['czech']['valid'].split('/')[-1] + '_m2m',
-               de_en_split['german']['valid'].split('/')[-1] + '_m2m',
-               fr_en_split['french']['valid'].split('/')[-1] + '_m2m',
-               cs_en_split['english']['valid'].split('/')[-1] + '_m2m',
-               de_en_split['english']['valid'].split('/')[-1] + '_m2m',
-               fr_en_split['english']['valid'].split('/')[-1] + '_m2m']
-    test_out = [cs_en_split['czech']['test'].split('/')[-1] + '_m2m',
-                de_en_split['german']['test'].split('/')[-1] + '_m2m',
-                fr_en_split['french']['test'].split('/')[-1] + '_m2m',
-                cs_en_split['english']['test'].split('/')[-1] + '_m2m',
-                de_en_split['english']['test'].split('/')[-1] + '_m2m',
-                fr_en_split['english']['test'].split('/')[-1] + '_m2m']
     argv = ['',
             training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
             dev_out, test_out, dev_ends, test_ends]

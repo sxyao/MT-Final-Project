@@ -58,6 +58,7 @@ class Attention:
 
     # Training step over a single sentence pair
     def step_batch(self, batch):
+        print batch
         dy.renew_cg()
 
         W_y = dy.parameter(self.W_y)

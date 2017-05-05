@@ -70,7 +70,6 @@ class Attention:
         M_s = self.src_lookup
         M_t = self.tgt_lookup
         src_sent, tgt_sent = zip(*batch)
-        print src_sent, tgt_sent
         src_sent = zip(*src_sent)
         tgt_sent = zip(*tgt_sent)
         src_sent_rev = list(reversed(src_sent))
@@ -121,6 +120,7 @@ class Attention:
             alignment = dy.softmax(a_t)
             c_t = h_fs_matrix * alignment'''
             c_t = self.__attention_mlp_batch(h_fs_matrix, h_e, W1_att_e, W1_att_f, w2_att)
+            print 'ct', c_t.npvalue().shape
             ind_tem = dy.concatenate([h_e, c_t])
             ind_tem1 = W_y * ind_tem
             ind_tem2 = ind_tem1 + b_y

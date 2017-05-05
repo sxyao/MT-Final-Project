@@ -305,7 +305,7 @@ def main(argv):
     test_ends = argv[10]
     batch_size = 64
     attention = Attention(model, training_src, training_tgt)
-    epoch_num = 20
+    epoch_num = 30
     train_data = zip(attention.training_src, attention.training_tgt)
 
     dev_src = attention.change_word2id(dev_src, attention.src_vocab)

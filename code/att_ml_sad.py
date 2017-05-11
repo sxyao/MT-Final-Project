@@ -1,5 +1,5 @@
 __author__ = 'sxyao'
-# separate attention and separate encoder
+# separate attention and separate decoder
 
 from collections import defaultdict
 

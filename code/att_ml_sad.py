@@ -20,7 +20,7 @@ class Attention:
         self.src_vocab_size = len(self.src_vocab)
         print 'src_vocab_size', self.src_vocab_size
         self.embed_size = 128
-        self.src_lookup = model.add_lookup_parameters((self.src_vocab_size, self.embed_size))
+        self.src_lookup = self.model.add_lookup_parameters((self.src_vocab_size, self.embed_size))
 
         self.tgt_vocab = {}
         self.rtgt_vocab = {}
@@ -29,22 +29,22 @@ class Attention:
         for ele in lang_li:
             self.tgt_vocab[ele], self.rtgt_vocab[ele] = self.change_word2id_genevoc_output(training_tgt[ele])
             self.tgt_vocab_size[ele] = len(self.tgt_vocab[ele])
-            self.tgt_lookup[ele] = model.add_lookup_parameters((self.tgt_vocab_size[ele], self.embed_size))
+            self.tgt_lookup[ele] = self.model.add_lookup_parameters((self.tgt_vocab_size[ele], self.embed_size))
         print 'tgt_vocab_size', self.tgt_vocab_size
 
         self.hidden_size = 128
         self.layers = 1
         self.contextsize = self.hidden_size * 2
-        self.l2r_builder = dy.GRUBuilder(self.layers, self.embed_size, self.hidden_size, model)
-        self.r2l_builder = dy.GRUBuilder(self.layers, self.embed_size, self.hidden_size, model)
+        self.l2r_builder = dy.GRUBuilder(self.layers, self.embed_size, self.hidden_size, self.model)
+        self.r2l_builder = dy.GRUBuilder(self.layers, self.embed_size, self.hidden_size, self.model)
 
         self.dec_builder = {}
         self.W_y = {}
         self.b_y = {}
         for ele in lang_li:
-            self.dec_builder[ele] = dy.GRUBuilder(self.layers, self.embed_size+self.contextsize, self.hidden_size*2, model)
-            self.W_y[ele] = model.add_parameters((self.tgt_vocab_size[ele], self.hidden_size*2+self.contextsize))
-            self.b_y[ele] = model.add_parameters(self.tgt_vocab_size[ele])
+            self.dec_builder[ele] = dy.GRUBuilder(self.layers, self.embed_size+self.contextsize, self.hidden_size*2, self.model)
+            self.W_y[ele] = self.model.add_parameters((self.tgt_vocab_size[ele], self.hidden_size*2+self.contextsize))
+            self.b_y[ele] = self.model.add_parameters(self.tgt_vocab_size[ele])
 
         self.attention_size = 128
         self.W1_att_e = {}

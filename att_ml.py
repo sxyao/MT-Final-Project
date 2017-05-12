@@ -305,7 +305,7 @@ def main(argv):
     test_ends = argv[10]
     batch_size = 64
     attention = Attention(model, training_src, training_tgt)
-    epoch_num = 30
+    epoch_num = 20
     train_data = zip(attention.training_src, attention.training_tgt)
 
     dev_src = attention.change_word2id(dev_src, attention.src_vocab)
@@ -364,7 +364,6 @@ def test_single():
     parser.add_argument('--dynet-mem', type=int, default=3000)
     parser.add_argument('--dynet-gpu-ids', type=int)
     args = parser.parse_args()
-    fulls = {'cs': 'czech', 'en': 'english', 'fr': 'french', 'es': 'spanish'}
     if args.src in fulls:
         args.src = fulls[args.src]
     if args.tgt in fulls:
@@ -386,7 +385,6 @@ def test_single():
 
 
 def test_one_to_many():
-
     training_src = read_file(es_en_split['english']['train'], '<2es>')
     training_src += read_file(fr_en_split['english']['train'], '<2fr>')
     training_tgt = read_file(es_en_split['spanish']['train'])
@@ -408,10 +406,10 @@ def test_one_to_many():
     test_tgt += read_file(fr_en_split['french']['test'])
     test_ends.append(len(test_tgt))
 
-    dev_out = [es_en_split['spanish']['valid'].split('/')[-1] + '_o2m_nocs',
-               fr_en_split['french']['valid'].split('/')[-1] + '_o2m_nocs']
-    test_out = [es_en_split['spanish']['test'].split('/')[-1] + '_o2m_nocs',
-                fr_en_split['french']['test'].split('/')[-1] + '_o2m_nocs']
+    dev_out = [es_en_split['spanish']['valid'].split('/')[-1] + '_o2m_o1_nocs',
+               fr_en_split['french']['valid'].split('/')[-1] + '_o2m_o1_nocs']
+    test_out = [es_en_split['spanish']['test'].split('/')[-1] + '_o2m_o1_nocs',
+                fr_en_split['french']['test'].split('/')[-1] + '_o2m_o1_nocs']
     argv = ['',
             training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
             dev_out, test_out, dev_ends, test_ends]
@@ -419,4 +417,4 @@ def test_one_to_many():
 
 
 if __name__ == '__main__':
-    test_single()
+    test_one_to_many()

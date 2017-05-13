@@ -386,30 +386,40 @@ def test_single():
 
 def test_one_to_many():
     training_src = read_file(cs_en_split['english']['train'], '<2cs>')
+    training_src += read_file(es_en_split['english']['train'], '<2es>')
     training_src += read_file(fr_en_split['english']['train'], '<2fr>')
     training_tgt = read_file(cs_en_split['czech']['train'])
+    training_tgt += read_file(es_en_split['spanish']['train'])
     training_tgt += read_file(fr_en_split['french']['train'])
 
     dev_src = read_file(cs_en_split['english']['valid'], '<2cs>')
+    dev_src += read_file(es_en_split['english']['valid'], '<2es>')
     dev_src += read_file(fr_en_split['english']['valid'], '<2fr>')
     dev_ends = []
     dev_tgt = read_file(cs_en_split['czech']['valid'])
+    dev_ends.append(len(dev_tgt))
+    dev_tgt += read_file(es_en_split['spanish']['valid'])
     dev_ends.append(len(dev_tgt))
     dev_tgt += read_file(fr_en_split['french']['valid'])
     dev_ends.append(len(dev_tgt))
 
     test_src = read_file(cs_en_split['english']['test'], '<2cs>')
+    test_src += read_file(es_en_split['english']['test'], '<2es>')
     test_src += read_file(fr_en_split['english']['test'], '<2fr>')
     test_ends = []
     test_tgt = read_file(cs_en_split['czech']['test'])
     test_ends.append(len(test_tgt))
+    test_tgt += read_file(es_en_split['spanish']['test'])
+    test_ends.append(len(test_tgt))
     test_tgt += read_file(fr_en_split['french']['test'])
     test_ends.append(len(test_tgt))
 
-    dev_out = [cs_en_split['czech']['valid'].split('/')[-1] + '_o2m_o1_noes',
-               fr_en_split['french']['valid'].split('/')[-1] + '_o2m_o1_noes']
-    test_out = [cs_en_split['czech']['test'].split('/')[-1] + '_o2m_o1_noes',
-                fr_en_split['french']['test'].split('/')[-1] + '_o2m_o1_noes']
+    dev_out = [cs_en_split['czech']['valid'].split('/')[-1] + '_o2m_o1',
+               es_en_split['spanish']['valid'].split('/')[-1] + '_o2m_o1',
+               fr_en_split['french']['valid'].split('/')[-1] + '_o2m_o1']
+    test_out = [cs_en_split['czech']['test'].split('/')[-1] + '_o2m_o1',
+                es_en_split['spanish']['test'].split('/')[-1] + '_o2m_o1',
+                fr_en_split['french']['test'].split('/')[-1] + '_o2m_o1']
     argv = ['',
             training_src, training_tgt, dev_src, dev_tgt, test_src, test_tgt,
             dev_out, test_out, dev_ends, test_ends]

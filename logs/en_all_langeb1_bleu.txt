@@ -1,0 +1,150 @@
+Epoch 1
+Epoch 1 czech Valid 6.32136480586
+Epoch 1 french Valid 6.47264175875
+Epoch 1 czech Test 5.58666550307
+Epoch 1 french Test 7.007706555
+Epoch 2
+Epoch 2 czech Valid 10.3574728444
+Epoch 2 french Valid 10.4006748324
+Epoch 2 czech Test 9.6170292121
+Epoch 2 french Test 10.908430772
+Epoch 3
+Epoch 3 czech Valid 12.613410386
+Epoch 3 french Valid 13.4412939172
+Epoch 3 czech Test 12.2860448146
+Epoch 3 french Test 14.2272219046
+Epoch 4
+Epoch 4 czech Valid 13.7812000151
+Epoch 4 french Valid 15.1381616962
+Epoch 4 czech Test 13.2660627522
+Epoch 4 french Test 15.4483418836
+Epoch 5
+Epoch 5 czech Valid 14.333657439
+Epoch 5 french Valid 15.7145642102
+Epoch 5 czech Test 13.7785101514
+Epoch 5 french Test 15.9441332746
+Epoch 6
+Epoch 6 czech Valid 14.7338959311
+Epoch 6 french Valid 16.5873496317
+Epoch 6 czech Test 14.4305324112
+Epoch 6 french Test 17.0187070104
+Epoch 7
+Epoch 7 czech Valid 15.2757356515
+Epoch 7 french Valid 17.2063796481
+Epoch 7 czech Test 14.4655879078
+Epoch 7 french Test 17.8344926391
+Epoch 8
+Epoch 8 czech Valid 15.7257797697
+Epoch 8 french Valid 17.4325753163
+Epoch 8 czech Test 14.9958323133
+Epoch 8 french Test 18.2331563233
+Epoch 9
+Epoch 9 czech Valid 15.922133466
+Epoch 9 french Valid 17.7269081498
+Epoch 9 czech Test 14.9946306772
+Epoch 9 french Test 18.3655534106
+Epoch 10
+Epoch 10 czech Valid 16.4255940767
+Epoch 10 french Valid 17.9180350947
+Epoch 10 czech Test 16.2637818141
+Epoch 10 french Test 18.6384974512
+Epoch 11
+Epoch 11 czech Valid 16.3258856815
+Epoch 11 french Valid 17.8164584468
+Epoch 11 czech Test 15.8062846881
+Epoch 11 french Test 19.1618807489
+Epoch 12
+Epoch 12 czech Valid 16.5046053338
+Epoch 12 french Valid 18.6835383405
+Epoch 12 czech Test 16.1370202472
+Epoch 12 french Test 19.2335278023
+Epoch 13
+Epoch 13 czech Valid 16.5592349264
+Epoch 13 french Valid 18.6743252697
+Epoch 13 czech Test 16.4864709891
+Epoch 13 french Test 19.6702182572
+Epoch 14
+Epoch 14 czech Valid 17.2069249058
+Epoch 14 french Valid 18.2497841689
+Epoch 14 czech Test 16.3501283485
+Epoch 14 french Test 19.2996545776
+Epoch 15
+Epoch 15 czech Valid 16.7390013581
+Epoch 15 french Valid 18.5350648251
+Epoch 15 czech Test 16.2609909468
+Epoch 15 french Test 19.4009585514
+Epoch 16
+Epoch 16 czech Valid 17.4135748608
+Epoch 16 french Valid 18.9809562412
+Epoch 16 czech Test 16.9271635819
+Epoch 16 french Test 20.0977442658
+Epoch 17
+Epoch 17 czech Valid 16.8623082401
+Epoch 17 french Valid 18.9222088408
+Epoch 17 czech Test 16.2282206861
+Epoch 17 french Test 19.605797458
+Epoch 18
+Epoch 18 czech Valid 17.4236334365
+Epoch 18 french Valid 19.1480277468
+Epoch 18 czech Test 16.7558967553
+Epoch 18 french Test 19.8169926676
+Epoch 19
+Epoch 19 czech Valid 17.2952285356
+Epoch 19 french Valid 18.8602108911
+Epoch 19 czech Test 16.6030922625
+Epoch 19 french Test 19.8126614758
+Epoch 20
+Epoch 20 czech Valid 17.7528364939
+Epoch 20 french Valid 19.1304521723
+Epoch 20 czech Test 16.575988467
+Epoch 20 french Test 20.3712976152
+Epoch 21
+Epoch 21 czech Valid 17.243669587
+Epoch 21 french Valid 19.6465365222
+Epoch 21 czech Test 16.8406612579
+Epoch 21 french Test 20.2712927027
+Epoch 22
+Epoch 22 czech Valid 17.7341381618
+Epoch 22 french Valid 19.2054239475
+Epoch 22 czech Test 16.6968518095
+Epoch 22 french Test 20.2540521697
+Epoch 23
+Epoch 23 czech Valid 17.2996666689
+Epoch 23 french Valid 19.0863914942
+Epoch 23 czech Test 16.5358994112
+Epoch 23 french Test 20.2504352026
+Epoch 24
+Epoch 24 czech Valid 17.8700900151
+Epoch 24 french Valid 19.7893499181
+Epoch 24 czech Test 16.9499834246
+Epoch 24 french Test 20.6220412425
+Epoch 25
+Epoch 25 czech Valid 17.1722079825
+Epoch 25 french Valid 19.085549389
+Epoch 25 czech Test 16.5449841236
+Epoch 25 french Test 20.501034088
+Epoch 26
+Epoch 26 czech Valid 17.8262550227
+Epoch 26 french Valid 19.4751413972
+Epoch 26 czech Test 17.0665242846
+Epoch 26 french Test 20.7015522101
+Epoch 27
+Epoch 27 czech Valid 17.8503663354
+Epoch 27 french Valid 19.1747229431
+Epoch 27 czech Test 16.5582928398
+Epoch 27 french Test 20.2930859453
+Epoch 28
+Epoch 28 czech Valid 17.9539004909
+Epoch 28 french Valid 19.7533524137
+Epoch 28 czech Test 16.5655635351
+Epoch 28 french Test 20.3906709711
+Epoch 29
+Epoch 29 czech Valid 17.522750542
+Epoch 29 french Valid 19.1176674338
+Epoch 29 czech Test 16.9400999159
+Epoch 29 french Test 20.1154335094
+Epoch 30
+Epoch 30 czech Valid 18.0934149391
+Epoch 30 french Valid 19.7590173856
+Epoch 30 czech Test 17.2443993816
+Epoch 30 french Test 20.7688454157

@@ -1,0 +1,121 @@
+Epoch 1
+Epoch 1 spanish Valid 8.95258917478
+Epoch 1 french Valid 7.78736242178
+Epoch 1 spanish Test 9.01277435791
+Epoch 1 french Test 8.81212150541
+Epoch 2
+Epoch 2 spanish Valid 15.2573131992
+Epoch 2 french Valid 13.3412144423
+Epoch 2 spanish Test 14.923081125
+Epoch 2 french Test 14.2081122365
+Epoch 3
+Epoch 3 spanish Valid 18.0996005036
+Epoch 3 french Valid 15.8763007936
+Epoch 3 spanish Test 17.6292572602
+Epoch 3 french Test 15.9979164121
+Epoch 4
+Epoch 4 spanish Valid 19.7483837138
+Epoch 4 french Valid 17.1880772821
+Epoch 4 spanish Test 19.4945634928
+Epoch 4 french Test 18.3045892708
+Epoch 5
+Epoch 5 spanish Valid 21.0760442344
+Epoch 5 french Valid 18.365340443
+Epoch 5 spanish Test 20.5836967688
+Epoch 5 french Test 18.9778588103
+Epoch 6
+Epoch 6 spanish Valid 21.0092461697
+Epoch 6 french Valid 18.3566697354
+Epoch 6 spanish Test 20.5915730198
+Epoch 6 french Test 19.2297954841
+Epoch 7
+Epoch 7 spanish Valid 21.7853329857
+Epoch 7 french Valid 19.5060304069
+Epoch 7 spanish Test 21.4686840827
+Epoch 7 french Test 20.3059749345
+Epoch 8
+Epoch 8 spanish Valid 22.3987076576
+Epoch 8 french Valid 19.2850261383
+Epoch 8 spanish Test 22.3490191305
+Epoch 8 french Test 20.0381119501
+Epoch 9
+Epoch 9 spanish Valid 22.6215627221
+Epoch 9 french Valid 19.6145630633
+Epoch 9 spanish Test 22.0948765968
+Epoch 9 french Test 20.7407665652
+Epoch 10
+Epoch 10 spanish Valid 22.801980545
+Epoch 10 french Valid 20.4546509111
+Epoch 10 spanish Test 22.7585483442
+Epoch 10 french Test 20.968922179
+Epoch 11
+Epoch 11 spanish Valid 23.4511789904
+Epoch 11 french Valid 19.9948029224
+Epoch 11 spanish Test 23.0285337851
+Epoch 11 french Test 20.829014036
+Epoch 12
+Epoch 12 spanish Valid 23.5202753339
+Epoch 12 french Valid 20.292204486
+Epoch 12 spanish Test 23.0971530568
+Epoch 12 french Test 21.1224110807
+Epoch 13
+Epoch 13 spanish Valid 23.755866526
+Epoch 13 french Valid 20.6841780403
+Epoch 13 spanish Test 23.3417413716
+Epoch 13 french Test 21.3672107168
+Epoch 14
+Epoch 14 spanish Valid 23.7000920889
+Epoch 14 french Valid 20.442139773
+Epoch 14 spanish Test 23.4067089293
+Epoch 14 french Test 21.0032716835
+Epoch 15
+Epoch 15 spanish Valid 23.8045680843
+Epoch 15 french Valid 20.7559063695
+Epoch 15 spanish Test 23.6366234734
+Epoch 15 french Test 21.8346636247
+Epoch 16
+Epoch 16 spanish Valid 24.0721877455
+Epoch 16 french Valid 20.9709994672
+Epoch 16 spanish Test 23.6491010072
+Epoch 16 french Test 21.7388756964
+Epoch 17
+Epoch 17 spanish Valid 24.0473058422
+Epoch 17 french Valid 22.0057093086
+Epoch 17 spanish Test 24.1742426727
+Epoch 17 french Test 22.8647500714
+Epoch 18
+Epoch 18 spanish Valid 24.2338604751
+Epoch 18 french Valid 21.3963605193
+Epoch 18 spanish Test 24.5803920431
+Epoch 18 french Test 22.0485039439
+Epoch 19
+Epoch 19 spanish Valid 23.6091100674
+Epoch 19 french Valid 21.39994452
+Epoch 19 spanish Test 23.8316134901
+Epoch 19 french Test 21.8643069848
+Epoch 20
+Epoch 20 spanish Valid 24.2946888538
+Epoch 20 french Valid 21.3907582272
+Epoch 20 spanish Test 24.3459117554
+Epoch 20 french Test 22.3332712626
+Epoch 21
+Epoch 21 spanish Valid 24.4272344571
+Epoch 21 french Valid 21.5227219735
+Epoch 21 spanish Test 24.4060628408
+Epoch 21 french Test 22.2489939089
+Epoch 22
+Epoch 22 spanish Valid 25.2401442459
+Epoch 22 french Valid 21.7970646542
+Epoch 22 spanish Test 24.997800704
+Epoch 22 french Test 22.3820445146
+Epoch 23
+Epoch 23 spanish Valid 25.2559210965
+Epoch 23 french Valid 22.1572646514
+Epoch 23 spanish Test 24.7853707779
+Epoch 23 french Test 22.9806017369
+Epoch 24
+Epoch 24 spanish Valid 24.436798401
+Epoch 24 french Valid 21.7860057983
+Epoch 24 spanish Test 23.8978300612
+Epoch 24 french Test 22.3708199553
+Epoch 25

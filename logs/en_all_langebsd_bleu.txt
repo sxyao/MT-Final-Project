@@ -1,0 +1,183 @@
+Epoch 1
+Epoch 1 czech Valid 5.91720877674
+Epoch 1 czech Test 5.61806298089
+Epoch 1 french Valid 10.3879891479
+Epoch 1 french Test 10.8824930439
+Epoch 1 spanish Valid 12.8749293667
+Epoch 1 spanish Test 12.5192764909
+Epoch 2
+Epoch 2 czech Valid 10.5032444308
+Epoch 2 czech Test 9.8498737696
+Epoch 2 french Valid 12.6641031365
+Epoch 2 french Test 13.6077378127
+Epoch 2 spanish Valid 16.3606745064
+Epoch 2 spanish Test 16.5399402694
+Epoch 3
+Epoch 3 czech Valid 11.5616309615
+Epoch 3 czech Test 11.0331569201
+Epoch 3 french Valid 15.8080566758
+Epoch 3 french Test 16.538579531
+Epoch 3 spanish Valid 18.4863113485
+Epoch 3 spanish Test 18.4871758269
+Epoch 4
+Epoch 4 czech Valid 13.3292233225
+Epoch 4 czech Test 12.671306204
+Epoch 4 french Valid 17.3432832088
+Epoch 4 french Test 17.6063113196
+Epoch 4 spanish Valid 19.844112921
+Epoch 4 spanish Test 19.7789262091
+Epoch 5
+Epoch 5 czech Valid 13.3925631468
+Epoch 5 czech Test 13.0809521084
+Epoch 5 french Valid 17.3832735918
+Epoch 5 french Test 18.0652934097
+Epoch 5 spanish Valid 20.4404027168
+Epoch 5 spanish Test 19.7945541659
+Epoch 6
+Epoch 6 czech Valid 13.2965651333
+Epoch 6 czech Test 12.8814221048
+Epoch 6 french Valid 17.7924226174
+Epoch 6 french Test 18.5367145206
+Epoch 6 spanish Valid 21.1453098899
+Epoch 6 spanish Test 20.9480973658
+Epoch 7
+Epoch 7 czech Valid 14.9055060673
+Epoch 7 czech Test 14.3720081862
+Epoch 7 french Valid 18.4237441463
+Epoch 7 french Test 19.4605371013
+Epoch 7 spanish Valid 21.4353067418
+Epoch 7 spanish Test 21.2257699591
+Epoch 8
+Epoch 8 czech Valid 14.8138389347
+Epoch 8 czech Test 14.4322389658
+Epoch 8 french Valid 17.9135586379
+Epoch 8 french Test 18.4585423645
+Epoch 8 spanish Valid 21.4790379327
+Epoch 8 spanish Test 21.0618740632
+Epoch 9
+Epoch 9 czech Valid 15.1345981865
+Epoch 9 czech Test 14.3911090965
+Epoch 9 french Valid 18.4054781758
+Epoch 9 french Test 19.4883800464
+Epoch 9 spanish Valid 21.7777272149
+Epoch 9 spanish Test 21.2064245028
+Epoch 10
+Epoch 10 czech Valid 15.1633976284
+Epoch 10 czech Test 14.7098321645
+Epoch 10 french Valid 19.0932157611
+Epoch 10 french Test 19.961135065
+Epoch 10 spanish Valid 22.1810986316
+Epoch 10 spanish Test 21.5747661832
+Epoch 11
+Epoch 11 czech Valid 15.4409910718
+Epoch 11 czech Test 15.0108786719
+Epoch 11 french Valid 18.8454672261
+Epoch 11 french Test 20.0934962359
+Epoch 11 spanish Valid 22.003301454
+Epoch 11 spanish Test 21.7833126068
+Epoch 12
+Epoch 12 czech Valid 14.9297207511
+Epoch 12 czech Test 14.6999168603
+Epoch 12 french Valid 19.0289878594
+Epoch 12 french Test 19.8739233912
+Epoch 12 spanish Valid 22.0085289577
+Epoch 12 spanish Test 21.9093438094
+Epoch 13
+Epoch 13 czech Valid 15.7709162657
+Epoch 13 czech Test 15.2724047228
+Epoch 13 french Valid 19.475519384
+Epoch 13 french Test 20.4628720547
+Epoch 13 spanish Valid 22.380754652
+Epoch 13 spanish Test 22.0381816008
+Epoch 14
+Epoch 14 czech Valid 15.9616007822
+Epoch 14 czech Test 15.7466948573
+Epoch 14 french Valid 19.3940884817
+Epoch 14 french Test 20.8924804931
+Epoch 14 spanish Valid 22.2230179807
+Epoch 14 spanish Test 21.7515620596
+Epoch 15
+Epoch 15 czech Valid 16.1596442963
+Epoch 15 czech Test 15.691580923
+Epoch 15 french Valid 19.6549774715
+Epoch 15 french Test 20.7670495548
+Epoch 15 spanish Valid 22.5404564068
+Epoch 15 spanish Test 22.4534106535
+Epoch 16
+Epoch 16 czech Valid 16.0658695982
+Epoch 16 czech Test 15.6478274303
+Epoch 16 french Valid 18.9857610911
+Epoch 16 french Test 19.87332863
+Epoch 16 spanish Valid 22.1337528613
+Epoch 16 spanish Test 22.1224954895
+Epoch 17
+Epoch 17 czech Valid 15.7174129596
+Epoch 17 czech Test 15.5550581517
+Epoch 17 french Valid 19.3179604675
+Epoch 17 french Test 20.2853809276
+Epoch 17 spanish Valid 22.5249895168
+Epoch 17 spanish Test 22.4055417684
+Epoch 18
+Epoch 18 czech Valid 15.2709107963
+Epoch 18 czech Test 15.2950684894
+Epoch 18 french Valid 19.480425843
+Epoch 18 french Test 20.2451437841
+Epoch 18 spanish Valid 22.7923125097
+Epoch 18 spanish Test 22.455274022
+Epoch 19
+Epoch 19 czech Valid 15.7817895703
+Epoch 19 czech Test 15.5304657641
+Epoch 19 french Valid 19.7937780269
+Epoch 19 french Test 20.8727468764
+Epoch 19 spanish Valid 22.4100539996
+Epoch 19 spanish Test 22.2755233031
+Epoch 20
+Epoch 20 czech Valid 16.7658453142
+Epoch 20 czech Test 16.1346867381
+Epoch 20 french Valid 19.6831259339
+Epoch 20 french Test 20.8293630605
+Epoch 20 spanish Valid 22.6385413481
+Epoch 20 spanish Test 22.5343442716
+Epoch 21
+Epoch 21 czech Valid 16.4977462051
+Epoch 21 czech Test 15.9297726134
+Epoch 21 french Valid 19.5982381845
+Epoch 21 french Test 20.6818846636
+Epoch 21 spanish Valid 23.0311359847
+Epoch 21 spanish Test 22.5488807789
+Epoch 22
+Epoch 22 czech Valid 16.4751794947
+Epoch 22 czech Test 15.9925626714
+Epoch 22 french Valid 19.589036899
+Epoch 22 french Test 21.045656989
+Epoch 22 spanish Valid 23.0726675612
+Epoch 22 spanish Test 22.5803802873
+Epoch 23
+Epoch 23 czech Valid 16.1402484021
+Epoch 23 czech Test 15.9559598689
+Epoch 23 french Valid 19.3125857104
+Epoch 23 french Test 20.5831828716
+Epoch 23 spanish Valid 22.8159902039
+Epoch 23 spanish Test 22.4711454083
+Epoch 24
+Epoch 24 czech Valid 16.270697321
+Epoch 24 czech Test 15.718027109
+Epoch 24 french Valid 19.1428744963
+Epoch 24 french Test 20.3901072208
+Epoch 24 spanish Valid 22.6033098079
+Epoch 24 spanish Test 22.1885083263
+Epoch 25
+Epoch 25 czech Valid 16.4137004985
+Epoch 25 czech Test 15.7906938207
+Epoch 25 french Valid 19.4296902808
+Epoch 25 french Test 20.3336953474
+Epoch 25 spanish Valid 23.1321381007
+Epoch 25 spanish Test 22.3373797959
+Epoch 26
+Epoch 26 czech Valid 17.1219119595
+Epoch 26 czech Test 15.881086462
+Epoch 26 french Valid 19.359710743
+Epoch 26 french Test 20.0518104854
+Epoch 26 spanish Valid 22.7781112415
+Epoch 26 spanish Test 22.2047658218
+Epoch 27
